@@ -1,29 +1,4 @@
 # nfl-free-agency-tracker
+<p>NFL Free Agency Graph is a node network visualization that has many interactions allowing you to sift through the noise and explore the complex decisions organizations are making - on which players to keep, trade for, or release.</p>
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Alt text](docs/hover2.png)
