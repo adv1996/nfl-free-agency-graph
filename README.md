@@ -7,6 +7,7 @@
 <li>Hover/Touch Team (square nodes) to See Players that are resigining with them, leaving, or joining</li>
 <li>Size of Player node is square root of their annual salary / 100000</li>
 <li>Use the legend to see what colors represent specific player movement</li>
+<li>Zoom in and Out to drill down on specific teams or view the graph as a whole</li>
 </ol>
 
 ![Alt text](https://github.com/adv1996/nfl-free-agency-graph/blob/master/docs/hover_player.png)
