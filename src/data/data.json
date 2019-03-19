@@ -1,0 +1,8369 @@
+{
+  "links": [
+    {
+      "source": 0,
+      "target": 32
+    },
+    {
+      "source": 32,
+      "target": 1
+    },
+    {
+      "source": 2,
+      "target": 33
+    },
+    {
+      "source": 33,
+      "target": 3
+    },
+    {
+      "source": 1,
+      "target": 34
+    },
+    {
+      "source": 34,
+      "target": 4
+    },
+    {
+      "source": 7,
+      "target": 37
+    },
+    {
+      "source": 37,
+      "target": 7
+    },
+    {
+      "source": 8,
+      "target": 38
+    },
+    {
+      "source": 38,
+      "target": 9
+    },
+    {
+      "source": 2,
+      "target": 39
+    },
+    {
+      "source": 39,
+      "target": 3
+    },
+    {
+      "source": 5,
+      "target": 41
+    },
+    {
+      "source": 41,
+      "target": 5
+    },
+    {
+      "source": 8,
+      "target": 42
+    },
+    {
+      "source": 42,
+      "target": 11
+    },
+    {
+      "source": 12,
+      "target": 43
+    },
+    {
+      "source": 43,
+      "target": 5
+    },
+    {
+      "source": 3,
+      "target": 51
+    },
+    {
+      "source": 51,
+      "target": 2
+    },
+    {
+      "source": 9,
+      "target": 52
+    },
+    {
+      "source": 52,
+      "target": 11
+    },
+    {
+      "source": 14,
+      "target": 53
+    },
+    {
+      "source": 53,
+      "target": 9
+    },
+    {
+      "source": 16,
+      "target": 54
+    },
+    {
+      "source": 54,
+      "target": 12
+    },
+    {
+      "source": 20,
+      "target": 55
+    },
+    {
+      "source": 55,
+      "target": 20
+    },
+    {
+      "source": 17,
+      "target": 56
+    },
+    {
+      "source": 56,
+      "target": 17
+    },
+    {
+      "source": 18,
+      "target": 57
+    },
+    {
+      "source": 57,
+      "target": 0
+    },
+    {
+      "source": 12,
+      "target": 60
+    },
+    {
+      "source": 60,
+      "target": 19
+    },
+    {
+      "source": 24,
+      "target": 62
+    },
+    {
+      "source": 62,
+      "target": 20
+    },
+    {
+      "source": 27,
+      "target": 65
+    },
+    {
+      "source": 65,
+      "target": 25
+    },
+    {
+      "source": 12,
+      "target": 66
+    },
+    {
+      "source": 66,
+      "target": 12
+    },
+    {
+      "source": 8,
+      "target": 68
+    },
+    {
+      "source": 68,
+      "target": 8
+    },
+    {
+      "source": 13,
+      "target": 69
+    },
+    {
+      "source": 69,
+      "target": 1
+    },
+    {
+      "source": 22,
+      "target": 70
+    },
+    {
+      "source": 70,
+      "target": 3
+    },
+    {
+      "source": 29,
+      "target": 74
+    },
+    {
+      "source": 74,
+      "target": 20
+    },
+    {
+      "source": 5,
+      "target": 75
+    },
+    {
+      "source": 75,
+      "target": 13
+    },
+    {
+      "source": 13,
+      "target": 77
+    },
+    {
+      "source": 77,
+      "target": 13
+    },
+    {
+      "source": 12,
+      "target": 80
+    },
+    {
+      "source": 80,
+      "target": 12
+    },
+    {
+      "source": 7,
+      "target": 84
+    },
+    {
+      "source": 84,
+      "target": 7
+    },
+    {
+      "source": 13,
+      "target": 86
+    },
+    {
+      "source": 86,
+      "target": 10
+    },
+    {
+      "source": 11,
+      "target": 89
+    },
+    {
+      "source": 89,
+      "target": 29
+    },
+    {
+      "source": 21,
+      "target": 90
+    },
+    {
+      "source": 90,
+      "target": 28
+    },
+    {
+      "source": 12,
+      "target": 94
+    },
+    {
+      "source": 94,
+      "target": 12
+    },
+    {
+      "source": 0,
+      "target": 95
+    },
+    {
+      "source": 95,
+      "target": 14
+    },
+    {
+      "source": 14,
+      "target": 99
+    },
+    {
+      "source": 99,
+      "target": 25
+    },
+    {
+      "source": 12,
+      "target": 100
+    },
+    {
+      "source": 100,
+      "target": 12
+    },
+    {
+      "source": 11,
+      "target": 103
+    },
+    {
+      "source": 103,
+      "target": 17
+    },
+    {
+      "source": 12,
+      "target": 104
+    },
+    {
+      "source": 104,
+      "target": 2
+    },
+    {
+      "source": 8,
+      "target": 105
+    },
+    {
+      "source": 105,
+      "target": 20
+    },
+    {
+      "source": 27,
+      "target": 108
+    },
+    {
+      "source": 108,
+      "target": 6
+    },
+    {
+      "source": 17,
+      "target": 109
+    },
+    {
+      "source": 109,
+      "target": 17
+    },
+    {
+      "source": 14,
+      "target": 111
+    },
+    {
+      "source": 111,
+      "target": 14
+    },
+    {
+      "source": 19,
+      "target": 117
+    },
+    {
+      "source": 117,
+      "target": 27
+    },
+    {
+      "source": 23,
+      "target": 118
+    },
+    {
+      "source": 118,
+      "target": 23
+    },
+    {
+      "source": 5,
+      "target": 122
+    },
+    {
+      "source": 122,
+      "target": 10
+    },
+    {
+      "source": 0,
+      "target": 124
+    },
+    {
+      "source": 124,
+      "target": 29
+    },
+    {
+      "source": 31,
+      "target": 129
+    },
+    {
+      "source": 129,
+      "target": 31
+    },
+    {
+      "source": 16,
+      "target": 133
+    },
+    {
+      "source": 133,
+      "target": 16
+    },
+    {
+      "source": 11,
+      "target": 135
+    },
+    {
+      "source": 135,
+      "target": 24
+    },
+    {
+      "source": 24,
+      "target": 138
+    },
+    {
+      "source": 138,
+      "target": 20
+    },
+    {
+      "source": 28,
+      "target": 139
+    },
+    {
+      "source": 139,
+      "target": 28
+    },
+    {
+      "source": 19,
+      "target": 145
+    },
+    {
+      "source": 145,
+      "target": 17
+    },
+    {
+      "source": 24,
+      "target": 153
+    },
+    {
+      "source": 153,
+      "target": 24
+    },
+    {
+      "source": 22,
+      "target": 160
+    },
+    {
+      "source": 160,
+      "target": 30
+    },
+    {
+      "source": 13,
+      "target": 161
+    },
+    {
+      "source": 161,
+      "target": 13
+    },
+    {
+      "source": 26,
+      "target": 167
+    },
+    {
+      "source": 167,
+      "target": 26
+    },
+    {
+      "source": 11,
+      "target": 168
+    },
+    {
+      "source": 168,
+      "target": 11
+    },
+    {
+      "source": 7,
+      "target": 175
+    },
+    {
+      "source": 175,
+      "target": 29
+    },
+    {
+      "source": 8,
+      "target": 178
+    },
+    {
+      "source": 178,
+      "target": 8
+    },
+    {
+      "source": 22,
+      "target": 180
+    },
+    {
+      "source": 180,
+      "target": 22
+    },
+    {
+      "source": 8,
+      "target": 181
+    },
+    {
+      "source": 181,
+      "target": 8
+    },
+    {
+      "source": 29,
+      "target": 184
+    },
+    {
+      "source": 184,
+      "target": 29
+    },
+    {
+      "source": 1,
+      "target": 187
+    },
+    {
+      "source": 187,
+      "target": 21
+    },
+    {
+      "source": 16,
+      "target": 188
+    },
+    {
+      "source": 188,
+      "target": 25
+    },
+    {
+      "source": 28,
+      "target": 189
+    },
+    {
+      "source": 189,
+      "target": 9
+    },
+    {
+      "source": 18,
+      "target": 191
+    },
+    {
+      "source": 191,
+      "target": 6
+    },
+    {
+      "source": 27,
+      "target": 199
+    },
+    {
+      "source": 199,
+      "target": 27
+    },
+    {
+      "source": 3,
+      "target": 203
+    },
+    {
+      "source": 203,
+      "target": 2
+    },
+    {
+      "source": 13,
+      "target": 204
+    },
+    {
+      "source": 204,
+      "target": 29
+    },
+    {
+      "source": 19,
+      "target": 215
+    },
+    {
+      "source": 215,
+      "target": 19
+    },
+    {
+      "source": 0,
+      "target": 220
+    },
+    {
+      "source": 220,
+      "target": 11
+    },
+    {
+      "source": 27,
+      "target": 221
+    },
+    {
+      "source": 221,
+      "target": 1
+    },
+    {
+      "source": 15,
+      "target": 222
+    },
+    {
+      "source": 222,
+      "target": 15
+    },
+    {
+      "source": 18,
+      "target": 224
+    },
+    {
+      "source": 224,
+      "target": 22
+    },
+    {
+      "source": 9,
+      "target": 226
+    },
+    {
+      "source": 226,
+      "target": 9
+    },
+    {
+      "source": 26,
+      "target": 227
+    },
+    {
+      "source": 227,
+      "target": 26
+    },
+    {
+      "source": 10,
+      "target": 229
+    },
+    {
+      "source": 229,
+      "target": 23
+    },
+    {
+      "source": 23,
+      "target": 238
+    },
+    {
+      "source": 238,
+      "target": 23
+    },
+    {
+      "source": 1,
+      "target": 240
+    },
+    {
+      "source": 240,
+      "target": 15
+    },
+    {
+      "source": 28,
+      "target": 244
+    },
+    {
+      "source": 244,
+      "target": 23
+    },
+    {
+      "source": 20,
+      "target": 246
+    },
+    {
+      "source": 246,
+      "target": 16
+    },
+    {
+      "source": 17,
+      "target": 255
+    },
+    {
+      "source": 255,
+      "target": 11
+    },
+    {
+      "source": 27,
+      "target": 261
+    },
+    {
+      "source": 261,
+      "target": 17
+    },
+    {
+      "source": 23,
+      "target": 266
+    },
+    {
+      "source": 266,
+      "target": 23
+    },
+    {
+      "source": 26,
+      "target": 271
+    },
+    {
+      "source": 271,
+      "target": 26
+    },
+    {
+      "source": 1,
+      "target": 274
+    },
+    {
+      "source": 274,
+      "target": 13
+    },
+    {
+      "source": 30,
+      "target": 279
+    },
+    {
+      "source": 279,
+      "target": 30
+    },
+    {
+      "source": 10,
+      "target": 283
+    },
+    {
+      "source": 283,
+      "target": 3
+    },
+    {
+      "source": 2,
+      "target": 284
+    },
+    {
+      "source": 284,
+      "target": 4
+    },
+    {
+      "source": 16,
+      "target": 286
+    },
+    {
+      "source": 286,
+      "target": 16
+    },
+    {
+      "source": 18,
+      "target": 299
+    },
+    {
+      "source": 299,
+      "target": 18
+    },
+    {
+      "source": 4,
+      "target": 305
+    },
+    {
+      "source": 305,
+      "target": 15
+    },
+    {
+      "source": 25,
+      "target": 309
+    },
+    {
+      "source": 309,
+      "target": 25
+    },
+    {
+      "source": 26,
+      "target": 311
+    },
+    {
+      "source": 311,
+      "target": 26
+    },
+    {
+      "source": 21,
+      "target": 313
+    },
+    {
+      "source": 313,
+      "target": 21
+    },
+    {
+      "source": 21,
+      "target": 314
+    },
+    {
+      "source": 314,
+      "target": 26
+    },
+    {
+      "source": 17,
+      "target": 315
+    },
+    {
+      "source": 315,
+      "target": 3
+    },
+    {
+      "source": 18,
+      "target": 318
+    },
+    {
+      "source": 318,
+      "target": 17
+    },
+    {
+      "source": 30,
+      "target": 320
+    },
+    {
+      "source": 320,
+      "target": 30
+    },
+    {
+      "source": 16,
+      "target": 322
+    },
+    {
+      "source": 322,
+      "target": 16
+    },
+    {
+      "source": 13,
+      "target": 329
+    },
+    {
+      "source": 329,
+      "target": 13
+    },
+    {
+      "source": 19,
+      "target": 330
+    },
+    {
+      "source": 330,
+      "target": 27
+    },
+    {
+      "source": 21,
+      "target": 331
+    },
+    {
+      "source": 331,
+      "target": 21
+    },
+    {
+      "source": 28,
+      "target": 332
+    },
+    {
+      "source": 332,
+      "target": 28
+    },
+    {
+      "source": 10,
+      "target": 333
+    },
+    {
+      "source": 333,
+      "target": 29
+    },
+    {
+      "source": 27,
+      "target": 337
+    },
+    {
+      "source": 337,
+      "target": 29
+    },
+    {
+      "source": 6,
+      "target": 339
+    },
+    {
+      "source": 339,
+      "target": 6
+    },
+    {
+      "source": 29,
+      "target": 347
+    },
+    {
+      "source": 347,
+      "target": 29
+    },
+    {
+      "source": 29,
+      "target": 348
+    },
+    {
+      "source": 348,
+      "target": 29
+    },
+    {
+      "source": 27,
+      "target": 360
+    },
+    {
+      "source": 360,
+      "target": 27
+    },
+    {
+      "source": 4,
+      "target": 361
+    },
+    {
+      "source": 361,
+      "target": 4
+    },
+    {
+      "source": 11,
+      "target": 365
+    },
+    {
+      "source": 365,
+      "target": 29
+    },
+    {
+      "source": 31,
+      "target": 370
+    },
+    {
+      "source": 370,
+      "target": 31
+    },
+    {
+      "source": 3,
+      "target": 375
+    },
+    {
+      "source": 375,
+      "target": 3
+    },
+    {
+      "source": 20,
+      "target": 379
+    },
+    {
+      "source": 379,
+      "target": 2
+    },
+    {
+      "source": 24,
+      "target": 380
+    },
+    {
+      "source": 380,
+      "target": 24
+    },
+    {
+      "source": 18,
+      "target": 382
+    },
+    {
+      "source": 382,
+      "target": 18
+    },
+    {
+      "source": 23,
+      "target": 385
+    },
+    {
+      "source": 385,
+      "target": 23
+    },
+    {
+      "source": 2,
+      "target": 408
+    },
+    {
+      "source": 408,
+      "target": 9
+    },
+    {
+      "source": 8,
+      "target": 412
+    },
+    {
+      "source": 412,
+      "target": 8
+    },
+    {
+      "source": 12,
+      "target": 420
+    },
+    {
+      "source": 420,
+      "target": 12
+    },
+    {
+      "source": 24,
+      "target": 423
+    },
+    {
+      "source": 423,
+      "target": 24
+    },
+    {
+      "source": 28,
+      "target": 425
+    },
+    {
+      "source": 425,
+      "target": 28
+    },
+    {
+      "source": 23,
+      "target": 431
+    },
+    {
+      "source": 431,
+      "target": 23
+    },
+    {
+      "source": 27,
+      "target": 433
+    },
+    {
+      "source": 433,
+      "target": 19
+    },
+    {
+      "source": 5,
+      "target": 435
+    },
+    {
+      "source": 435,
+      "target": 5
+    },
+    {
+      "source": 2,
+      "target": 437
+    },
+    {
+      "source": 437,
+      "target": 31
+    },
+    {
+      "source": 2,
+      "target": 438
+    },
+    {
+      "source": 438,
+      "target": 24
+    },
+    {
+      "source": 24,
+      "target": 440
+    },
+    {
+      "source": 440,
+      "target": 23
+    },
+    {
+      "source": 12,
+      "target": 441
+    },
+    {
+      "source": 441,
+      "target": 12
+    },
+    {
+      "source": 19,
+      "target": 444
+    },
+    {
+      "source": 444,
+      "target": 19
+    },
+    {
+      "source": 16,
+      "target": 452
+    },
+    {
+      "source": 452,
+      "target": 16
+    },
+    {
+      "source": 5,
+      "target": 464
+    },
+    {
+      "source": 464,
+      "target": 5
+    },
+    {
+      "source": 24,
+      "target": 466
+    },
+    {
+      "source": 466,
+      "target": 24
+    },
+    {
+      "source": 30,
+      "target": 474
+    },
+    {
+      "source": 474,
+      "target": 30
+    },
+    {
+      "source": 3,
+      "target": 475
+    },
+    {
+      "source": 475,
+      "target": 3
+    },
+    {
+      "source": 24,
+      "target": 489
+    },
+    {
+      "source": 489,
+      "target": 24
+    },
+    {
+      "source": 19,
+      "target": 490
+    },
+    {
+      "source": 490,
+      "target": 19
+    },
+    {
+      "source": 16,
+      "target": 491
+    },
+    {
+      "source": 491,
+      "target": 16
+    },
+    {
+      "source": 29,
+      "target": 495
+    },
+    {
+      "source": 495,
+      "target": 29
+    },
+    {
+      "source": 31,
+      "target": 508
+    },
+    {
+      "source": 508,
+      "target": 29
+    },
+    {
+      "source": 12,
+      "target": 510
+    },
+    {
+      "source": 510,
+      "target": 20
+    },
+    {
+      "source": 13,
+      "target": 512
+    },
+    {
+      "source": 512,
+      "target": 13
+    },
+    {
+      "source": 3,
+      "target": 514
+    },
+    {
+      "source": 514,
+      "target": 3
+    },
+    {
+      "source": 0,
+      "target": 517
+    },
+    {
+      "source": 517,
+      "target": 0
+    },
+    {
+      "source": 10,
+      "target": 519
+    },
+    {
+      "source": 519,
+      "target": 8
+    },
+    {
+      "source": 19,
+      "target": 521
+    },
+    {
+      "source": 521,
+      "target": 6
+    },
+    {
+      "source": 21,
+      "target": 522
+    },
+    {
+      "source": 522,
+      "target": 21
+    },
+    {
+      "source": 4,
+      "target": 523
+    },
+    {
+      "source": 523,
+      "target": 11
+    },
+    {
+      "source": 23,
+      "target": 528
+    },
+    {
+      "source": 528,
+      "target": 23
+    },
+    {
+      "source": 11,
+      "target": 533
+    },
+    {
+      "source": 533,
+      "target": 18
+    },
+    {
+      "source": 22,
+      "target": 538
+    },
+    {
+      "source": 538,
+      "target": 22
+    },
+    {
+      "source": 14,
+      "target": 541
+    },
+    {
+      "source": 541,
+      "target": 14
+    },
+    {
+      "source": 9,
+      "target": 542
+    },
+    {
+      "source": 542,
+      "target": 9
+    },
+    {
+      "source": 3,
+      "target": 545
+    },
+    {
+      "source": 545,
+      "target": 16
+    },
+    {
+      "source": 2,
+      "target": 546
+    },
+    {
+      "source": 546,
+      "target": 2
+    },
+    {
+      "source": 1,
+      "target": 549
+    },
+    {
+      "source": 549,
+      "target": 1
+    },
+    {
+      "source": 6,
+      "target": 552
+    },
+    {
+      "source": 552,
+      "target": 19
+    },
+    {
+      "source": 0,
+      "target": 562
+    },
+    {
+      "source": 562,
+      "target": 15
+    },
+    {
+      "source": 16,
+      "target": 563
+    },
+    {
+      "source": 563,
+      "target": 23
+    },
+    {
+      "source": 7,
+      "target": 565
+    },
+    {
+      "source": 565,
+      "target": 10
+    },
+    {
+      "source": 9,
+      "target": 566
+    },
+    {
+      "source": 566,
+      "target": 29
+    },
+    {
+      "source": 13,
+      "target": 570
+    },
+    {
+      "source": 570,
+      "target": 3
+    },
+    {
+      "source": 5,
+      "target": 573
+    },
+    {
+      "source": 573,
+      "target": 5
+    },
+    {
+      "source": 8,
+      "target": 574
+    },
+    {
+      "source": 574,
+      "target": 12
+    },
+    {
+      "source": 21,
+      "target": 577
+    },
+    {
+      "source": 577,
+      "target": 21
+    },
+    {
+      "source": 3,
+      "target": 581
+    },
+    {
+      "source": 581,
+      "target": 20
+    },
+    {
+      "source": 24,
+      "target": 582
+    },
+    {
+      "source": 582,
+      "target": 24
+    },
+    {
+      "source": 9,
+      "target": 583
+    },
+    {
+      "source": 583,
+      "target": 9
+    },
+    {
+      "source": 18,
+      "target": 588
+    },
+    {
+      "source": 588,
+      "target": 18
+    },
+    {
+      "source": 8,
+      "target": 589
+    },
+    {
+      "source": 589,
+      "target": 8
+    },
+    {
+      "source": 26,
+      "target": 590
+    },
+    {
+      "source": 590,
+      "target": 26
+    },
+    {
+      "source": 14,
+      "target": 591
+    },
+    {
+      "source": 591,
+      "target": 14
+    },
+    {
+      "source": 20,
+      "target": 592
+    },
+    {
+      "source": 592,
+      "target": 20
+    },
+    {
+      "source": 2,
+      "target": 595
+    },
+    {
+      "source": 595,
+      "target": 2
+    },
+    {
+      "source": 1,
+      "target": 597
+    },
+    {
+      "source": 597,
+      "target": 1
+    },
+    {
+      "source": 9,
+      "target": 600
+    },
+    {
+      "source": 600,
+      "target": 9
+    },
+    {
+      "source": 2,
+      "target": 602
+    },
+    {
+      "source": 602,
+      "target": 2
+    },
+    {
+      "source": 0,
+      "target": 604
+    },
+    {
+      "source": 604,
+      "target": 0
+    },
+    {
+      "source": 7,
+      "target": 605
+    },
+    {
+      "source": 605,
+      "target": 7
+    },
+    {
+      "source": 8,
+      "target": 607
+    },
+    {
+      "source": 607,
+      "target": 8
+    },
+    {
+      "source": 29,
+      "target": 608
+    },
+    {
+      "source": 608,
+      "target": 29
+    },
+    {
+      "source": 15,
+      "target": 614
+    },
+    {
+      "source": 614,
+      "target": 15
+    },
+    {
+      "source": 8,
+      "target": 625
+    },
+    {
+      "source": 625,
+      "target": 8
+    },
+    {
+      "source": 26,
+      "target": 626
+    },
+    {
+      "source": 626,
+      "target": 26
+    },
+    {
+      "source": 16,
+      "target": 627
+    },
+    {
+      "source": 627,
+      "target": 16
+    },
+    {
+      "source": 10,
+      "target": 628
+    },
+    {
+      "source": 628,
+      "target": 10
+    },
+    {
+      "source": 26,
+      "target": 631
+    },
+    {
+      "source": 631,
+      "target": 26
+    },
+    {
+      "source": 17,
+      "target": 634
+    },
+    {
+      "source": 634,
+      "target": 15
+    },
+    {
+      "source": 31,
+      "target": 639
+    },
+    {
+      "source": 639,
+      "target": 31
+    },
+    {
+      "source": 20,
+      "target": 641
+    },
+    {
+      "source": 641,
+      "target": 9
+    },
+    {
+      "source": 8,
+      "target": 642
+    },
+    {
+      "source": 642,
+      "target": 6
+    },
+    {
+      "source": 23,
+      "target": 643
+    },
+    {
+      "source": 643,
+      "target": 16
+    },
+    {
+      "source": 0,
+      "target": 648
+    },
+    {
+      "source": 648,
+      "target": 0
+    },
+    {
+      "source": 28,
+      "target": 651
+    },
+    {
+      "source": 651,
+      "target": 28
+    },
+    {
+      "source": 13,
+      "target": 654
+    },
+    {
+      "source": 654,
+      "target": 7
+    },
+    {
+      "source": 12,
+      "target": 659
+    },
+    {
+      "source": 659,
+      "target": 12
+    },
+    {
+      "source": 25,
+      "target": 661
+    },
+    {
+      "source": 661,
+      "target": 25
+    },
+    {
+      "source": 3,
+      "target": 664
+    },
+    {
+      "source": 664,
+      "target": 3
+    },
+    {
+      "source": 17,
+      "target": 665
+    },
+    {
+      "source": 665,
+      "target": 17
+    },
+    {
+      "source": 4,
+      "target": 667
+    },
+    {
+      "source": 667,
+      "target": 4
+    },
+    {
+      "source": 20,
+      "target": 668
+    },
+    {
+      "source": 668,
+      "target": 20
+    },
+    {
+      "source": 7,
+      "target": 669
+    },
+    {
+      "source": 669,
+      "target": 7
+    },
+    {
+      "source": 19,
+      "target": 672
+    },
+    {
+      "source": 672,
+      "target": 9
+    },
+    {
+      "source": 11,
+      "target": 674
+    },
+    {
+      "source": 674,
+      "target": 11
+    },
+    {
+      "source": 18,
+      "target": 682
+    },
+    {
+      "source": 682,
+      "target": 18
+    },
+    {
+      "source": 0,
+      "target": 683
+    },
+    {
+      "source": 683,
+      "target": 0
+    },
+    {
+      "source": 29,
+      "target": 684
+    },
+    {
+      "source": 684,
+      "target": 29
+    },
+    {
+      "source": 11,
+      "target": 686
+    },
+    {
+      "source": 686,
+      "target": 11
+    },
+    {
+      "source": 30,
+      "target": 688
+    },
+    {
+      "source": 688,
+      "target": 30
+    },
+    {
+      "source": 15,
+      "target": 689
+    },
+    {
+      "source": 689,
+      "target": 15
+    },
+    {
+      "source": 8,
+      "target": 690
+    },
+    {
+      "source": 690,
+      "target": 8
+    },
+    {
+      "source": 8,
+      "target": 691
+    },
+    {
+      "source": 691,
+      "target": 8
+    },
+    {
+      "source": 15,
+      "target": 692
+    },
+    {
+      "source": 692,
+      "target": 15
+    },
+    {
+      "source": 11,
+      "target": 693
+    },
+    {
+      "source": 693,
+      "target": 11
+    },
+    {
+      "source": 20,
+      "target": 694
+    },
+    {
+      "source": 694,
+      "target": 20
+    },
+    {
+      "source": 23,
+      "target": 695
+    },
+    {
+      "source": 695,
+      "target": 23
+    },
+    {
+      "source": 2,
+      "target": 697
+    },
+    {
+      "source": 697,
+      "target": 2
+    },
+    {
+      "source": 11,
+      "target": 698
+    },
+    {
+      "source": 698,
+      "target": 11
+    },
+    {
+      "source": 1,
+      "target": 699
+    },
+    {
+      "source": 699,
+      "target": 1
+    },
+    {
+      "source": 14,
+      "target": 701
+    },
+    {
+      "source": 701,
+      "target": 14
+    },
+    {
+      "source": 8,
+      "target": 702
+    },
+    {
+      "source": 702,
+      "target": 8
+    },
+    {
+      "source": 2,
+      "target": 703
+    },
+    {
+      "source": 703,
+      "target": 2
+    },
+    {
+      "source": 1,
+      "target": 704
+    },
+    {
+      "source": 704,
+      "target": 1
+    },
+    {
+      "source": 2,
+      "target": 705
+    },
+    {
+      "source": 705,
+      "target": 2
+    },
+    {
+      "source": 28,
+      "target": 707
+    },
+    {
+      "source": 707,
+      "target": 28
+    },
+    {
+      "source": 3,
+      "target": 708
+    },
+    {
+      "source": 708,
+      "target": 3
+    },
+    {
+      "source": 16,
+      "target": 710
+    },
+    {
+      "source": 710,
+      "target": 16
+    },
+    {
+      "source": 11,
+      "target": 711
+    },
+    {
+      "source": 711,
+      "target": 11
+    },
+    {
+      "source": 27,
+      "target": 713
+    },
+    {
+      "source": 713,
+      "target": 27
+    },
+    {
+      "source": 11,
+      "target": 714
+    },
+    {
+      "source": 714,
+      "target": 11
+    },
+    {
+      "source": 27,
+      "target": 715
+    },
+    {
+      "source": 715,
+      "target": 27
+    },
+    {
+      "source": 0,
+      "target": 716
+    },
+    {
+      "source": 716,
+      "target": 0
+    },
+    {
+      "source": 8,
+      "target": 717
+    },
+    {
+      "source": 717,
+      "target": 8
+    },
+    {
+      "source": 30,
+      "target": 718
+    },
+    {
+      "source": 718,
+      "target": 30
+    },
+    {
+      "source": 22,
+      "target": 719
+    },
+    {
+      "source": 719,
+      "target": 22
+    },
+    {
+      "source": 14,
+      "target": 720
+    },
+    {
+      "source": 720,
+      "target": 14
+    },
+    {
+      "source": 2,
+      "target": 721
+    },
+    {
+      "source": 721,
+      "target": 2
+    },
+    {
+      "source": 18,
+      "target": 722
+    },
+    {
+      "source": 722,
+      "target": 18
+    },
+    {
+      "source": 21,
+      "target": 723
+    },
+    {
+      "source": 723,
+      "target": 21
+    },
+    {
+      "source": 6,
+      "target": 725
+    },
+    {
+      "source": 725,
+      "target": 6
+    },
+    {
+      "source": 13,
+      "target": 726
+    },
+    {
+      "source": 726,
+      "target": 13
+    },
+    {
+      "source": 0,
+      "target": 727
+    },
+    {
+      "source": 727,
+      "target": 0
+    },
+    {
+      "source": 19,
+      "target": 728
+    },
+    {
+      "source": 728,
+      "target": 19
+    },
+    {
+      "source": 11,
+      "target": 729
+    },
+    {
+      "source": 729,
+      "target": 11
+    },
+    {
+      "source": 26,
+      "target": 730
+    },
+    {
+      "source": 730,
+      "target": 26
+    },
+    {
+      "source": 13,
+      "target": 731
+    },
+    {
+      "source": 731,
+      "target": 13
+    },
+    {
+      "source": 17,
+      "target": 732
+    },
+    {
+      "source": 732,
+      "target": 17
+    },
+    {
+      "source": 13,
+      "target": 734
+    },
+    {
+      "source": 734,
+      "target": 13
+    },
+    {
+      "source": 3,
+      "target": 736
+    },
+    {
+      "source": 736,
+      "target": 13
+    },
+    {
+      "source": 30,
+      "target": 737
+    },
+    {
+      "source": 737,
+      "target": 30
+    },
+    {
+      "source": 5,
+      "target": 738
+    },
+    {
+      "source": 738,
+      "target": 5
+    },
+    {
+      "source": 6,
+      "target": 739
+    },
+    {
+      "source": 739,
+      "target": 6
+    },
+    {
+      "source": 24,
+      "target": 740
+    },
+    {
+      "source": 740,
+      "target": 11
+    },
+    {
+      "source": 2,
+      "target": 743
+    },
+    {
+      "source": 743,
+      "target": 2
+    },
+    {
+      "source": 22,
+      "target": 744
+    },
+    {
+      "source": 744,
+      "target": 22
+    },
+    {
+      "source": 26,
+      "target": 746
+    },
+    {
+      "source": 746,
+      "target": 26
+    },
+    {
+      "source": 12,
+      "target": 747
+    },
+    {
+      "source": 747,
+      "target": 12
+    },
+    {
+      "source": 14,
+      "target": 748
+    },
+    {
+      "source": 748,
+      "target": 14
+    },
+    {
+      "source": 14,
+      "target": 749
+    },
+    {
+      "source": 749,
+      "target": 14
+    },
+    {
+      "source": 28,
+      "target": 750
+    },
+    {
+      "source": 750,
+      "target": 28
+    },
+    {
+      "source": 14,
+      "target": 751
+    },
+    {
+      "source": 751,
+      "target": 14
+    },
+    {
+      "source": 26,
+      "target": 752
+    },
+    {
+      "source": 752,
+      "target": 26
+    },
+    {
+      "source": 9,
+      "target": 753
+    },
+    {
+      "source": 753,
+      "target": 9
+    },
+    {
+      "source": 31,
+      "target": 758
+    },
+    {
+      "source": 758,
+      "target": 31
+    },
+    {
+      "source": 28,
+      "target": 759
+    },
+    {
+      "source": 759,
+      "target": 28
+    },
+    {
+      "source": 10,
+      "target": 760
+    },
+    {
+      "source": 760,
+      "target": 10
+    },
+    {
+      "source": 16,
+      "target": 761
+    },
+    {
+      "source": 761,
+      "target": 16
+    },
+    {
+      "source": 7,
+      "target": 762
+    },
+    {
+      "source": 762,
+      "target": 7
+    },
+    {
+      "source": 30,
+      "target": 764
+    },
+    {
+      "source": 764,
+      "target": 30
+    },
+    {
+      "source": 17,
+      "target": 765
+    },
+    {
+      "source": 765,
+      "target": 17
+    },
+    {
+      "source": 1,
+      "target": 766
+    },
+    {
+      "source": 766,
+      "target": 19
+    },
+    {
+      "source": 27,
+      "target": 767
+    },
+    {
+      "source": 767,
+      "target": 27
+    },
+    {
+      "source": 17,
+      "target": 768
+    },
+    {
+      "source": 768,
+      "target": 17
+    },
+    {
+      "source": 23,
+      "target": 769
+    },
+    {
+      "source": 769,
+      "target": 23
+    },
+    {
+      "source": 10,
+      "target": 770
+    },
+    {
+      "source": 770,
+      "target": 10
+    },
+    {
+      "source": 21,
+      "target": 771
+    },
+    {
+      "source": 771,
+      "target": 21
+    },
+    {
+      "source": 30,
+      "target": 772
+    },
+    {
+      "source": 772,
+      "target": 30
+    },
+    {
+      "source": 20,
+      "target": 773
+    },
+    {
+      "source": 773,
+      "target": 20
+    },
+    {
+      "source": 3,
+      "target": 774
+    },
+    {
+      "source": 774,
+      "target": 3
+    },
+    {
+      "source": 31,
+      "target": 776
+    },
+    {
+      "source": 776,
+      "target": 31
+    },
+    {
+      "source": 29,
+      "target": 777
+    },
+    {
+      "source": 777,
+      "target": 29
+    },
+    {
+      "source": 6,
+      "target": 778
+    },
+    {
+      "source": 778,
+      "target": 6
+    },
+    {
+      "source": 12,
+      "target": 779
+    },
+    {
+      "source": 779,
+      "target": 12
+    },
+    {
+      "source": 6,
+      "target": 780
+    },
+    {
+      "source": 780,
+      "target": 6
+    },
+    {
+      "source": 2,
+      "target": 781
+    },
+    {
+      "source": 781,
+      "target": 2
+    },
+    {
+      "source": 26,
+      "target": 782
+    },
+    {
+      "source": 782,
+      "target": 26
+    },
+    {
+      "source": 31,
+      "target": 783
+    },
+    {
+      "source": 783,
+      "target": 31
+    },
+    {
+      "source": 14,
+      "target": 786
+    },
+    {
+      "source": 786,
+      "target": 14
+    },
+    {
+      "source": 27,
+      "target": 787
+    },
+    {
+      "source": 787,
+      "target": 27
+    },
+    {
+      "source": 29,
+      "target": 788
+    },
+    {
+      "source": 788,
+      "target": 29
+    },
+    {
+      "source": 16,
+      "target": 789
+    },
+    {
+      "source": 789,
+      "target": 16
+    },
+    {
+      "source": 31,
+      "target": 790
+    },
+    {
+      "source": 790,
+      "target": 31
+    },
+    {
+      "source": 22,
+      "target": 791
+    },
+    {
+      "source": 791,
+      "target": 22
+    },
+    {
+      "source": 31,
+      "target": 792
+    },
+    {
+      "source": 792,
+      "target": 31
+    },
+    {
+      "source": 21,
+      "target": 795
+    },
+    {
+      "source": 795,
+      "target": 21
+    },
+    {
+      "source": 11,
+      "target": 796
+    },
+    {
+      "source": 796,
+      "target": 11
+    },
+    {
+      "source": 13,
+      "target": 800
+    },
+    {
+      "source": 800,
+      "target": 13
+    },
+    {
+      "source": 9,
+      "target": 801
+    },
+    {
+      "source": 801,
+      "target": 9
+    },
+    {
+      "source": 9,
+      "target": 802
+    },
+    {
+      "source": 802,
+      "target": 9
+    },
+    {
+      "source": 0,
+      "target": 803
+    },
+    {
+      "source": 803,
+      "target": 0
+    },
+    {
+      "source": 11,
+      "target": 804
+    },
+    {
+      "source": 804,
+      "target": 11
+    },
+    {
+      "source": 11,
+      "target": 805
+    },
+    {
+      "source": 805,
+      "target": 11
+    },
+    {
+      "source": 11,
+      "target": 806
+    },
+    {
+      "source": 806,
+      "target": 11
+    },
+    {
+      "source": 9,
+      "target": 807
+    },
+    {
+      "source": 807,
+      "target": 9
+    },
+    {
+      "source": 0,
+      "target": 808
+    },
+    {
+      "source": 808,
+      "target": 0
+    },
+    {
+      "source": 9,
+      "target": 809
+    },
+    {
+      "source": 809,
+      "target": 9
+    },
+    {
+      "source": 21,
+      "target": 810
+    },
+    {
+      "source": 810,
+      "target": 21
+    },
+    {
+      "source": 15,
+      "target": 811
+    },
+    {
+      "source": 811,
+      "target": 15
+    },
+    {
+      "source": 14,
+      "target": 812
+    },
+    {
+      "source": 812,
+      "target": 14
+    },
+    {
+      "source": 0,
+      "target": 814
+    },
+    {
+      "source": 814,
+      "target": 0
+    },
+    {
+      "source": 21,
+      "target": 816
+    },
+    {
+      "source": 816,
+      "target": 21
+    },
+    {
+      "source": 28,
+      "target": 818
+    },
+    {
+      "source": 818,
+      "target": 28
+    },
+    {
+      "source": 1,
+      "target": 823
+    },
+    {
+      "source": 823,
+      "target": 1
+    },
+    {
+      "source": 15,
+      "target": 825
+    },
+    {
+      "source": 825,
+      "target": 15
+    },
+    {
+      "source": 0,
+      "target": 829
+    },
+    {
+      "source": 829,
+      "target": 0
+    },
+    {
+      "source": 15,
+      "target": 830
+    },
+    {
+      "source": 830,
+      "target": 15
+    },
+    {
+      "source": 1,
+      "target": 831
+    },
+    {
+      "source": 831,
+      "target": 1
+    },
+    {
+      "source": 10,
+      "target": 832
+    },
+    {
+      "source": 832,
+      "target": 10
+    },
+    {
+      "source": 15,
+      "target": 833
+    },
+    {
+      "source": 833,
+      "target": 15
+    },
+    {
+      "source": 9,
+      "target": 834
+    },
+    {
+      "source": 834,
+      "target": 9
+    },
+    {
+      "source": 13,
+      "target": 835
+    },
+    {
+      "source": 835,
+      "target": 13
+    }
+  ],
+  "nodes": [
+    {
+      "Index": 0,
+      "Name": "BAL",
+      "Type": "Team"
+    },
+    {
+      "Index": 1,
+      "Name": "DEN",
+      "Type": "Team"
+    },
+    {
+      "Index": 2,
+      "Name": "NYG",
+      "Type": "Team"
+    },
+    {
+      "Index": 3,
+      "Name": "CLE",
+      "Type": "Team"
+    },
+    {
+      "Index": 4,
+      "Name": "WAS",
+      "Type": "Team"
+    },
+    {
+      "Index": 5,
+      "Name": "JAC",
+      "Type": "Team"
+    },
+    {
+      "Index": 6,
+      "Name": "DET",
+      "Type": "Team"
+    },
+    {
+      "Index": 7,
+      "Name": "DAL",
+      "Type": "Team"
+    },
+    {
+      "Index": 8,
+      "Name": "PIT",
+      "Type": "Team"
+    },
+    {
+      "Index": 9,
+      "Name": "OAK",
+      "Type": "Team"
+    },
+    {
+      "Index": 10,
+      "Name": "KC",
+      "Type": "Team"
+    },
+    {
+      "Index": 11,
+      "Name": "NYJ",
+      "Type": "Team"
+    },
+    {
+      "Index": 12,
+      "Name": "PHI",
+      "Type": "Team"
+    },
+    {
+      "Index": 13,
+      "Name": "HOU",
+      "Type": "Team"
+    },
+    {
+      "Index": 14,
+      "Name": "LA",
+      "Type": "Team"
+    },
+    {
+      "Index": 15,
+      "Name": "GB",
+      "Type": "Team"
+    },
+    {
+      "Index": 16,
+      "Name": "TB",
+      "Type": "Team"
+    },
+    {
+      "Index": 17,
+      "Name": "CHI",
+      "Type": "Team"
+    },
+    {
+      "Index": 18,
+      "Name": "SEA",
+      "Type": "Team"
+    },
+    {
+      "Index": 19,
+      "Name": "NE",
+      "Type": "Team"
+    },
+    {
+      "Index": 20,
+      "Name": "ARI",
+      "Type": "Team"
+    },
+    {
+      "Index": 21,
+      "Name": "CAR",
+      "Type": "Team"
+    },
+    {
+      "Index": 22,
+      "Name": "MIN",
+      "Type": "Team"
+    },
+    {
+      "Index": 23,
+      "Name": "SF",
+      "Type": "Team"
+    },
+    {
+      "Index": 24,
+      "Name": "ATL",
+      "Type": "Team"
+    },
+    {
+      "Index": 25,
+      "Name": "TEN",
+      "Type": "Team"
+    },
+    {
+      "Index": 26,
+      "Name": "IND",
+      "Type": "Team"
+    },
+    {
+      "Index": 27,
+      "Name": "MIA",
+      "Type": "Team"
+    },
+    {
+      "Index": 28,
+      "Name": "LAC",
+      "Type": "Team"
+    },
+    {
+      "Index": 29,
+      "Name": "BUF",
+      "Type": "Team"
+    },
+    {
+      "Index": 30,
+      "Name": "NO",
+      "Type": "Team"
+    },
+    {
+      "Index": 31,
+      "Name": "CIN",
+      "Type": "Team"
+    },
+    {
+      "Index": 32,
+      "Name": "Joe Flacco",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 22133333
+    },
+    {
+      "Index": 33,
+      "Name": "Odell Beckham, Jr.",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 18000000
+    },
+    {
+      "Index": 34,
+      "Name": "Case Keenum",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 7500000
+    },
+    {
+      "Index": 35,
+      "Name": "Blake Bortles",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 17483500
+    },
+    {
+      "Index": 36,
+      "Name": "Ezekiel Ansah",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 17143000
+    },
+    {
+      "Index": 37,
+      "Name": "Demarcus Lawrence",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 20571600
+    },
+    {
+      "Index": 38,
+      "Name": "Antonio Brown",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 17000000
+    },
+    {
+      "Index": 39,
+      "Name": "Olivier Vernon",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 17000000
+    },
+    {
+      "Index": 40,
+      "Name": "Justin Houston",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 16833333
+    },
+    {
+      "Index": 41,
+      "Name": "Marcell Dareus",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 14042500
+    },
+    {
+      "Index": 42,
+      "Name": "Le'Veon Bell",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 13125000
+    },
+    {
+      "Index": 43,
+      "Name": "Nick Foles",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 22000000
+    },
+    {
+      "Index": 44,
+      "Name": "Malik Jackson",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 14250000
+    },
+    {
+      "Index": 45,
+      "Name": "Demaryius Thomas",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 14000000
+    },
+    {
+      "Index": 46,
+      "Name": "Ndamukong Suh",
+      "Pos": "34DT",
+      "Type": "Player",
+      "Value": 14000000
+    },
+    {
+      "Index": 47,
+      "Name": "Clay Matthews",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 13200000
+    },
+    {
+      "Index": 48,
+      "Name": "Jamie Collins",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 12500000
+    },
+    {
+      "Index": 49,
+      "Name": "Nick Perry",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 12000000
+    },
+    {
+      "Index": 50,
+      "Name": "Timmy Jernigan",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 12000000
+    },
+    {
+      "Index": 51,
+      "Name": "Kevin Zeitler",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 12000000
+    },
+    {
+      "Index": 52,
+      "Name": "Kelechi Osemele",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 11700000
+    },
+    {
+      "Index": 53,
+      "Name": "Lamarcus Joyner",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 10500000
+    },
+    {
+      "Index": 54,
+      "Name": "DeSean Jackson",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 11166667
+    },
+    {
+      "Index": 55,
+      "Name": "Larry Fitzgerald",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 11000000
+    },
+    {
+      "Index": 56,
+      "Name": "Kyle Long",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 6100000
+    },
+    {
+      "Index": 57,
+      "Name": "Earl Thomas",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 13750000
+    },
+    {
+      "Index": 58,
+      "Name": "Randall Cobb",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 10000000
+    },
+    {
+      "Index": 59,
+      "Name": "Josh McCown",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 10000000
+    },
+    {
+      "Index": 60,
+      "Name": "Michael Bennett",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 9833333
+    },
+    {
+      "Index": 61,
+      "Name": "Donte Moncrief",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 9600000
+    },
+    {
+      "Index": 62,
+      "Name": "Robert Alford",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 7500000
+    },
+    {
+      "Index": 63,
+      "Name": "T.J. Lang",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 9500000
+    },
+    {
+      "Index": 64,
+      "Name": "Pierre Garcon",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 9500000
+    },
+    {
+      "Index": 65,
+      "Name": "Cameron Wake",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 7666667
+    },
+    {
+      "Index": 66,
+      "Name": "Jason Peters",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 6000000
+    },
+    {
+      "Index": 67,
+      "Name": "Mark Barron",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 9000000
+    },
+    {
+      "Index": 68,
+      "Name": "Maurkice Pouncey",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 11000000
+    },
+    {
+      "Index": 69,
+      "Name": "Kareem Jackson",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 11000000
+    },
+    {
+      "Index": 70,
+      "Name": "Sheldon Richardson",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 12333333
+    },
+    {
+      "Index": 71,
+      "Name": "Andre Branch",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 8000000
+    },
+    {
+      "Index": 72,
+      "Name": "Brandon Marshall",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 8000000
+    },
+    {
+      "Index": 73,
+      "Name": "Vinny Curry",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 7666667
+    },
+    {
+      "Index": 74,
+      "Name": "Charles Clay",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 75,
+      "Name": "Tashaun Gipson",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 7516667
+    },
+    {
+      "Index": 76,
+      "Name": "Jared Veldheer",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 7150000
+    },
+    {
+      "Index": 77,
+      "Name": "Jadeveon Clowney",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 15967200
+    },
+    {
+      "Index": 78,
+      "Name": "Jordy Nelson",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 7100000
+    },
+    {
+      "Index": 79,
+      "Name": "Morris Claiborne",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 7000000
+    },
+    {
+      "Index": 80,
+      "Name": "Rodney McLeod",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 81,
+      "Name": "Michael Crabtree",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 7000000
+    },
+    {
+      "Index": 82,
+      "Name": "Zach Brown",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 7000000
+    },
+    {
+      "Index": 83,
+      "Name": "Brent Grimes",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 7000000
+    },
+    {
+      "Index": 84,
+      "Name": "Sean Lee",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 3500000
+    },
+    {
+      "Index": 85,
+      "Name": "Jermaine Gresham",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 7000000
+    },
+    {
+      "Index": 86,
+      "Name": "Tyrann Mathieu",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 14000000
+    },
+    {
+      "Index": 87,
+      "Name": "Darian Stewart",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 7000000
+    },
+    {
+      "Index": 88,
+      "Name": "Tavon Austin",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 7000000
+    },
+    {
+      "Index": 89,
+      "Name": "Spencer Long",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 4200000
+    },
+    {
+      "Index": 90,
+      "Name": "Thomas Davis",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 5250000
+    },
+    {
+      "Index": 91,
+      "Name": "Derrick Morgan",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 6750000
+    },
+    {
+      "Index": 92,
+      "Name": "Josh Sitton",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 6750000
+    },
+    {
+      "Index": 93,
+      "Name": "K.J. Wright",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 6750000
+    },
+    {
+      "Index": 94,
+      "Name": "Brandon Graham",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 13333333
+    },
+    {
+      "Index": 95,
+      "Name": "Eric Weddle",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 5251025
+    },
+    {
+      "Index": 96,
+      "Name": "Josh Kline",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 6500000
+    },
+    {
+      "Index": 97,
+      "Name": "Glover Quin",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 6500000
+    },
+    {
+      "Index": 98,
+      "Name": "Jermey Parnell",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 6400000
+    },
+    {
+      "Index": 99,
+      "Name": "Rodger Saffold",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 11000000
+    },
+    {
+      "Index": 100,
+      "Name": "Jason Kelce",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 8166667
+    },
+    {
+      "Index": 101,
+      "Name": "Johnathan Cyprien",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 6250000
+    },
+    {
+      "Index": 102,
+      "Name": "Allen Bailey",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 6250000
+    },
+    {
+      "Index": 103,
+      "Name": "Buster Skrine",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 5500000
+    },
+    {
+      "Index": 104,
+      "Name": "Golden Tate",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 9375000
+    },
+    {
+      "Index": 105,
+      "Name": "Marcus Gilbert",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 6000000
+    },
+    {
+      "Index": 106,
+      "Name": "Teddy Bridgewater",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 6000000
+    },
+    {
+      "Index": 107,
+      "Name": "Dion Sims",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 6000000
+    },
+    {
+      "Index": 108,
+      "Name": "Danny Amendola",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 4500000
+    },
+    {
+      "Index": 109,
+      "Name": "Bobby Massie",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 8000000
+    },
+    {
+      "Index": 110,
+      "Name": "Mike Remmers",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 6000000
+    },
+    {
+      "Index": 111,
+      "Name": "Dante Fowler, Jr.",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 12000000
+    },
+    {
+      "Index": 112,
+      "Name": "Corey Liuget",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 5760000
+    },
+    {
+      "Index": 113,
+      "Name": "Jahleel Addae",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 5625000
+    },
+    {
+      "Index": 114,
+      "Name": "Rashaan Melvin",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 5500000
+    },
+    {
+      "Index": 115,
+      "Name": "Tyler Eifert",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 5500000
+    },
+    {
+      "Index": 116,
+      "Name": "Kurt Coleman",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 5450000
+    },
+    {
+      "Index": 117,
+      "Name": "Dwayne Allen",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 3250000
+    },
+    {
+      "Index": 118,
+      "Name": "Malcolm Smith",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 1350000
+    },
+    {
+      "Index": 119,
+      "Name": "Jared Cook",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 5300000
+    },
+    {
+      "Index": 120,
+      "Name": "John Sullivan",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 5250000
+    },
+    {
+      "Index": 121,
+      "Name": "Terrell Suggs",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 5175000
+    },
+    {
+      "Index": 122,
+      "Name": "Carlos Hyde",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 2800000
+    },
+    {
+      "Index": 123,
+      "Name": "Adrian Clayborn",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 124,
+      "Name": "John Brown",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 9000000
+    },
+    {
+      "Index": 125,
+      "Name": "Ryan Grant",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 126,
+      "Name": "Muhammad Wilkerson",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 127,
+      "Name": "AJ McCarron",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 128,
+      "Name": "Mike Iupati",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 129,
+      "Name": "Preston Brown",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 5500000
+    },
+    {
+      "Index": 130,
+      "Name": "Vontae Davis",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 131,
+      "Name": "Stacy McGee",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 132,
+      "Name": "Austin Seferian-Jenkins",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 133,
+      "Name": "Beau Allen",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 134,
+      "Name": "Michael Johnson",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 135,
+      "Name": "James Carpenter",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 5250000
+    },
+    {
+      "Index": 136,
+      "Name": "Nevin Lawson",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 4600000
+    },
+    {
+      "Index": 137,
+      "Name": "Marshawn Lynch",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 4500000
+    },
+    {
+      "Index": 138,
+      "Name": "Brooks Reed",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 1625000
+    },
+    {
+      "Index": 139,
+      "Name": "Brandon Mebane",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 5275000
+    },
+    {
+      "Index": 140,
+      "Name": "Andy Levitre",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 4500000
+    },
+    {
+      "Index": 141,
+      "Name": "Jermaine Kearse",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 4500000
+    },
+    {
+      "Index": 142,
+      "Name": "Stephen Gostkowski",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 4300000
+    },
+    {
+      "Index": 143,
+      "Name": "Antoine Bethea",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 4250000
+    },
+    {
+      "Index": 144,
+      "Name": "Captain Munnerlyn",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 4250000
+    },
+    {
+      "Index": 145,
+      "Name": "Cordarrelle Patterson",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 146,
+      "Name": "Terrance Williams",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 4250000
+    },
+    {
+      "Index": 147,
+      "Name": "Kevin White",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 4140762
+    },
+    {
+      "Index": 148,
+      "Name": "William Hayes",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 4050000
+    },
+    {
+      "Index": 149,
+      "Name": "Isaiah Crowell",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 150,
+      "Name": "Marcus Gilchrist",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 151,
+      "Name": "Aaron Lynch",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 152,
+      "Name": "Earl Mitchell",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 153,
+      "Name": "Matt Schaub",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 1890000
+    },
+    {
+      "Index": 154,
+      "Name": "EJ Gaines",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 155,
+      "Name": "Darren Fells",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 156,
+      "Name": "Andrew Sendejo",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 157,
+      "Name": "Chris Hogan",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 158,
+      "Name": "Bennie Logan",
+      "Pos": "34DT",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 159,
+      "Name": "Mark Ingram",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 160,
+      "Name": "Latavius Murray",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 3600000
+    },
+    {
+      "Index": 161,
+      "Name": "Seantrel Henderson",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 4500000
+    },
+    {
+      "Index": 162,
+      "Name": "Mike Glennon",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 163,
+      "Name": "Garry Gilliam",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 3875000
+    },
+    {
+      "Index": 164,
+      "Name": "Cassius Marsh",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 3850000
+    },
+    {
+      "Index": 165,
+      "Name": "Domata Peko",
+      "Pos": "34DT",
+      "Type": "Player",
+      "Value": 3750000
+    },
+    {
+      "Index": 166,
+      "Name": "Bilal Powell",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 3750000
+    },
+    {
+      "Index": 167,
+      "Name": "Adam Vinatieri",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 3875000
+    },
+    {
+      "Index": 168,
+      "Name": "Steve McLendon",
+      "Pos": "34DT",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 169,
+      "Name": "Mitch Unrein",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 3500000
+    },
+    {
+      "Index": 170,
+      "Name": "Vincent Rey",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 3500000
+    },
+    {
+      "Index": 171,
+      "Name": "Mike Pennel",
+      "Pos": "34DT",
+      "Type": "Player",
+      "Value": 3500000
+    },
+    {
+      "Index": 172,
+      "Name": "Matt Bryant",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 3500000
+    },
+    {
+      "Index": 173,
+      "Name": "Alex Okafor",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 3487500
+    },
+    {
+      "Index": 174,
+      "Name": "Jonathan Stewart",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 3450000
+    },
+    {
+      "Index": 175,
+      "Name": "Cole Beasley",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 7250000
+    },
+    {
+      "Index": 176,
+      "Name": "Bryan Anger",
+      "Pos": "P",
+      "Type": "Player",
+      "Value": 3400000
+    },
+    {
+      "Index": 177,
+      "Name": "Ryan Fitzpatrick",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 3300000
+    },
+    {
+      "Index": 178,
+      "Name": "Ramon Foster",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 4125000
+    },
+    {
+      "Index": 179,
+      "Name": "Bruce Irvin",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 3187500
+    },
+    {
+      "Index": 180,
+      "Name": "Anthony Barr",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 13500000
+    },
+    {
+      "Index": 181,
+      "Name": "Tyson Alualu",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 2875000
+    },
+    {
+      "Index": 182,
+      "Name": "Phil Dawson",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 3000000
+    },
+    {
+      "Index": 183,
+      "Name": "Tramaine Brock",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 3000000
+    },
+    {
+      "Index": 184,
+      "Name": "Lorenzo Alexander",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 3750000
+    },
+    {
+      "Index": 185,
+      "Name": "Danny Shelton",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 2925918
+    },
+    {
+      "Index": 186,
+      "Name": "Nick Easton",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 2914000
+    },
+    {
+      "Index": 187,
+      "Name": "Matt Paradis",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 9010000
+    },
+    {
+      "Index": 188,
+      "Name": "Adam Humphries",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 9000000
+    },
+    {
+      "Index": 189,
+      "Name": "Tyrell Williams",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 11100000
+    },
+    {
+      "Index": 190,
+      "Name": "Corey Grant",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 2914000
+    },
+    {
+      "Index": 191,
+      "Name": "Justin Coleman",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 9000000
+    },
+    {
+      "Index": 192,
+      "Name": "Shaquil Barrett",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 2914000
+    },
+    {
+      "Index": 193,
+      "Name": "Ty Nsekhe",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 2914000
+    },
+    {
+      "Index": 194,
+      "Name": "David Irving",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 2914000
+    },
+    {
+      "Index": 195,
+      "Name": "Brett Jones",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 2914000
+    },
+    {
+      "Index": 196,
+      "Name": "Ben Garland",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 2914000
+    },
+    {
+      "Index": 197,
+      "Name": "Brock Coyle",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 2800000
+    },
+    {
+      "Index": 198,
+      "Name": "Sam Acho",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 2750000
+    },
+    {
+      "Index": 199,
+      "Name": "DeVante Parker",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 200,
+      "Name": "Stefen Wisniewski",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 2675000
+    },
+    {
+      "Index": 201,
+      "Name": "Kevin Pierre-Louis",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 2625000
+    },
+    {
+      "Index": 202,
+      "Name": "Haloti Ngata",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 2600000
+    },
+    {
+      "Index": 203,
+      "Name": "Jabrill Peppers",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2585559
+    },
+    {
+      "Index": 204,
+      "Name": "Kevin Johnson",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 3000000
+    },
+    {
+      "Index": 205,
+      "Name": "Chance Warmack",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 206,
+      "Name": "Antonio Gates",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 207,
+      "Name": "Luke Willson",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 208,
+      "Name": "Ryan Groy",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 209,
+      "Name": "Matt Slauson",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 210,
+      "Name": "Manti Te'o",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 211,
+      "Name": "Cameron Fleming",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 212,
+      "Name": "Chris Conte",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 213,
+      "Name": "Cody Latimer",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 214,
+      "Name": "Ben Ijalana",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 215,
+      "Name": "Jason McCourty",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 5000000
+    },
+    {
+      "Index": 216,
+      "Name": "Brynden Trawick",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2375000
+    },
+    {
+      "Index": 217,
+      "Name": "Cedric Ogbuehi",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 2331421
+    },
+    {
+      "Index": 218,
+      "Name": "Shane Ray",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 2279723
+    },
+    {
+      "Index": 219,
+      "Name": "Kayvon Webster",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 2250000
+    },
+    {
+      "Index": 220,
+      "Name": "C.J. Mosley",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 17000000
+    },
+    {
+      "Index": 221,
+      "Name": "Ja'Wuan James",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 12750000
+    },
+    {
+      "Index": 222,
+      "Name": "Marcedes Lewis",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 2100000
+    },
+    {
+      "Index": 223,
+      "Name": "Mike Adams",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2100000
+    },
+    {
+      "Index": 224,
+      "Name": "Shamar Stephen",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 4150000
+    },
+    {
+      "Index": 225,
+      "Name": "Ha-Ha Clinton-Dix",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2084625
+    },
+    {
+      "Index": 226,
+      "Name": "Johnathan Hankins",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 4250000
+    },
+    {
+      "Index": 227,
+      "Name": "Margus Hunt",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 4500000
+    },
+    {
+      "Index": 228,
+      "Name": "Chris Maragos",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2050000
+    },
+    {
+      "Index": 229,
+      "Name": "Dee Ford",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 17000000
+    },
+    {
+      "Index": 230,
+      "Name": "Ryan Allen",
+      "Pos": "P",
+      "Type": "Player",
+      "Value": 2033333
+    },
+    {
+      "Index": 231,
+      "Name": "Sebastian Janikowski",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 2015000
+    },
+    {
+      "Index": 232,
+      "Name": "LeGarrette Blount",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 233,
+      "Name": "Anthony Sherman",
+      "Pos": "FB",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 234,
+      "Name": "Lance Kendricks",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 235,
+      "Name": "Damion Square",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 236,
+      "Name": "Al Woods",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 237,
+      "Name": "Terrence Brooks",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 238,
+      "Name": "Robbie Gould",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 4971000
+    },
+    {
+      "Index": 239,
+      "Name": "Ben Watson",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 240,
+      "Name": "Billy Turner",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 7000000
+    },
+    {
+      "Index": 241,
+      "Name": "Derrick Shelby",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 242,
+      "Name": "Jamize Olawale",
+      "Pos": "FB",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 243,
+      "Name": "Darqueze Dennard",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1994725
+    },
+    {
+      "Index": 244,
+      "Name": "Jason Verrett",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 3000000
+    },
+    {
+      "Index": 245,
+      "Name": "Stephone Anthony",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 1932930
+    },
+    {
+      "Index": 246,
+      "Name": "Deone Bucannon",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 247,
+      "Name": "Mike Wallace",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1915000
+    },
+    {
+      "Index": 248,
+      "Name": "Martavis Bryant",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1907000
+    },
+    {
+      "Index": 249,
+      "Name": "Brent Qvale",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 1907000
+    },
+    {
+      "Index": 250,
+      "Name": "Quinton Spain",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 1907000
+    },
+    {
+      "Index": 251,
+      "Name": "Bryce Callahan",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1907000
+    },
+    {
+      "Index": 252,
+      "Name": "TJ Jones",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1907000
+    },
+    {
+      "Index": 253,
+      "Name": "Dion Jordan",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 1907000
+    },
+    {
+      "Index": 254,
+      "Name": "Neal Sterling",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 1907000
+    },
+    {
+      "Index": 255,
+      "Name": "Josh Bellamy",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 256,
+      "Name": "Jordan Berry",
+      "Pos": "P",
+      "Type": "Player",
+      "Value": 1907000
+    },
+    {
+      "Index": 257,
+      "Name": "Anthony Chickillo",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 1907000
+    },
+    {
+      "Index": 258,
+      "Name": "Malcom Brown",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 1903308
+    },
+    {
+      "Index": 259,
+      "Name": "Josh Martin",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 1900000
+    },
+    {
+      "Index": 260,
+      "Name": "Jordan Mills",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 1900000
+    },
+    {
+      "Index": 261,
+      "Name": "Ted Larsen",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 1020000
+    },
+    {
+      "Index": 262,
+      "Name": "Josh Bynes",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 1858333
+    },
+    {
+      "Index": 263,
+      "Name": "Dominique Easley",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 1850000
+    },
+    {
+      "Index": 264,
+      "Name": "Clinton McDonald",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 1805000
+    },
+    {
+      "Index": 265,
+      "Name": "Pernell McPhee",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 1800000
+    },
+    {
+      "Index": 266,
+      "Name": "Jimmie Ward",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 4500000
+    },
+    {
+      "Index": 267,
+      "Name": "Connor Barwin",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 1750000
+    },
+    {
+      "Index": 268,
+      "Name": "Brandon LaFell",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1750000
+    },
+    {
+      "Index": 269,
+      "Name": "Justin Bethel",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1750000
+    },
+    {
+      "Index": 270,
+      "Name": "Dan Bailey",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 1750000
+    },
+    {
+      "Index": 271,
+      "Name": "Pierre Desir",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 7500000
+    },
+    {
+      "Index": 272,
+      "Name": "Neiko Thorpe",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1750000
+    },
+    {
+      "Index": 273,
+      "Name": "Malik McDowell",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 1738852
+    },
+    {
+      "Index": 274,
+      "Name": "Bradley Roby",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 10000000
+    },
+    {
+      "Index": 275,
+      "Name": "Andre Holmes",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1716667
+    },
+    {
+      "Index": 276,
+      "Name": "Corey Graham",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 1715000
+    },
+    {
+      "Index": 277,
+      "Name": "Michael Hoomanawanui",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 1700000
+    },
+    {
+      "Index": 278,
+      "Name": "Matt Longacre",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 1698438
+    },
+    {
+      "Index": 279,
+      "Name": "Craig Robertson",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 2050000
+    },
+    {
+      "Index": 280,
+      "Name": "Jacquizz Rodgers",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 1650000
+    },
+    {
+      "Index": 281,
+      "Name": "Byron Bell",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 1600000
+    },
+    {
+      "Index": 282,
+      "Name": "Brandon Copeland",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 1550000
+    },
+    {
+      "Index": 283,
+      "Name": "Demetrius Harris",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 3000000
+    },
+    {
+      "Index": 284,
+      "Name": "Landon Collins",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 14000000
+    },
+    {
+      "Index": 285,
+      "Name": "Terrell McClain",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 1525000
+    },
+    {
+      "Index": 286,
+      "Name": "Donovan Smith",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 13750000
+    },
+    {
+      "Index": 287,
+      "Name": "Sam Shields",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1504998
+    },
+    {
+      "Index": 288,
+      "Name": "Mario Edwards",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 1504292
+    },
+    {
+      "Index": 289,
+      "Name": "Shawn Lauvao",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 290,
+      "Name": "Zach Kerr",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 291,
+      "Name": "Levine Toilolo",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 292,
+      "Name": "LaAdrian Waddle",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 293,
+      "Name": "Reggie Nelson",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 294,
+      "Name": "Pat O'Donnell",
+      "Pos": "P",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 295,
+      "Name": "J.R. Sweezy",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 296,
+      "Name": "Marcus Cooper",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 297,
+      "Name": "Ethan Westbrooks",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 298,
+      "Name": "Tre Boston",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 299,
+      "Name": "DJ Fluker",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 3000000
+    },
+    {
+      "Index": 300,
+      "Name": "Adrian Phillips",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 301,
+      "Name": "Marshall Newhouse",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 302,
+      "Name": "Jeremy Hill",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 303,
+      "Name": "TJ Yeldon",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 1478444
+    },
+    {
+      "Index": 304,
+      "Name": "Doug Martin",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 1475000
+    },
+    {
+      "Index": 305,
+      "Name": "Preston Smith",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 13000000
+    },
+    {
+      "Index": 306,
+      "Name": "Orlando Scandrick",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1415000
+    },
+    {
+      "Index": 307,
+      "Name": "Darren Sproles",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 1415000
+    },
+    {
+      "Index": 308,
+      "Name": "Spencer Ware",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 1400000
+    },
+    {
+      "Index": 309,
+      "Name": "Kevin Pamphile",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 1600000
+    },
+    {
+      "Index": 310,
+      "Name": "Marcus Sherels",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1400000
+    },
+    {
+      "Index": 311,
+      "Name": "Mark Glowinski",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 5400000
+    },
+    {
+      "Index": 312,
+      "Name": "Phillip Dorsett",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1394373
+    },
+    {
+      "Index": 313,
+      "Name": "Eric Reid",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 7350000
+    },
+    {
+      "Index": 314,
+      "Name": "Devin Funchess",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 10000000
+    },
+    {
+      "Index": 315,
+      "Name": "Eric Kush",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 1875000
+    },
+    {
+      "Index": 316,
+      "Name": "Benson Mayowa",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 1350000
+    },
+    {
+      "Index": 317,
+      "Name": "Wes Horton",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 1350000
+    },
+    {
+      "Index": 318,
+      "Name": "Mike Davis",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 3000000
+    },
+    {
+      "Index": 319,
+      "Name": "Coty Sensabaugh",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1300000
+    },
+    {
+      "Index": 320,
+      "Name": "Chris Banjo",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2300000
+    },
+    {
+      "Index": 321,
+      "Name": "Dez Bryant",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1275000
+    },
+    {
+      "Index": 322,
+      "Name": "Ryan Griffin",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 1450000
+    },
+    {
+      "Index": 323,
+      "Name": "Darrius Heyward-Bey",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1266667
+    },
+    {
+      "Index": 324,
+      "Name": "Russell Shepard",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1250000
+    },
+    {
+      "Index": 325,
+      "Name": "Will Compton",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 1250000
+    },
+    {
+      "Index": 326,
+      "Name": "Kerry Wynn",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 1250000
+    },
+    {
+      "Index": 327,
+      "Name": "Jeremiah Attaochu",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 1250000
+    },
+    {
+      "Index": 328,
+      "Name": "Fozzy Whittaker",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 1250000
+    },
+    {
+      "Index": 329,
+      "Name": "Angelo Blackson",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 330,
+      "Name": "Eric Rowe",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 3500000
+    },
+    {
+      "Index": 331,
+      "Name": "Colin Jones",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 1300000
+    },
+    {
+      "Index": 332,
+      "Name": "Denzel Perryman",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 6025000
+    },
+    {
+      "Index": 333,
+      "Name": "Mitch Morse",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 11125000
+    },
+    {
+      "Index": 334,
+      "Name": "Zak DeOssie",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 1157500
+    },
+    {
+      "Index": 335,
+      "Name": "Nate Palmer",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 1150000
+    },
+    {
+      "Index": 336,
+      "Name": "Ronald Darby",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1142423
+    },
+    {
+      "Index": 337,
+      "Name": "Frank Gore",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 338,
+      "Name": "John Greco",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 1105000
+    },
+    {
+      "Index": 339,
+      "Name": "Don Muhlbach",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 1120000
+    },
+    {
+      "Index": 340,
+      "Name": "LP Ladouceur",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 1105000
+    },
+    {
+      "Index": 341,
+      "Name": "Matt Cassel",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 1105000
+    },
+    {
+      "Index": 342,
+      "Name": "Leon Hall",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1105000
+    },
+    {
+      "Index": 343,
+      "Name": "Robert Griffin III",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 1100000
+    },
+    {
+      "Index": 344,
+      "Name": "Kyle Love",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 1100000
+    },
+    {
+      "Index": 345,
+      "Name": "Kenny Vaccaro",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 1100000
+    },
+    {
+      "Index": 346,
+      "Name": "Brent Urban",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 1100000
+    },
+    {
+      "Index": 347,
+      "Name": "Jordan Phillips",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 4500000
+    },
+    {
+      "Index": 348,
+      "Name": "Derek Anderson",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 1120000
+    },
+    {
+      "Index": 349,
+      "Name": "Jake Fisher",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 1064880
+    },
+    {
+      "Index": 350,
+      "Name": "Benny Cunningham",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 1050000
+    },
+    {
+      "Index": 351,
+      "Name": "MarQueis Gray",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 1050000
+    },
+    {
+      "Index": 352,
+      "Name": "Frostee Rucker",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 1040000
+    },
+    {
+      "Index": 353,
+      "Name": "Adarius Taylor",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 1040000
+    },
+    {
+      "Index": 354,
+      "Name": "Ameer Abdullah",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 1039032
+    },
+    {
+      "Index": 355,
+      "Name": "Tyler Shatley",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 1027500
+    },
+    {
+      "Index": 356,
+      "Name": "Ahtyba Rubin",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 1015000
+    },
+    {
+      "Index": 357,
+      "Name": "Jermon Bushrod",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 1015000
+    },
+    {
+      "Index": 358,
+      "Name": "Donnie Jones",
+      "Pos": "P",
+      "Type": "Player",
+      "Value": 1015000
+    },
+    {
+      "Index": 359,
+      "Name": "Jon Condo",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 1015000
+    },
+    {
+      "Index": 360,
+      "Name": "John Denney",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 1120000
+    },
+    {
+      "Index": 361,
+      "Name": "Adrian Peterson",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 2515000
+    },
+    {
+      "Index": 362,
+      "Name": "Mike Nugent",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 1015000
+    },
+    {
+      "Index": 363,
+      "Name": "Maxx Williams",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 1013184
+    },
+    {
+      "Index": 364,
+      "Name": "Dwayne Harris",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1005000
+    },
+    {
+      "Index": 365,
+      "Name": "Andre Roberts",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 2300000
+    },
+    {
+      "Index": 366,
+      "Name": "Logan Paulsen",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 1005000
+    },
+    {
+      "Index": 367,
+      "Name": "Ricky Jean-Francois",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 1005000
+    },
+    {
+      "Index": 368,
+      "Name": "Nick Bellore",
+      "Pos": "FB",
+      "Type": "Player",
+      "Value": 1005000
+    },
+    {
+      "Index": 369,
+      "Name": "Davon House",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1005000
+    },
+    {
+      "Index": 370,
+      "Name": "Bobby Hart",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 5383333
+    },
+    {
+      "Index": 371,
+      "Name": "Nathan Stupar",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
+      "Index": 372,
+      "Name": "Tom Johnson",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
+      "Index": 373,
+      "Name": "Kemal Ishmael",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
+      "Index": 374,
+      "Name": "Geno Smith",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
+      "Index": 375,
+      "Name": "Ray-Ray Armstrong",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 1550000
+    },
+    {
+      "Index": 376,
+      "Name": "John Simon",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
+      "Index": 377,
+      "Name": "Ryan Hewitt",
+      "Pos": "FB",
+      "Type": "Player",
+      "Value": 990000
+    },
+    {
+      "Index": 378,
+      "Name": "Luke Stocker",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 987500
+    },
+    {
+      "Index": 379,
+      "Name": "Markus Golden",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 3750000
+    },
+    {
+      "Index": 380,
+      "Name": "Ty Sambrailo",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 4750000
+    },
+    {
+      "Index": 381,
+      "Name": "Earl Watford",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 950000
+    },
+    {
+      "Index": 382,
+      "Name": "Frank Clark",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 17128000
+    },
+    {
+      "Index": 383,
+      "Name": "Jordan Richards",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 927887
+    },
+    {
+      "Index": 384,
+      "Name": "Daniel Brown",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 925000
+    },
+    {
+      "Index": 385,
+      "Name": "Mike Person",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 2750000
+    },
+    {
+      "Index": 386,
+      "Name": "Joe Webb",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 387,
+      "Name": "Frank Zombo",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 388,
+      "Name": "Josh Johnson",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 389,
+      "Name": "Zane Beadles",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 390,
+      "Name": "Kendrick Lewis",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 391,
+      "Name": "Chris Clark",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 392,
+      "Name": "Sam Young",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 393,
+      "Name": "J'Marcus Webb",
+      "Pos": "T",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 394,
+      "Name": "John Phillips",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 395,
+      "Name": "Ziggy Hood",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 396,
+      "Name": "Garrison Sanborn",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 397,
+      "Name": "Mark Sanchez",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 398,
+      "Name": "Andre Smith",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 399,
+      "Name": "Shareece Wright",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 400,
+      "Name": "Austin Howard",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 401,
+      "Name": "Joseph Barksdale",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 402,
+      "Name": "Mike Mitchell",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 403,
+      "Name": "Ron Parker",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 404,
+      "Name": "Ramon Humber",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 405,
+      "Name": "Carson Tinker",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 912500
+    },
+    {
+      "Index": 406,
+      "Name": "Tom Compton",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 900000
+    },
+    {
+      "Index": 407,
+      "Name": "Brian Peters",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 900000
+    },
+    {
+      "Index": 408,
+      "Name": "Josh Mauro",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 1400000
+    },
+    {
+      "Index": 409,
+      "Name": "Dakota Dozier",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 410,
+      "Name": "Alfred Blue",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 411,
+      "Name": "Jonotthan Harrison",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 412,
+      "Name": "Daniel McCullers",
+      "Pos": "34DT",
+      "Type": "Player",
+      "Value": 1375000
+    },
+    {
+      "Index": 413,
+      "Name": "David Fales",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 414,
+      "Name": "Brock Osweiler",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 415,
+      "Name": "De'Anthony Thomas",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 416,
+      "Name": "Phillip Gaines",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 417,
+      "Name": "Amini Silatolu",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 418,
+      "Name": "Jordan Devey",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 419,
+      "Name": "Taiwan Jones",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 420,
+      "Name": "Paul Worrilow",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 805000
+    },
+    {
+      "Index": 421,
+      "Name": "Marcus Martin",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 422,
+      "Name": "Tony Bergstrom",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 423,
+      "Name": "Blidi Wreh-Wilson",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 895000
+    },
+    {
+      "Index": 424,
+      "Name": "Richard Rodgers",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 425,
+      "Name": "Jaylen Watkins",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 895000
+    },
+    {
+      "Index": 426,
+      "Name": "Emmanuel Lamur",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 427,
+      "Name": "George Iloka",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 428,
+      "Name": "Bashaud Breeland",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 429,
+      "Name": "LaRoy Reynolds",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 880000
+    },
+    {
+      "Index": 430,
+      "Name": "Justin Hunter",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 870000
+    },
+    {
+      "Index": 431,
+      "Name": "Kyle Nelson",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 1135000
+    },
+    {
+      "Index": 432,
+      "Name": "Kai Forbath",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 860000
+    },
+    {
+      "Index": 433,
+      "Name": "Brandon Bolden",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 1850000
+    },
+    {
+      "Index": 434,
+      "Name": "Travis Swanson",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 850000
+    },
+    {
+      "Index": 435,
+      "Name": "AJ Cann",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 5018333
+    },
+    {
+      "Index": 436,
+      "Name": "Ben Jacobs",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 832500
+    },
+    {
+      "Index": 437,
+      "Name": "B.W. Webb",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 3500000
+    },
+    {
+      "Index": 438,
+      "Name": "Jamon Brown",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 6250000
+    },
+    {
+      "Index": 439,
+      "Name": "Sean Mannion",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 812724
+    },
+    {
+      "Index": 440,
+      "Name": "Tevin Coleman",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 4250000
+    },
+    {
+      "Index": 441,
+      "Name": "Isaac Seumalo",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 5626000
+    },
+    {
+      "Index": 442,
+      "Name": "Mark Nzeocha",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 800000
+    },
+    {
+      "Index": 443,
+      "Name": "Josh Wells",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 797500
+    },
+    {
+      "Index": 444,
+      "Name": "Josh Gordon",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 445,
+      "Name": "Josh LeRibeus",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 446,
+      "Name": "Alfred Morris",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 447,
+      "Name": "Eddie Pleasant",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 448,
+      "Name": "Travaris Cadet",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 449,
+      "Name": "Tyrunn Walker",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 450,
+      "Name": "DeShawn Shead",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 451,
+      "Name": "Josh Robinson",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 452,
+      "Name": "Cairo Santos",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
+      "Index": 453,
+      "Name": "Logan Thomas",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 454,
+      "Name": "Aldrick Robinson",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 455,
+      "Name": "Oday Aboushi",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 456,
+      "Name": "Gino Gradkowski",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 457,
+      "Name": "Jeff Allen",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 458,
+      "Name": "Orson Charles",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 459,
+      "Name": "Kelvin Sheppard",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 460,
+      "Name": "Brandon Weeden",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 461,
+      "Name": "Kenjon Barner",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 462,
+      "Name": "Najee Goode",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 463,
+      "Name": "Michael Floyd",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 464,
+      "Name": "Matt Overton",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 955000
+    },
+    {
+      "Index": 465,
+      "Name": "Deonte Thompson",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 466,
+      "Name": "Bruce Carter",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 930000
+    },
+    {
+      "Index": 467,
+      "Name": "Rishard Matthews",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 468,
+      "Name": "Mychal Kendricks",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 469,
+      "Name": "Albert McClellan",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 470,
+      "Name": "Stevan Ridley",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 471,
+      "Name": "Rod Streater",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 472,
+      "Name": "Jonathan Cooper",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 473,
+      "Name": "Derrick Coleman",
+      "Pos": "FB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 474,
+      "Name": "Michael Ola",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 805000
+    },
+    {
+      "Index": 475,
+      "Name": "Greg Robinson",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 6500000
+    },
+    {
+      "Index": 476,
+      "Name": "Kelvin Benjamin",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 477,
+      "Name": "Jordan Matthews",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 478,
+      "Name": "Kony Ealy",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 479,
+      "Name": "Dontrelle Inman",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 480,
+      "Name": "Chandler Catanzaro",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 481,
+      "Name": "Jay Bromley",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 482,
+      "Name": "Wesley Johnson",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 483,
+      "Name": "Patrick Omameh",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 484,
+      "Name": "Caraun Reid",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 485,
+      "Name": "C.J. Anderson",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 486,
+      "Name": "Gerald Hodges",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 487,
+      "Name": "Jamar Taylor",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 488,
+      "Name": "Marcus Williams",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 489,
+      "Name": "Steven Means",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 805000
+    },
+    {
+      "Index": 490,
+      "Name": "Brian Schwenke",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 895000
+    },
+    {
+      "Index": 491,
+      "Name": "Kevin Minter",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 895000
+    },
+    {
+      "Index": 492,
+      "Name": "Charcandrick West",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 493,
+      "Name": "Sylvester Williams",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 494,
+      "Name": "Mo Alexander",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 495,
+      "Name": "Jeremiah Sirles",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 805000
+    },
+    {
+      "Index": 496,
+      "Name": "Bene Benwikere",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 497,
+      "Name": "Nat Berhe",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 498,
+      "Name": "John Jenkins",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 499,
+      "Name": "J.J. Wilcox",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 500,
+      "Name": "Kasim Edebali",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 501,
+      "Name": "Luke Bowanko",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 790000
+    },
+    {
+      "Index": 502,
+      "Name": "Datone Jones",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 782500
+    },
+    {
+      "Index": 503,
+      "Name": "Chris Conley",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 780922
+    },
+    {
+      "Index": 504,
+      "Name": "Geremy Davis",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 770000
+    },
+    {
+      "Index": 505,
+      "Name": "Eli Harold",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 767843
+    },
+    {
+      "Index": 506,
+      "Name": "PJ Williams",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 765228
+    },
+    {
+      "Index": 507,
+      "Name": "John Miller",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 763780
+    },
+    {
+      "Index": 508,
+      "Name": "Tyler Kroft",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 6250000
+    },
+    {
+      "Index": 509,
+      "Name": "Ramik Wilson",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 750000
+    },
+    {
+      "Index": 510,
+      "Name": "Jordan Hicks",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 8500000
+    },
+    {
+      "Index": 511,
+      "Name": "Ulrick John",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 745000
+    },
+    {
+      "Index": 512,
+      "Name": "Brandon Dunn",
+      "Pos": "34DT",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 513,
+      "Name": "Tommy Bohanon",
+      "Pos": "FB",
+      "Type": "Player",
+      "Value": 740000
+    },
+    {
+      "Index": 514,
+      "Name": "Carl Davis",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 515,
+      "Name": "Ty Montgomery",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 737199
+    },
+    {
+      "Index": 516,
+      "Name": "Jeff Heuerman",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 736451
+    },
+    {
+      "Index": 517,
+      "Name": "Tavon Young",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 8600000
+    },
+    {
+      "Index": 518,
+      "Name": "Henry Anderson",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 734294
+    },
+    {
+      "Index": 519,
+      "Name": "Steven Nelson",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 8500000
+    },
+    {
+      "Index": 520,
+      "Name": "Antonio Morrison",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 714977
+    },
+    {
+      "Index": 521,
+      "Name": "Trey Flowers",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 18000000
+    },
+    {
+      "Index": 522,
+      "Name": "Daryl Williams",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 6000000
+    },
+    {
+      "Index": 523,
+      "Name": "Jamison Crowder",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 9500000
+    },
+    {
+      "Index": 524,
+      "Name": "Justin Hardy",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 705205
+    },
+    {
+      "Index": 525,
+      "Name": "Josh Keyes",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 526,
+      "Name": "Blake Bell",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 527,
+      "Name": "Josh Shaw",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 528,
+      "Name": "Raheem Mostert",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 529,
+      "Name": "Andrew Donnal",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 530,
+      "Name": "Corey Robinson",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 531,
+      "Name": "Hayes Pullard",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 532,
+      "Name": "Rashad Greene",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 533,
+      "Name": "Jason Myers",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 3862500
+    },
+    {
+      "Index": 534,
+      "Name": "Mike Hull",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 535,
+      "Name": "Rakeem Nunez-Roches",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 536,
+      "Name": "Neville Hewitt",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 537,
+      "Name": "Cameron Lynch",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 538,
+      "Name": "Anthony Harris",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 539,
+      "Name": "Ben Heeney",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 540,
+      "Name": "Zach Zenner",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 541,
+      "Name": "Troy Hill",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 542,
+      "Name": "Denzelle Good",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 1800000
+    },
+    {
+      "Index": 543,
+      "Name": "Zach Moore",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 544,
+      "Name": "Ereck Flowers",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 545,
+      "Name": "Breshad Perriman",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 546,
+      "Name": "Scott Simonson",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 895000
+    },
+    {
+      "Index": 547,
+      "Name": "Zac Kerin",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 548,
+      "Name": "Bennie Fowler",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 549,
+      "Name": "Shelby Harris",
+      "Pos": "34DT",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 550,
+      "Name": "Antone Exum",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 551,
+      "Name": "Tom Savage",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 552,
+      "Name": "Bruce Ellington",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 895000
+    },
+    {
+      "Index": 553,
+      "Name": "Nicholas Williams",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 554,
+      "Name": "Clive Walford",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 555,
+      "Name": "Chaz Green",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 556,
+      "Name": "Ibraheim Campbell",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 557,
+      "Name": "Geneo Grissom",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 558,
+      "Name": "Jacquies Smith",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 705000
+    },
+    {
+      "Index": 559,
+      "Name": "Clayton Geathers",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 703482
+    },
+    {
+      "Index": 560,
+      "Name": "TJ Clemmings",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 701239
+    },
+    {
+      "Index": 561,
+      "Name": "Rodney Gunter",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 697479
+    },
+    {
+      "Index": 562,
+      "Name": "Za'Darius Smith",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 16500000
+    },
+    {
+      "Index": 563,
+      "Name": "Kwon Alexander",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 13500000
+    },
+    {
+      "Index": 564,
+      "Name": "Buck Allen",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 688618
+    },
+    {
+      "Index": 565,
+      "Name": "Damien Wilson",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 2875000
+    },
+    {
+      "Index": 566,
+      "Name": "Jon Feliciano",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 3625000
+    },
+    {
+      "Index": 567,
+      "Name": "Jake Ryan",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 684169
+    },
+    {
+      "Index": 568,
+      "Name": "Nicholas Grigsby",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 675000
+    },
+    {
+      "Index": 569,
+      "Name": "Thurston Armbrister",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 675000
+    },
+    {
+      "Index": 570,
+      "Name": "Kendall Lamm",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 2250000
+    },
+    {
+      "Index": 571,
+      "Name": "Rod Smith",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 660000
+    },
+    {
+      "Index": 572,
+      "Name": "Zach Vigil",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 660000
+    },
+    {
+      "Index": 573,
+      "Name": "Josh Lambo",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 3785000
+    },
+    {
+      "Index": 574,
+      "Name": "L.J. Fort",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 1833333
+    },
+    {
+      "Index": 575,
+      "Name": "Josh Walker",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 660000
+    },
+    {
+      "Index": 576,
+      "Name": "Tyler Patmon",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 660000
+    },
+    {
+      "Index": 577,
+      "Name": "Taylor Heinicke",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 805000
+    },
+    {
+      "Index": 578,
+      "Name": "Arie Kouandjio",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 660000
+    },
+    {
+      "Index": 579,
+      "Name": "Deiontrez Mount",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 660000
+    },
+    {
+      "Index": 580,
+      "Name": "Max Garcia",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 656422
+    },
+    {
+      "Index": 581,
+      "Name": "Tanner Vallejo",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 638453
+    },
+    {
+      "Index": 582,
+      "Name": "Grady Jarrett",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 15209000
+    },
+    {
+      "Index": 583,
+      "Name": "Erik Harris",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 584,
+      "Name": "Damiere Byrd",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 585,
+      "Name": "Olsen Pierre",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 586,
+      "Name": "Kevin Hogan",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 587,
+      "Name": "Jordan Taylor",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 588,
+      "Name": "Quinton Jefferson",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 589,
+      "Name": "B.J. Finney",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 590,
+      "Name": "Evan Boehm",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 591,
+      "Name": "Malcolm Brown",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 592,
+      "Name": "Jeremy Vujnovich",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 593,
+      "Name": "Stanley Jean-Baptiste",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 594,
+      "Name": "Juston Burris",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 595,
+      "Name": "Corey Coleman",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 596,
+      "Name": "Leonte Carroo",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 597,
+      "Name": "Casey Kreiter",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
+      "Index": 598,
+      "Name": "John Wetzel",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 599,
+      "Name": "Alex Collins",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 600,
+      "Name": "Daryl Worley",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 601,
+      "Name": "Matt Lengel",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 602,
+      "Name": "Tony Lippett",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 810000
+    },
+    {
+      "Index": 603,
+      "Name": "Shilique Calhoun",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 604,
+      "Name": "Patrick Onwuasor",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 605,
+      "Name": "Darian Thompson",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 606,
+      "Name": "T.J. Green",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 607,
+      "Name": "Xavier Grimble",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 608,
+      "Name": "Lafayette Pitts",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 609,
+      "Name": "Curtis Riley",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 610,
+      "Name": "Tyler Ott",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 611,
+      "Name": "Terrance Smith",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 612,
+      "Name": "Andrew Adams",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 613,
+      "Name": "Destiny Vaeao",
+      "Pos": "34DT",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 614,
+      "Name": "Geronimo Allison",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 615,
+      "Name": "J.D. McKissic",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 616,
+      "Name": "Jake Brendel",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 617,
+      "Name": "Tyvis Powell",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 618,
+      "Name": "DeVante Harris",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 619,
+      "Name": "Chris Manhertz",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 620,
+      "Name": "Corey Moore",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 621,
+      "Name": "Bryan Witzmann",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 622,
+      "Name": "Javien Elliott",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 623,
+      "Name": "Branden Jackson",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 624,
+      "Name": "Patrick Scales",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 625,
+      "Name": "Kameron Canaday",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 626,
+      "Name": "Luke Rhodes",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 627,
+      "Name": "Peyton Barber",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 628,
+      "Name": "Jordan Lucas",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 629,
+      "Name": "Eric Tomlinson",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 630,
+      "Name": "Kalan Reed",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 631,
+      "Name": "Chris Milton",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 632,
+      "Name": "Matt Darr",
+      "Pos": "P",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 633,
+      "Name": "Joey Hunt",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 634,
+      "Name": "Adrian Amos",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 9000000
+    },
+    {
+      "Index": 635,
+      "Name": "Brett Hundley",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 625908
+    },
+    {
+      "Index": 636,
+      "Name": "Jay Ajayi",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 625203
+    },
+    {
+      "Index": 637,
+      "Name": "Kyle Emanuel",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 624643
+    },
+    {
+      "Index": 638,
+      "Name": "Tyeler Davison",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 624306
+    },
+    {
+      "Index": 639,
+      "Name": "CJ Uzomah",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 6100000
+    },
+    {
+      "Index": 640,
+      "Name": "Ronald Martin",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 622500
+    },
+    {
+      "Index": 641,
+      "Name": "JJ Nelson",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
+      "Index": 642,
+      "Name": "Jesse James",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 5650000
+    },
+    {
+      "Index": 643,
+      "Name": "Bradley Pinion",
+      "Pos": "P",
+      "Type": "Player",
+      "Value": 2750000
+    },
+    {
+      "Index": 644,
+      "Name": "James O'Shaughnessy",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 618313
+    },
+    {
+      "Index": 645,
+      "Name": "DJ Alexander",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 618313
+    },
+    {
+      "Index": 646,
+      "Name": "Michael Burton",
+      "Pos": "FB",
+      "Type": "Player",
+      "Value": 616089
+    },
+    {
+      "Index": 647,
+      "Name": "David Mayo",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 611563
+    },
+    {
+      "Index": 648,
+      "Name": "Nick Boyle",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 6000000
+    },
+    {
+      "Index": 649,
+      "Name": "Cameron Artis-Payne",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 611563
+    },
+    {
+      "Index": 650,
+      "Name": "Darius Philon",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 600147
+    },
+    {
+      "Index": 651,
+      "Name": "Troymaine Pope",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 652,
+      "Name": "Leterrius Walton",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 599232
+    },
+    {
+      "Index": 653,
+      "Name": "A.J. Derby",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 598013
+    },
+    {
+      "Index": 654,
+      "Name": "Christian Covington",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 1750000
+    },
+    {
+      "Index": 655,
+      "Name": "Bryce Hager",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 588035
+    },
+    {
+      "Index": 656,
+      "Name": "Alan Cross",
+      "Pos": "FB",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "Index": 657,
+      "Name": "DeAndre Houston-Carson",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "Index": 658,
+      "Name": "Daniel Lasco",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "Index": 659,
+      "Name": "Nate Sudfeld",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 660,
+      "Name": "Senorise Perry",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "Index": 661,
+      "Name": "David Fluellen",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 662,
+      "Name": "Tye Smith",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "Index": 663,
+      "Name": "Jeremy Cash",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "Index": 664,
+      "Name": "Rashard Higgins",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 665,
+      "Name": "Ben Braunecker",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 1350000
+    },
+    {
+      "Index": 666,
+      "Name": "Gabe Martin",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "Index": 667,
+      "Name": "Byron Marshall",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 668,
+      "Name": "D.J. Foster",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 669,
+      "Name": "Justin March-Lillard",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 670,
+      "Name": "Maurice Harris",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "Index": 671,
+      "Name": "Dexter McDonald",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 584213
+    },
+    {
+      "Index": 672,
+      "Name": "Trent Brown",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 16500000
+    },
+    {
+      "Index": 673,
+      "Name": "Geoff Swaim",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 583683
+    },
+    {
+      "Index": 674,
+      "Name": "Darryl Roberts",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 6000000
+    },
+    {
+      "Index": 675,
+      "Name": "Trevor Siemian",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 583196
+    },
+    {
+      "Index": 676,
+      "Name": "Trey Johnson",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 572500
+    },
+    {
+      "Index": 677,
+      "Name": "Darren Andrews",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 571667
+    },
+    {
+      "Index": 678,
+      "Name": "Andrew Trumbetti",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 570166
+    },
+    {
+      "Index": 679,
+      "Name": "Johnny Stanton",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 680,
+      "Name": "Jevoni Robinson",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 681,
+      "Name": "Manase Hungalu",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 682,
+      "Name": "Akeem King",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 1400000
+    },
+    {
+      "Index": 683,
+      "Name": "Matt Skura",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 684,
+      "Name": "Eddie Yarbrough",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 685,
+      "Name": "Alex Ellis",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 555000
+    },
+    {
+      "Index": 686,
+      "Name": "Doug Middleton",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 687,
+      "Name": "Kristjan Sokoli",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 555000
+    },
+    {
+      "Index": 688,
+      "Name": "Zach Wood",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 689,
+      "Name": "Lucas Patrick",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 690,
+      "Name": "Jordan Dangerfield",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 691,
+      "Name": "Zach Banner",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 692,
+      "Name": "Justin McCray",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 693,
+      "Name": "Davis Webb",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 694,
+      "Name": "Darrell Daniels",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 695,
+      "Name": "Greg Mabin",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 696,
+      "Name": "Daniel Munyer",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 555000
+    },
+    {
+      "Index": 697,
+      "Name": "Jon Halapio",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 698,
+      "Name": "Bronson Kaufusi",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 699,
+      "Name": "Joseph Jones",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 700,
+      "Name": "Jerrol Garcia-Williams",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 555000
+    },
+    {
+      "Index": 701,
+      "Name": "Dominique Hatfield",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 702,
+      "Name": "Matt Feiler",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 703,
+      "Name": "Alex Tanney",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 1050000
+    },
+    {
+      "Index": 704,
+      "Name": "Elijah Wilkinson",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 705,
+      "Name": "Jordan Williams",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 706,
+      "Name": "Brian Parker",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 555000
+    },
+    {
+      "Index": 707,
+      "Name": "Cole Toner",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 708,
+      "Name": "Jermaine Whitehead",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 709,
+      "Name": "Shalom Luani",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 555000
+    },
+    {
+      "Index": 710,
+      "Name": "Devante Bond",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 711,
+      "Name": "De'Angelo Henderson",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 712,
+      "Name": "Kerry Hyder",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 555000
+    },
+    {
+      "Index": 713,
+      "Name": "Jonathan Woodard",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 714,
+      "Name": "Jeremy Clark",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 715,
+      "Name": "Isaac Asiata",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 716,
+      "Name": "Jermaine Eluemunor",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 717,
+      "Name": "Mike Hilton",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 718,
+      "Name": "Vince Biegel",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 719,
+      "Name": "Matt Wile",
+      "Pos": "P",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 720,
+      "Name": "JoJo Natson",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 721,
+      "Name": "Elijhaa Penny",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 722,
+      "Name": "George Fant",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 723,
+      "Name": "Jared Norris",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 845000
+    },
+    {
+      "Index": 724,
+      "Name": "Leonard Wester",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 546667
+    },
+    {
+      "Index": 725,
+      "Name": "Romeo Okwara",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 3400000
+    },
+    {
+      "Index": 726,
+      "Name": "Joel Heath",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 727,
+      "Name": "Michael Pierce",
+      "Pos": "34DT",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 728,
+      "Name": "Jonathan Jones",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 729,
+      "Name": "Robby Anderson",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 730,
+      "Name": "Matthias Farley",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 731,
+      "Name": "Ka'imi Fairbairn",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 732,
+      "Name": "Roy Robertson-Harris",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 733,
+      "Name": "Antonio Hamilton",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 541833
+    },
+    {
+      "Index": 734,
+      "Name": "Brennan Scarlett",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 735,
+      "Name": "Tommylee Lewis",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 541667
+    },
+    {
+      "Index": 736,
+      "Name": "Briean Boddy-Calhoun",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 900000
+    },
+    {
+      "Index": 737,
+      "Name": "Ken Crawley",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 738,
+      "Name": "Jarrod Wilson",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2416667
+    },
+    {
+      "Index": 739,
+      "Name": "Mitchell Loewen",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 740,
+      "Name": "Brian Poole",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "Index": 741,
+      "Name": "Robert Kelley",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 541000
+    },
+    {
+      "Index": 742,
+      "Name": "Kentrell Brice",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 540667
+    },
+    {
+      "Index": 743,
+      "Name": "Spencer Pulley",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 2675000
+    },
+    {
+      "Index": 744,
+      "Name": "Rashod Hill",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 745,
+      "Name": "Tre Madden",
+      "Pos": "FB",
+      "Type": "Player",
+      "Value": 540000
+    },
+    {
+      "Index": 746,
+      "Name": "Chester Rogers",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 747,
+      "Name": "Rick Lovato",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 748,
+      "Name": "Morgan Fox",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 749,
+      "Name": "Blake Countess",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 750,
+      "Name": "Trevor Williams",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 751,
+      "Name": "Cory Littleton",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 752,
+      "Name": "Ross Travis",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 753,
+      "Name": "Jalen Richard",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 754,
+      "Name": "Wil Lutz",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 540000
+    },
+    {
+      "Index": 755,
+      "Name": "Elie Bouka",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 525000
+    },
+    {
+      "Index": 756,
+      "Name": "John Flynn",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 525000
+    },
+    {
+      "Index": 757,
+      "Name": "Trevor Bates",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 525000
+    },
+    {
+      "Index": 758,
+      "Name": "Josh Tupou",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 759,
+      "Name": "Isaac Rochell",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 760,
+      "Name": "Justin Hamilton",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 761,
+      "Name": "Michael Liedtke",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 762,
+      "Name": "Daniel Ross",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 763,
+      "Name": "Brad Kaaya",
+      "Pos": "QB",
+      "Type": "Player",
+      "Value": 510000
+    },
+    {
+      "Index": 764,
+      "Name": "Justin Hardee",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 765,
+      "Name": "Isaiah Irving",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 766,
+      "Name": "Matt LaCosse",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 1400000
+    },
+    {
+      "Index": 767,
+      "Name": "Jesse Davis",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 768,
+      "Name": "Rashaad Coward",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 769,
+      "Name": "Elijah Lee",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 770,
+      "Name": "Harrison Butker",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 771,
+      "Name": "Bryan Cox Jr.",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 772,
+      "Name": "Cameron Tom",
+      "Pos": "C",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 773,
+      "Name": "Ricky Seals-Jones",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 774,
+      "Name": "Trevon Coley",
+      "Pos": "43DT",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 775,
+      "Name": "David Moore",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 510000
+    },
+    {
+      "Index": 776,
+      "Name": "Brandon Wilson",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 777,
+      "Name": "Reid Ferguson",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 778,
+      "Name": "Steve Longa",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 779,
+      "Name": "Jake Elliott",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 780,
+      "Name": "Charles Washington",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 781,
+      "Name": "Aldrick Rosas",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 782,
+      "Name": "Marcus Johnson",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 783,
+      "Name": "Tony McRae",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 784,
+      "Name": "Marvin Hall",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 510000
+    },
+    {
+      "Index": 785,
+      "Name": "Jaydon Mickens",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 510000
+    },
+    {
+      "Index": 786,
+      "Name": "Kevin Peterson",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 787,
+      "Name": "Zach Sterup",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 788,
+      "Name": "Deon Lacey",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 789,
+      "Name": "Isaiah Johnson",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 790,
+      "Name": "Alex Redmond",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 791,
+      "Name": "C.J. Ham",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 792,
+      "Name": "Trey Hopkins",
+      "Pos": "RG",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 793,
+      "Name": "Cedrick Lang",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 490000
+    },
+    {
+      "Index": 794,
+      "Name": "Chris Reed",
+      "Pos": "LG",
+      "Type": "Player",
+      "Value": 485000
+    },
+    {
+      "Index": 795,
+      "Name": "Damian Parms",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 495000
+    },
+    {
+      "Index": 796,
+      "Name": "Ben Braden",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 797,
+      "Name": "Tevin Mitchel",
+      "Pos": "CB",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 798,
+      "Name": "Emmanuel Ellerbee",
+      "Pos": "43OLB",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 799,
+      "Name": "Ricky Ali'ifua",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 800,
+      "Name": "DeAndre Carter",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 801,
+      "Name": "Marcell Ateman",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 802,
+      "Name": "Daniel Carlson",
+      "Pos": "K",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 803,
+      "Name": "De'Lance Turner",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 804,
+      "Name": "Deontay Burnett",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 805,
+      "Name": "Frankie Luvu",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 806,
+      "Name": "Anthony Wint",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 495000
+    },
+    {
+      "Index": 807,
+      "Name": "Jason Cabinda",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 808,
+      "Name": "Gus Edwards",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 809,
+      "Name": "Trent Sieg",
+      "Pos": "LS",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 810,
+      "Name": "Efe Obada",
+      "Pos": "43DE",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 811,
+      "Name": "Jake Kumerow",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 812,
+      "Name": "KhaDarel Hodge",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 813,
+      "Name": "T.J. Mutcherson",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 814,
+      "Name": "Quincy Adeboyejo",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 495000
+    },
+    {
+      "Index": 815,
+      "Name": "Jake McGee",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 816,
+      "Name": "Elijah Hood",
+      "Pos": "RB",
+      "Type": "Player",
+      "Value": 495000
+    },
+    {
+      "Index": 817,
+      "Name": "Keith Kelsey",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 818,
+      "Name": "Artavis Scott",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 495000
+    },
+    {
+      "Index": 819,
+      "Name": "Josiah Price",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 820,
+      "Name": "Joseph Cheek",
+      "Pos": "RT",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 821,
+      "Name": "Garrett Sickels",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 822,
+      "Name": "Malik Golden",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 823,
+      "Name": "Tim Patrick",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 824,
+      "Name": "Austin Calitro",
+      "Pos": "ILB",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 825,
+      "Name": "Fadol Brown",
+      "Pos": "34DE",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 826,
+      "Name": "Rickey Jefferson",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 827,
+      "Name": "Jordan Simmons",
+      "Pos": "G",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 828,
+      "Name": "Cody Hollister",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 480000
+    },
+    {
+      "Index": 829,
+      "Name": "Steven Moore",
+      "Pos": "T",
+      "Type": "Player",
+      "Value": 495000
+    },
+    {
+      "Index": 830,
+      "Name": "Robert Tonyan",
+      "Pos": "TE",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 831,
+      "Name": "Dymonte Thomas",
+      "Pos": "S",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 832,
+      "Name": "Marcus Kemp",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 833,
+      "Name": "Reggie Gilbert",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 834,
+      "Name": "Justin Murray",
+      "Pos": "LT",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 835,
+      "Name": "Jester Weah",
+      "Pos": "WR",
+      "Type": "Player",
+      "Value": 540000
+    },
+    {
+      "Index": 836,
+      "Name": "Tyrone Holmes",
+      "Pos": "34OLB",
+      "Type": "Player",
+      "Value": 129200
+    }
+  ]
+}

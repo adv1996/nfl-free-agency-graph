@@ -1,0 +1,506 @@
+{
+  "links": [
+    {
+      "source": 0,
+      "status": 0,
+      "target": 32
+    },
+    {
+      "source": 32,
+      "status": 1,
+      "target": 1
+    },
+    {
+      "source": 27,
+      "status": 0,
+      "target": 33
+    },
+    {
+      "source": 33,
+      "status": 1,
+      "target": 25
+    },
+    {
+      "source": 1,
+      "status": 0,
+      "target": 34
+    },
+    {
+      "source": 34,
+      "status": 1,
+      "target": 4
+    },
+    {
+      "source": 2,
+      "status": 0,
+      "target": 35
+    },
+    {
+      "source": 35,
+      "status": 1,
+      "target": 3
+    },
+    {
+      "source": 7,
+      "status": 2,
+      "target": 36
+    },
+    {
+      "source": 2,
+      "status": 0,
+      "target": 37
+    },
+    {
+      "source": 37,
+      "status": 1,
+      "target": 3
+    },
+    {
+      "source": 8,
+      "status": 0,
+      "target": 38
+    },
+    {
+      "source": 38,
+      "status": 1,
+      "target": 9
+    },
+    {
+      "source": 5,
+      "status": 2,
+      "target": 39
+    },
+    {
+      "source": 8,
+      "status": 0,
+      "target": 40
+    },
+    {
+      "source": 40,
+      "status": 1,
+      "target": 11
+    },
+    {
+      "source": 12,
+      "status": 0,
+      "target": 41
+    },
+    {
+      "source": 41,
+      "status": 1,
+      "target": 5
+    },
+    {
+      "source": 5,
+      "status": 0,
+      "target": 42
+    },
+    {
+      "source": 42,
+      "status": 1,
+      "target": 12
+    },
+    {
+      "source": 3,
+      "status": 0,
+      "target": 43
+    },
+    {
+      "source": 43,
+      "status": 1,
+      "target": 2
+    },
+    {
+      "source": 9,
+      "status": 0,
+      "target": 44
+    },
+    {
+      "source": 44,
+      "status": 1,
+      "target": 11
+    },
+    {
+      "source": 14,
+      "status": 0,
+      "target": 45
+    },
+    {
+      "source": 45,
+      "status": 1,
+      "target": 9
+    },
+    {
+      "source": 16,
+      "status": 0,
+      "target": 46
+    },
+    {
+      "source": 46,
+      "status": 1,
+      "target": 12
+    },
+    {
+      "source": 20,
+      "status": 2,
+      "target": 47
+    },
+    {
+      "source": 18,
+      "status": 0,
+      "target": 48
+    },
+    {
+      "source": 48,
+      "status": 1,
+      "target": 0
+    },
+    {
+      "source": 17,
+      "status": 2,
+      "target": 49
+    },
+    {
+      "source": 12,
+      "status": 0,
+      "target": 50
+    },
+    {
+      "source": 50,
+      "status": 1,
+      "target": 19
+    },
+    {
+      "source": 24,
+      "status": 0,
+      "target": 51
+    },
+    {
+      "source": 51,
+      "status": 1,
+      "target": 20
+    }
+  ],
+  "nodes": [
+    {
+      "Index": 0,
+      "Name": "BAL",
+      "Type": "Team"
+    },
+    {
+      "Index": 1,
+      "Name": "DEN",
+      "Type": "Team"
+    },
+    {
+      "Index": 2,
+      "Name": "NYG",
+      "Type": "Team"
+    },
+    {
+      "Index": 3,
+      "Name": "CLE",
+      "Type": "Team"
+    },
+    {
+      "Index": 4,
+      "Name": "WAS",
+      "Type": "Team"
+    },
+    {
+      "Index": 5,
+      "Name": "JAC",
+      "Type": "Team"
+    },
+    {
+      "Index": 6,
+      "Name": "DET",
+      "Type": "Team"
+    },
+    {
+      "Index": 7,
+      "Name": "DAL",
+      "Type": "Team"
+    },
+    {
+      "Index": 8,
+      "Name": "PIT",
+      "Type": "Team"
+    },
+    {
+      "Index": 9,
+      "Name": "OAK",
+      "Type": "Team"
+    },
+    {
+      "Index": 10,
+      "Name": "KC",
+      "Type": "Team"
+    },
+    {
+      "Index": 11,
+      "Name": "NYJ",
+      "Type": "Team"
+    },
+    {
+      "Index": 12,
+      "Name": "PHI",
+      "Type": "Team"
+    },
+    {
+      "Index": 13,
+      "Name": "HOU",
+      "Type": "Team"
+    },
+    {
+      "Index": 14,
+      "Name": "LA",
+      "Type": "Team"
+    },
+    {
+      "Index": 15,
+      "Name": "GB",
+      "Type": "Team"
+    },
+    {
+      "Index": 16,
+      "Name": "TB",
+      "Type": "Team"
+    },
+    {
+      "Index": 17,
+      "Name": "CHI",
+      "Type": "Team"
+    },
+    {
+      "Index": 18,
+      "Name": "SEA",
+      "Type": "Team"
+    },
+    {
+      "Index": 19,
+      "Name": "NE",
+      "Type": "Team"
+    },
+    {
+      "Index": 20,
+      "Name": "ARI",
+      "Type": "Team"
+    },
+    {
+      "Index": 21,
+      "Name": "CAR",
+      "Type": "Team"
+    },
+    {
+      "Index": 22,
+      "Name": "MIN",
+      "Type": "Team"
+    },
+    {
+      "Index": 23,
+      "Name": "SF",
+      "Type": "Team"
+    },
+    {
+      "Index": 24,
+      "Name": "ATL",
+      "Type": "Team"
+    },
+    {
+      "Index": 25,
+      "Name": "TEN",
+      "Type": "Team"
+    },
+    {
+      "Index": 26,
+      "Name": "IND",
+      "Type": "Team"
+    },
+    {
+      "Index": 27,
+      "Name": "MIA",
+      "Type": "Team"
+    },
+    {
+      "Index": 28,
+      "Name": "LAC",
+      "Type": "Team"
+    },
+    {
+      "Index": 29,
+      "Name": "BUF",
+      "Type": "Team"
+    },
+    {
+      "Index": 30,
+      "Name": "NO",
+      "Type": "Team"
+    },
+    {
+      "Index": 31,
+      "Name": "CIN",
+      "Type": "Team"
+    },
+    {
+      "Index": 32,
+      "Name": "Joe Flacco",
+      "Pos": "QB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 22133333
+    },
+    {
+      "Index": 33,
+      "Name": "Ryan Tannehill",
+      "Pos": "QB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 7000000
+    },
+    {
+      "Index": 34,
+      "Name": "Case Keenum",
+      "Pos": "QB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 7500000
+    },
+    {
+      "Index": 35,
+      "Name": "Odell Beckham, Jr.",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 18000000
+    },
+    {
+      "Index": 36,
+      "Name": "Demarcus Lawrence",
+      "Pos": "43DE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 20571600
+    },
+    {
+      "Index": 37,
+      "Name": "Olivier Vernon",
+      "Pos": "34OLB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 17000000
+    },
+    {
+      "Index": 38,
+      "Name": "Antonio Brown",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 17000000
+    },
+    {
+      "Index": 39,
+      "Name": "Marcell Dareus",
+      "Pos": "43DT",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 14042500
+    },
+    {
+      "Index": 40,
+      "Name": "Le'Veon Bell",
+      "Pos": "RB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 13125000
+    },
+    {
+      "Index": 41,
+      "Name": "Nick Foles",
+      "Pos": "QB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 22000000
+    },
+    {
+      "Index": 42,
+      "Name": "Malik Jackson",
+      "Pos": "43DT",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 10000000
+    },
+    {
+      "Index": 43,
+      "Name": "Kevin Zeitler",
+      "Pos": "RG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 12000000
+    },
+    {
+      "Index": 44,
+      "Name": "Kelechi Osemele",
+      "Pos": "LG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 11700000
+    },
+    {
+      "Index": 45,
+      "Name": "Lamarcus Joyner",
+      "Pos": "S",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 10500000
+    },
+    {
+      "Index": 46,
+      "Name": "DeSean Jackson",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 11166667
+    },
+    {
+      "Index": 47,
+      "Name": "Larry Fitzgerald",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 11000000
+    },
+    {
+      "Index": 48,
+      "Name": "Earl Thomas",
+      "Pos": "S",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 13750000
+    },
+    {
+      "Index": 49,
+      "Name": "Kyle Long",
+      "Pos": "RG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 6100000
+    },
+    {
+      "Index": 50,
+      "Name": "Michael Bennett",
+      "Pos": "43DE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 9833333
+    },
+    {
+      "Index": 51,
+      "Name": "Robert Alford",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 7500000
+    }
+  ]
+}
