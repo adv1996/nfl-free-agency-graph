@@ -3,4 +3,4 @@
 
 ![Alt text](https://github.com/adv1996/nfl-free-agency-graph/blob/master/docs/hover_player.png)
 
-![Alt text](https://github.com/adv1996/nfl-free-agency-graph/blob/master/docs/hover_team1.png)
+![Alt text](https://github.com/adv1996/nfl-free-agency-graph/blob/master/docs/hover_team2.png)
