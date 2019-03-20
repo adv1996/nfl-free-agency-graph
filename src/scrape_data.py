@@ -46,4 +46,5 @@ def saveToCSV(data):
     writer = csv.writer(csvFile)
     writer.writerows(data)
   csvFile.close()
+  print('Completed Web Scraping')
 scrape()

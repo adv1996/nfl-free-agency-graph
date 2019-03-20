@@ -1,0 +1,11 @@
+#!/bin/bash
+
+/anaconda3/bin/python /Users/advaithvenkatakrishnan/Projects/Active/nfl-free-agency-tracker/src/scrape_data.py
+echo Step 1 Completed Scraping
+/anaconda3/bin/python /Users/advaithvenkatakrishnan/Projects/Active/nfl-free-agency-tracker/graph.py
+echo Step 2 Completed Converting to Nodes and Links Saved to data.json
+git add *
+git commit -m 'updated data'
+git push
+yarn build
+echo Completed Git and Build

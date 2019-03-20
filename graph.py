@@ -52,7 +52,7 @@ def setTeamNodes():
   print(fdf.shape)
   print(df.shape)
   i = 0
-  for index, row in fdf.head(20).iterrows():
+  for index, row in fdf.iterrows():
     playerIndex = i + 32
     n = {
       'Name': row['Player'],
