@@ -42,7 +42,8 @@ def scrape():
   saveToCSV(data)
 
 def saveToCSV(data):
-  with open('nflfa2019.csv', 'w') as csvFile:
+  filename = 'nflfa2019.csv'
+  with open(filename, 'w') as csvFile:
     writer = csv.writer(csvFile)
     writer.writerows(data)
   csvFile.close()

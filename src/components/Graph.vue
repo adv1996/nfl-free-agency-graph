@@ -42,9 +42,7 @@
         top: 20,
         bottom: 20,
         radius: 350,
-        leavingColor: 'red',
-        stayingColor: 'yellow',
-        joiningColor: 'green',
+        codes: [true,true,true],
         isLegend: 'Enable Legend',
       }
     },
@@ -88,17 +86,23 @@
           {
             'type': 'line',
             'color': '#CA3433',
-            'content': 'Player Leaving'
+            'content': 'Player Leaving',
+            'status': true,
+            'code': 0,
           },
           {
             'type': 'line',
             'color': '#D5B85A',
-            'content': 'Player Joining'
+            'content': 'Player Joining',
+            'status': true,
+            'code': 1,
           },
           {
             'type': 'line',
             'color': '#0080FE',
-            'content': 'Player Staying'
+            'content': 'Player Staying',
+            'status': true,
+            'code': 2,
           }
         ]
         let ys = d3.scaleLinear().domain([0,5]).range([0, 110])
@@ -106,7 +110,7 @@
         d3.select('#legend')
           .append('rect')
             .attr('height', 120)
-            .attr('width', 200)
+            .attr('width', 230)
             .attr('x', 10)
             .attr('y', 10)
             .attr('fill', '#D9DDDC')
@@ -150,11 +154,70 @@
             .attr("text-anchor", "right")  
             .style("font-size", "14px")
         }
+        let that = this;
+        let g = d3.select('#legend')
+          .selectAll('.toggle')
+          .data(legends.filter((d) => {
+            if (d.type === 'line') {
+              return true
+            }
+            return false
+          }))
+          .enter()
+          .append('g')
+        g.append('rect')
+          .attr('x', 208)
+          .attr('y', (d,i) => {
+            return ys(i + 2) + 12.5
+          })
+          .attr('width', 25)
+          .attr('height', 15)
+          .attr('fill', 'black')
+          .attr('rx', 6)
+          .attr('ry', 6)
+          .style('fill-opacity', 0.7)
+
+        g.append('circle')
+          .attr('cx', 215)
+          .attr('cy', (d, i) => {
+            return ys(i + 2) + 20
+          })
+          .attr('r', 6)
+          .attr('fill', (d) => {
+            return d.status ? d.color : 'white'
+          })
+          .attr('stroke-width', '2px')
+          .on('click', function(d) {
+            if (that.codes[d.code]) {
+              d3.select(this)
+                .transition()
+                .duration(1000)
+                .attr('fill', 'white')
+                .attr('cx', 225)
+              d3.selectAll('.link' + d.code)
+                .transition()
+                .duration(1000)
+                .style("stroke-opacity", .1);
+              that.codes[d.code] = !that.codes[d.code]    
+            } else {
+              d3.select(this)
+                .transition()
+                .duration(1000)
+                .attr('fill', d.color)
+                .attr('cx', 215)
+              d3.selectAll('.link' + d.code)
+                .transition()
+                .duration(1000)
+                .style("stroke-opacity", 1);
+              that.codes[d.code] = !that.codes[d.code]
+            }
+          })
         
         d3.select('#legend')
           .style('opacity', 0)
       },
       createGraph() {
+        let that = this;
         let tooltip = d3.select('body')
           .append('div')
           .attr('class', 'tooltip')	
@@ -228,8 +291,8 @@
             .attr('y2', function(d) {
               return d.target.y
             })
-            .attr('s', (d) => {
-              return d.source
+            .attr('class', (d) => {
+              return 'link' + d.status
             })
             .style("stroke", (d) => {
               if (d.status === 0) {
@@ -272,8 +335,12 @@
             .attr('fill-opacity', 1)
             .attr('stroke', '#598BAF')
             .attr('stroke-width', '5px')
-          d3.selectAll('line')
-             .style('stroke-opacity', 1)
+          d3.selectAll('.link0')
+            .style('stroke-opacity', that.codes[0] ? 1 : .1)
+          d3.selectAll('.link1')
+            .style('stroke-opacity', that.codes[1] ? 1 : .1)
+          d3.selectAll('.link2')
+            .style('stroke-opacity', that.codes[2] ? 1 : .1)
           d3.selectAll('.rnode')
             .attr('fill-opacity', 1)
         }
@@ -297,9 +364,16 @@
               })
               .on('mouseover', (d) => {
                 tooltip
-                  .style("left", (d3.event.pageX + 10) + "px")	
+                  .style("left", (d3.event.pageX + 15) + "px")	
                   .style("top", (d3.event.pageY - 28) + "px")
                   .style('opacity', 1)
+                  .style('height', (e) => {
+                    if (d.Name.length > 13) {
+                      return 50;
+                    } else {
+                      return 60;
+                    }
+                  })
                   .html(
                     d.Name + '<br/>' + d.Pos + '<br/>' + '$' + (d.Value / 1000000).toFixed(1) + ' Million'
                   )
@@ -401,9 +475,6 @@
 </script>
 
 <style>
-circle {
-  stroke-width: 5px;
-}
 line {
   stroke-width: 5px;
 }
@@ -414,10 +485,9 @@ text {
   font-size: 16px;
 }
 div.tooltip {	
-  position: absolute;			
-  text-align: center;			
-  width: 90px;					
-  height: 70px;					
+  position: absolute;
+  text-align: center;
+  width: 90px;			
   padding: 2px;				
   font-size: 12px;		
   font-family: "Helvetica Neue", Helvetica, sans-serif;
