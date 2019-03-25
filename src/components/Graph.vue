@@ -31,6 +31,7 @@
 <script>
   /* eslint-disable */
   import * as d3 from 'd3';
+  import { sliderBottom } from 'd3-simple-slider';
   import TestData from '../../data.json'
   export default {
     data() {
@@ -44,6 +45,8 @@
         radius: 350,
         codes: [true,true,true],
         isLegend: 'Enable Legend',
+        linkedByIndex: [],
+        val: [7,25],
       }
     },
     mounted() {
@@ -105,11 +108,15 @@
             'code': 2,
           }
         ]
-        let ys = d3.scaleLinear().domain([0,5]).range([0, 110])
+        let ys = d3.scaleLinear().domain([0,5]).range([10, 110])
+        let tooltip = d3.select('body')
+          .append('div')
+          .attr('class', 'tooltip')	
+          .style('opacity', 0)
 
         d3.select('#legend')
           .append('rect')
-            .attr('height', 120)
+            .attr('height', 185)
             .attr('width', 230)
             .attr('x', 10)
             .attr('y', 10)
@@ -123,7 +130,7 @@
               .attr('height', 25)
               .attr('width', 25)
               .attr('x', 50)
-              .attr('y', ys(i) + 12.5)
+              .attr('y', ys(i) + 2.5)
               .attr('fill', legends[i].color)
               .attr('rx', 6)
               .attr('ry', 6)
@@ -133,7 +140,7 @@
               .append('circle')
               .attr('r', 10)
               .attr('cx', 62.5)
-              .attr('cy', ys(i) + 27.5)
+              .attr('cy', ys(i) + 22)
               .attr('fill', legends[i].color)
           }
           if (legends[i].type === 'line') {
@@ -147,12 +154,11 @@
           }
           d3.select('#legend')
             .append('text')
-            .attr('x', 150)
+            .attr('class', 'legendText')
+            .attr('x', 100)
             .attr('y', ys(i))
             .attr('dy', 25)
             .text(legends[i].content)
-            .attr("text-anchor", "right")  
-            .style("font-size", "14px")
         }
         let that = this;
         let g = d3.select('#legend')
@@ -212,23 +218,49 @@
               that.codes[d.code] = !that.codes[d.code]
             }
           })
-        
+        let slider = sliderBottom()
+          .min(0)
+          .max(25)
+          .width(150)
+          .ticks(5)
+          .default(that.val)
+          .fill('#2196f3')
+          .step(1)
+          .handle(
+            d3
+              .symbol()
+              .type(d3.symbolCircle)
+              .size(150)()
+          )
+          .on('onchange', val => {
+            that.updateNodes(val)
+            that.updateLinks(val)
+          })
+        d3.select('#legend').append('text')
+          .attr('x', 20)
+          .attr('y', 137)
+          .text('Filter Players by Salary (millions)')
+          .attr('class', 'filterText')
+        d3.select('#legend').append('g')
+          .attr('transform', 'translate(45,150)')
+          .call(slider)
         d3.select('#legend')
           .style('opacity', 0)
       },
       createGraph() {
         let that = this;
-        let tooltip = d3.select('body')
-          .append('div')
-          .attr('class', 'tooltip')	
-
-        var zoom_handler = d3.zoom()
+        // zoom functionality
+        let zoom_handler = d3.zoom()
           .on("zoom", zoom_actions);
         zoom_handler(d3.select('#teams')); 
-
+        
         function zoom_actions(){
           d3.select('.everything').attr("transform", d3.event.transform)
         }
+        let transform = d3.zoomIdentity.translate(that.width / 2, that.height / 2).scale(.25);
+        d3.select('.everything')
+          .attr("transform", transform)
+
         
         var simulation = d3.forceSimulation(TestData.nodes)
           .force('charge', d3.forceManyBody().strength(-100))
@@ -236,7 +268,7 @@
           .force('center', d3.forceCenter(this.width / 2, this.height / 2))
           .force('link', d3.forceLink().links(TestData.links).distance(25))
           .on('tick', ticked);
-        simulation.tick(300);
+        simulation.tick(300)
         // nearest neighbor
         function drag(simulation) {
           
@@ -262,213 +294,266 @@
             .on("drag", dragged)
             .on("end", dragended);
         }
-        const linkedByIndex = {};
+        that.linkedByIndex = {};
         TestData.links.forEach(d => {
-          linkedByIndex[`${d.source.index},${d.target.index}`] = 1;
+          that.linkedByIndex[`${d.source.index},${d.target.index}`] = 1;
         });
-
-        function isConnected(a, b) {
-          return linkedByIndex[`${a.index},${b.index}`] || linkedByIndex[`${b.index},${a.index}`] || a.index === b.index;
-        }
-
-        function updateLinks() {
-          let u = d3.select('.links')
-            .selectAll('line')
-            .data(TestData.links)
-
-          u.enter()
-            .append('line')
-            .merge(u)
-            .attr('x1', function(d) {
-              return d.source.x
-            })
-            .attr('y1', function(d) {
-              return d.source.y
-            })
-            .attr('x2', function(d) {
-              return d.target.x
-            })
-            .attr('y2', function(d) {
-              return d.target.y
-            })
-            .attr('class', (d) => {
-              return 'link' + d.status
-            })
-            .style("stroke", (d) => {
-              if (d.status === 0) {
-                return '#CA3433'
-              } else if (d.status === 1) {
-                return '#D5B85A'
-              } else {
-                return '#0080FE'
-              }
-              return d.status
-            })
-
-          u.exit().remove()
-        }
-
-        function fade(d) {
-          d3.selectAll('.cnode')
-            .attr('fill-opacity', function(o) {
-              const connected = isConnected(d, o) ? 1 : false;
-              this.setAttribute('stroke', connected ? '#3182bd' : 0)
-              return connected ? 1 : .1;
-            })
-          d3.selectAll('.rnode')
-            .attr('fill-opacity', function(o) {
-              const connected = isConnected(d, o) ? 1 : false;
-              return connected ? 1 : .1;
-            })
-          d3.selectAll('line')
-            .style("stroke-opacity", function(o) {
-              if (o.source.index === d.Index || o.target.index === d.Index) {
-                return 1;
-              } else {
-                return .1
-              }
-          });
-
-        }
-        function fadeOut() {
-          d3.selectAll('.cnode')
-            .attr('fill-opacity', 1)
-            .attr('stroke', '#598BAF')
-            .attr('stroke-width', '5px')
-          d3.selectAll('.link0')
-            .style('stroke-opacity', that.codes[0] ? 1 : .1)
-          d3.selectAll('.link1')
-            .style('stroke-opacity', that.codes[1] ? 1 : .1)
-          d3.selectAll('.link2')
-            .style('stroke-opacity', that.codes[2] ? 1 : .1)
-          d3.selectAll('.rnode')
-            .attr('fill-opacity', 1)
-        }
-        
-        function updateNodes() {
-          let u = d3.select('.nodes')
-            .selectAll('circle')
-            .data(TestData.nodes.filter((d) => {return d.Type === 'Player'}))
-          u.enter()
-            .append('circle')
-              .merge(u)
-              .attr('class', 'cnode')
-              .attr('cx', (d) => {return d.x})
-              .attr('cy', (d) => {return d.y})
-              .attr('r', (d) => {
-                let millions = d.Value / 100000
-                return Math.sqrt(millions) * 3
-              })
-              .attr('fill', (d) => {
-                return '#deebf7'
-              })
-              .on('mouseover', (d) => {
-                tooltip
-                  .style("left", (d3.event.pageX + 15) + "px")	
-                  .style("top", (d3.event.pageY - 28) + "px")
-                  .style('opacity', 1)
-                  .style('height', (e) => {
-                    if (d.Name.length > 13) {
-                      return 50;
-                    } else {
-                      return 60;
-                    }
-                  })
-                  .html(
-                    d.Name + '<br/>' + d.Pos + '<br/>' + '$' + (d.Value / 1000000).toFixed(1) + ' Million'
-                  )
-                fade(d)
-              })
-              .on('mouseout', (d) => {
-                tooltip
-                  .style('opacity', 0)
-                fadeOut()
-              })
-
-          u.exit().remove()
-          u = d3.select('.nodes')
-            .selectAll('rect')
-            .data(TestData.nodes.filter((d) => {return d.Type === 'Team'}))
-
-          u.enter()
-            .append('rect')
-              .merge(u)
-              .attr('width', 60)
-              .attr('height', 60)
-              .attr('x', (d) => {return d.x - 60 / 2})
-              .attr('y', (d) => {return d.y - 60 / 2})
-              .attr('fill', '#73C2FB')
-              .attr('class', 'rnode')
-              .on('mouseover', (d) => {
-                fade(d)
-              })
-              .on('mouseout', (d) => {
-                fadeOut()
-              })
-              .attr("rx", 6)
-              .attr("ry", 6)
-          u.exit().remove()
-
-          u = d3.select('.nodes')
-            .selectAll('image')
-            .data(TestData.nodes.filter((d) => {return d.Type === 'Team'}))
-
-          u.enter()
-            .append('image')
-              .merge(u)
-              .attr('xlink:href', (d) => {
-                return 'https://static.nfl.com/static/site/img/logos/svg/teams/' + d.Name + '.svg'
-              })
-              .attr('width', 50)
-              .attr('height', 50)
-              .attr('x', (d) => {return d.x - 50 / 2})
-              .attr('y', (d) => {return d.y - 50 / 2})
-              .on('mouseover', (d) => {
-                fade(d)
-              })
-              .on('mouseout', (d) => {
-                fadeOut()
-              })
-
-          u.exit().remove()
-
-          u = d3.select('.nodes')
-            .selectAll('text')
-            .data(TestData.nodes.filter((d) => {return d.Value > 3000000 && d.Type === 'Player'}))
-
-          u.enter()
-            .append('text')
-              .merge(u)
-              .text((d) => {
-                return d.Pos.replace(/[0-9]/g, '');
-              })
-              .attr('x', (d) => {return d.x})
-              .attr('y', (d) => {return d.y})
-              .attr('dy', (d) => {
-                return 5
-              })
-              .on('mouseover', (d) => {
-                tooltip
-                  .style("left", (d3.event.pageX + 10) + "px")		
-                  .style("top", (d3.event.pageY - 28) + "px")
-                  .style('opacity', 1)
-                  .html(
-                    d.Name + '<br/>' + d.Pos + '<br/>' + '$' + (d.Value / 1000000).toFixed(1) + ' Million'
-                  )
-                fade(d)
-              })
-              .on('mouseout', (d) => {
-                tooltip
-                  .style('opacity', 0)
-                fadeOut()
-              })
-          u.exit().remove()
-        }
-
         function ticked() {
-          updateLinks()
-          updateNodes()
+          that.updateLinks(that.val)
+          that.updateNodes(that.val)
         }
+      },
+      updateLinks(val) {
+        let that = this;
+        let filteredNodes = TestData.links.filter((d) => {
+          if (d.value >= val[0] * 1000000 && d.value <= val[1] * 1000000) {
+            return true
+          } else {
+            return false;
+          }
+        })
+        let u = d3.select('.links')
+          .selectAll('line')
+          .data(filteredNodes)
+        u.exit().remove()
+
+        u.enter()
+          .append('line')
+          .merge(u)
+          .attr('x1', function(d) {
+            return d.source.x
+          })
+          .attr('y1', function(d) {
+            return d.source.y
+          })
+          .attr('x2', function(d) {
+            return d.target.x
+          })
+          .attr('y2', function(d) {
+            return d.target.y
+          })
+          .attr('class', (d) => {
+            return 'link' + d.status
+          })
+          .style('stroke-opacity', (d) => {
+            if (that.codes[d.status]) {
+              return 1
+            } else {
+              return .1
+            }
+          })
+          .style("stroke", (d) => {
+            if (d.status === 0) {
+              return '#CA3433'
+            } else if (d.status === 1) {
+              return '#D5B85A'
+            } else {
+              return '#0080FE'
+            }
+            return d.status
+          })
+
+        u.exit().remove()
+      },
+      isConnected(a, b) {
+        return this.linkedByIndex[`${a.index},${b.index}`] || this.linkedByIndex[`${b.index},${a.index}`] || a.index === b.index;
+      },
+      fadeOut() {
+        let that = this;
+        d3.selectAll('.cnode')
+          .attr('fill-opacity', 1)
+          .attr('stroke', '#598BAF')
+          .attr('stroke-width', '5px')
+        d3.selectAll('.link0')
+          .style('stroke-opacity', that.codes[0] ? 1 : .1)
+        d3.selectAll('.link1')
+          .style('stroke-opacity', that.codes[1] ? 1 : .1)
+        d3.selectAll('.link2')
+          .style('stroke-opacity', that.codes[2] ? 1 : .1)
+        d3.selectAll('.rnode')
+          .attr('fill-opacity', 1)
+      },
+      fade(d) {
+        let that = this
+        d3.selectAll('.cnode')
+          .attr('fill-opacity', function(o) {
+            const connected = that.isConnected(d, o) ? 1 : false;
+            this.setAttribute('stroke', connected ? '#3182bd' : 0)
+            return connected ? 1 : .1;
+          })
+        d3.selectAll('.rnode')
+          .attr('fill-opacity', function(o) {
+            const connected = that.isConnected(d, o) ? 1 : false;
+            return connected ? 1 : .1;
+          })
+        d3.selectAll('.link0')
+          .style("stroke-opacity", function(o) {
+            if (o.source.index === d.Index || o.target.index === d.Index) {
+              return 1;
+            } else {
+              return .1
+            }
+        });
+        d3.selectAll('.link1')
+          .style("stroke-opacity", function(o) {
+            if (o.source.index === d.Index || o.target.index === d.Index) {
+              return 1;
+            } else {
+              return .1
+            }
+        });
+        d3.selectAll('.link2')
+          .style("stroke-opacity", function(o) {
+            if (o.source.index === d.Index || o.target.index === d.Index) {
+              return 1;
+            } else {
+              return .1
+            }
+        });
+      },
+      updateNodes(val) {
+        let that = this;
+        let tooltip = d3.select('.tooltip')
+        let filteredNodes = TestData.nodes.filter((d) => {
+          if (d.Type === 'Player') {
+            if (d.Value >= val[0] * 1000000 && d.Value <= val[1] * 1000000) {
+              return true
+            } else {
+              return false;
+            }
+          }
+          return true;
+        })
+        let u = d3.select('.nodes')
+          .selectAll('circle')
+          .data(filteredNodes.filter((d) => {return d.Type === 'Player'}))
+        u.exit().remove()
+        u.enter()
+          .append('circle')
+            .merge(u)
+            .attr('class', 'cnode')
+            .attr('cx', (d) => {return d.x})
+            .attr('cy', (d) => {return d.y})
+            .attr('r', (d) => {
+              let millions = d.Value / 100000
+              return Math.sqrt(millions) * 3
+            })
+            .attr('fill', (d) => {
+              return '#deebf7'
+            })
+            .on('mouseover', (d) => {
+              let money = d.Value
+              if (money === 666666) {
+                money = 'Unknown'
+              } else {
+                money = (money / 1000000).toFixed(1)
+                money = '$' + money + ' Million'
+              }
+              tooltip
+                .style("left", (d3.event.pageX + 15) + "px")	
+                .style("top", (d3.event.pageY - 28) + "px")
+                .style('opacity', 1)
+                .style('height', (e) => {
+                  if (d.Name.length > 13) {
+                    return 50;
+                  } else {
+                    return 60;
+                  }
+                })
+                .html(
+                  d.Name + '<br/>' + d.Pos + '<br/>' + money
+                )
+              that.fade(d)
+            })
+            .on('mouseout', (d) => {
+              tooltip
+                .style('opacity', 0)
+              that.fadeOut()
+            })
+
+        u.exit().remove()
+        u = d3.select('.nodes')
+          .selectAll('rect')
+          .data(filteredNodes.filter((d) => {return d.Type === 'Team'}))
+
+        u.enter()
+          .append('rect')
+            .merge(u)
+            .attr('width', 80)
+            .attr('height', 80)
+            .attr('x', (d) => {return d.x - 80 / 2})
+            .attr('y', (d) => {return d.y - 80 / 2})
+            .attr('fill', '#73C2FB') //#73C2FB
+            .attr('class', 'rnode')
+            .on('mouseover', (d) => {
+              that.fade(d)
+            })
+            .on('mouseout', (d) => {
+              that.fadeOut()
+            })
+            .attr("rx", 6)
+            .attr("ry", 6)
+        u.exit().remove()
+
+        u = d3.select('.nodes')
+          .selectAll('image')
+          .data(filteredNodes.filter((d) => {return d.Type === 'Team'}))
+
+        u.enter()
+          .append('image')
+            .merge(u)
+            .attr('xlink:href', (d) => {
+              return 'https://static.nfl.com/static/site/img/logos/svg/teams/' + d.Name + '.svg'
+            })
+            .attr('width', 70)
+            .attr('height', 70)
+            .attr('x', (d) => {return d.x - 70 / 2})
+            .attr('y', (d) => {return d.y - 70 / 2})
+            .on('mouseover', (d) => {
+              that.fade(d)
+            })
+            .on('mouseout', (d) => {
+              that.fadeOut()
+            })
+
+        u.exit().remove()
+
+        u = d3.select('.nodes')
+          .selectAll('text')
+          .data(filteredNodes.filter((d) => {return d.Type === 'Player'}))
+
+        u.enter()
+          .append('text')
+            .merge(u)
+            .text((d) => {
+              if (d.Value > 3000000) {
+                return d.Pos.replace(/[0-9]/g, '');
+              } else {
+                return ''
+              }
+            })
+            .attr('class', 'playerText')
+            .attr('x', (d) => {return d.x})
+            .attr('y', (d) => {return d.y})
+            .attr('dy', (d) => {
+              return 5
+            })
+            .on('mouseover', (d) => {
+              tooltip
+                .style("left", (d3.event.pageX + 10) + "px")		
+                .style("top", (d3.event.pageY - 28) + "px")
+                .style('opacity', 1)
+                .html(
+                  d.Name + '<br/>' + d.Pos + '<br/>' + '$' + (d.Value / 1000000).toFixed(1) + ' Million'
+                )
+              that.fade(d)
+            })
+            .on('mouseout', (d) => {
+              tooltip
+                .style('opacity', 0)
+              that.fadeOut()
+            })
+        u.exit().remove()
       }
     }
   }
@@ -479,10 +564,20 @@ line {
   stroke-width: 5px;
 }
 text {
-  text-anchor: middle;
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
   fill: #666;
-  font-size: 16px;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 12.5px
+}
+.playerText {
+  text-anchor: middle !important;
+  font-size: 18px !important;
+}
+.legendText {
+  text-anchor: left !important;
+  font-size: 14px !important;
+}
+.filterText {
+  font-size: 14px !important;
 }
 div.tooltip {	
   position: absolute;
