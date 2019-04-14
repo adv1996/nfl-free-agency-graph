@@ -110,6 +110,10 @@ def setTeamNodes():
         nodes.append(stitchPlayers[0])
         links = links + stitchPlayers[1]
         i += 1
+      else:
+        nodes.append(n)
+        i += 1
+        print('Player not signed', n['Name'])
 
   saveGraphtoCSV(nodes, links)
 
