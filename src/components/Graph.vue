@@ -22,24 +22,13 @@
         </v-btn>
       </a>
     </v-toolbar>
-    <v-content>
-      <v-container fill-height="true">
-        <v-layout
-          text-xs-center
-          wrap
-        >
-          <v-flex xs12>
-            <svg :height="height" :width="width" id="teams">
-              <g id="legend"/>
-              <g class="everything">
-                <g class="links"></g>
-                <g class="nodes"></g>
-              </g>
-            </svg>
-          </v-flex>
-        </v-layout>
-      </v-container>
-    </v-content>
+    <svg :height="height" :width="width" id="teams">
+      <g id="legend"/>
+      <g class="everything">
+        <g class="links"></g>
+        <g class="nodes"></g>
+      </g>
+    </svg>
   </v-app>
 </template>
 
@@ -48,7 +37,7 @@
   import * as d3 from 'd3';
   import { sliderBottom } from 'd3-simple-slider';
   import TestData from '../../data.json'
-  
+
   export default {
     data() {
       return {
@@ -124,7 +113,9 @@
             'code': 2,
           }
         ]
-        let ys = d3.scaleLinear().domain([0,5]).range([10, 110])
+        let offsetY = 65
+        
+        let ys = d3.scaleLinear().domain([0,5]).range([10 + offsetY, 110 + offsetY])
         let tooltip = d3.select('body')
           .append('div')
           .attr('class', 'tooltip')	
@@ -135,7 +126,7 @@
             .attr('height', 185)
             .attr('width', 230)
             .attr('x', 10)
-            .attr('y', 10)
+            .attr('y', 10 + offsetY)
             .attr('fill', '#D9DDDC')
             .attr('rx', 10)
             .attr('ry', 10)
@@ -254,11 +245,11 @@
           })
         d3.select('#legend').append('text')
           .attr('x', 20)
-          .attr('y', 137)
+          .attr('y', 137 + offsetY)
           .text('Filter Players by Salary (millions)')
           .attr('class', 'filterText')
         d3.select('#legend').append('g')
-          .attr('transform', 'translate(45,150)')
+          .attr('transform', 'translate(45,215)')
           .call(slider)
         d3.select('#legend')
           .style('opacity', 0)
@@ -273,7 +264,7 @@
         function zoom_actions(){
           d3.select('.everything').attr("transform", d3.event.transform)
         }
-        let transform = d3.zoomIdentity.translate(that.width / 2, that.height / 2).scale(.25);
+        let transform = d3.zoomIdentity.translate(that.width / 2, that.height / 2).scale(.10);
         d3.select('.everything')
           .attr("transform", transform)
 
