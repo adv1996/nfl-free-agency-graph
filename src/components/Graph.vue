@@ -48,6 +48,7 @@
   import * as d3 from 'd3';
   import { sliderBottom } from 'd3-simple-slider';
   import TestData from '../../data.json'
+  
   export default {
     data() {
       return {
