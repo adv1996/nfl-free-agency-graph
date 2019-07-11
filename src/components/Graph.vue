@@ -6,10 +6,6 @@
       </v-toolbar-title>
       <v-spacer/>
       <v-btn right outline color="yellow" @click="desktopLegend">{{isLegend}}</v-btn>
-      <!-- <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&amp;ref_src=twsrc%5Etfw&amp;text=NFL%20Free%20Agency%Graph&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview.html" class="btn" id="b">
-        <v-btn right outline color="blue">Share on Twitter!</v-btn>
-      </a> -->
-      
       <a class="twitter-share-button"
         href="https://twitter.com/intent/tweet?url=https%3a%2f%2fnfl-fa-2019.surge.sh%2f"
         data-size="large">
@@ -395,7 +391,7 @@
           })
         d3.selectAll('.link0')
           .style("stroke-opacity", function(o) {
-            if (o.source.index === d.Index || o.target.index === d.Index) {
+            if ((o.source.index === d.Index || o.target.index === d.Index) && that.codes[0]) {
               return 1;
             } else {
               return .1
@@ -403,7 +399,7 @@
         });
         d3.selectAll('.link1')
           .style("stroke-opacity", function(o) {
-            if (o.source.index === d.Index || o.target.index === d.Index) {
+            if ((o.source.index === d.Index || o.target.index === d.Index) && that.codes[1]) {
               return 1;
             } else {
               return .1
@@ -411,7 +407,7 @@
         });
         d3.selectAll('.link2')
           .style("stroke-opacity", function(o) {
-            if (o.source.index === d.Index || o.target.index === d.Index) {
+            if ((o.source.index === d.Index || o.target.index === d.Index) && that.codes[2]) {
               return 1;
             } else {
               return .1
