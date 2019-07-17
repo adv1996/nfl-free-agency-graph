@@ -195,7 +195,7 @@
           .attr('fill', (d) => {
             return d.status ? d.color : 'white'
           })
-          .attr('stroke-width', '2px')
+          .attr('stroke-width', '1px')
           .on('click', function(d) {
             if (that.codes[d.code]) {
               d3.select(this)
@@ -267,7 +267,7 @@
         
         var simulation = d3.forceSimulation(TestData.nodes)
           .force('charge', d3.forceManyBody().strength(-100))
-          .force("collide", d3.forceCollide(75).strength(1))
+          .force("collide", d3.forceCollide(70).strength(1))
           .force('center', d3.forceCenter(this.width / 2, this.height / 2))
           .force('link', d3.forceLink().links(TestData.links).distance(25))
           .on('tick', ticked);
@@ -365,8 +365,6 @@
         let that = this;
         d3.selectAll('.cnode')
           .attr('fill-opacity', 1)
-          .attr('stroke', '#598BAF')
-          .attr('stroke-width', '5px')
         d3.selectAll('.link0')
           .style('stroke-opacity', that.codes[0] ? 1 : .1)
         d3.selectAll('.link1')
@@ -381,7 +379,6 @@
         d3.selectAll('.cnode')
           .attr('fill-opacity', function(o) {
             const connected = that.isConnected(d, o) ? 1 : false;
-            this.setAttribute('stroke', connected ? '#3182bd' : 0)
             return connected ? 1 : .1;
           })
         d3.selectAll('.rnode')
@@ -585,15 +582,15 @@ text {
 div.tooltip {	
   position: absolute;
   text-align: center;
-  width: 90px;			
   padding: 2px;				
   font-size: 12px;		
   font-family: "Helvetica Neue", Helvetica, sans-serif;
-  color: black;
-  background:#88b8e6;	
-  border: 0px;		
-  border-radius: 8px;			
-  pointer-events: none;			
+  color: #282828;
+  background:#fff;		
+  border-radius: 4px;
+  border: 1px solid #282828;
+  pointer-events: none;
+  padding: 8px 12px;
 }
 div.legend_area {
   position: absolute;	

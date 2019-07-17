@@ -84,7 +84,11 @@ def calculateAPY(contract):
       friendly_contract = contract[1]
       friendly_contract = friendly_contract.replace(',', '')
       friendly_contract = friendly_contract.replace('M', '')
-      apy = float(friendly_contract) / int(contract[0])
+      if friendly_contract == 'million':
+        print(contract[0], contract)
+        apy = float(1000000) / int(contract[0])
+      else:
+        apy = float(friendly_contract) / int(contract[0])
     elif len(contract) == 3 and contract[2] == 'million':
       apy = (1000000 * float(contract[1])) / int(contract[0])
     else:

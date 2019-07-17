@@ -1,6 +1,6 @@
 import json
 import pandas
-import latest_transactions
+# import latest_transactions
 df = pandas.read_csv('nflfa2019.csv')
 
 def takeIndex(elem):
@@ -53,8 +53,11 @@ def setTeamNodes():
   
   nodes.sort(key=takeIndex)
   i = 0
+  notSigned = 0
+  signed = 0
   for index, row in df.iterrows():
     if row['Type'] == 'Signed':
+      signed += 1
       playerIndex = i + 32
       n = {
         'Name': row['Player'],
@@ -105,16 +108,18 @@ def setTeamNodes():
         'CTeam': source,
       }
       # nodes must be sorted because they are linked based on position
-      stitchPlayers = stitch(n)
-      if len(stitchPlayers[0]) > 0:
-        nodes.append(stitchPlayers[0])
-        links = links + stitchPlayers[1]
-        i += 1
-      else:
-        nodes.append(n)
-        i += 1
-        print('Player not signed', n['Name'])
-
+      # stitchPlayers = stitch(n)
+      # if len(stitchPlayers[0]) > 0:
+      #   nodes.append(stitchPlayers[0])
+      #   links = links + stitchPlayers[1]
+      #   i += 1
+      # else:
+      nodes.append(n)
+      i += 1
+      notSigned += 1
+      print('Player not signed', n['Name'])
+  print('Not Signed', notSigned)
+  print('Signed', signed)
   saveGraphtoCSV(nodes, links)
 
 def saveGraphtoCSV(nodes, links):
@@ -124,7 +129,8 @@ def saveGraphtoCSV(nodes, links):
   with open('data.json', 'w') as outfile:
       json.dump(graph, outfile, sort_keys = True, indent = 2, ensure_ascii = False)
   outfile.close()
-ltdict = latest_transactions.organize()
+# ltdict = latest_transactions.organize()
+ltdict = {}
 
 def stitch(pn):
   new_nodes = []
@@ -133,6 +139,7 @@ def stitch(pn):
 
   current = pn['Name']
   if current in ltdict:
+    print('Player not in Main Data', current)
     tp = ltdict[current]
     # changing teams
     n_node = {

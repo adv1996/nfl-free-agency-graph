@@ -39,6 +39,7 @@ def scrape():
       else:
         player.append(e.text)
     data.append(player)
+  print('Total Players', len(data))
   saveToCSV(data)
 
 def saveToCSV(data):
