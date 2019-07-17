@@ -1,6 +1,6 @@
 <template>
   <v-app dark>
-    <v-toolbar app>
+    <v-toolbar>
       <v-toolbar-title class="headline text-uppercase">
         <span>NFL Free Agency</span>
       </v-toolbar-title>
@@ -252,7 +252,7 @@
       },
       createGraph() {
         let that = this;
-        // zoom functionality
+
         let zoom_handler = d3.zoom()
           .on("zoom", zoom_actions);
         zoom_handler(d3.select('#teams')); 
@@ -260,10 +260,6 @@
         function zoom_actions(){
           d3.select('.everything').attr("transform", d3.event.transform)
         }
-        let transform = d3.zoomIdentity.translate(that.width / 2, that.height / 2).scale(.10);
-        d3.select('.everything')
-          .attr("transform", transform)
-
         
         var simulation = d3.forceSimulation(TestData.nodes)
           .force('charge', d3.forceManyBody().strength(-100))
@@ -439,7 +435,7 @@
               return Math.sqrt(millions) * 3
             })
             .attr('fill', (d) => {
-              return '#deebf7'
+              return '#fff'
             })
             .on('mouseover', (d) => {
               let money = d.Value
@@ -453,13 +449,6 @@
                 .style("left", (d3.event.pageX + 15) + "px")	
                 .style("top", (d3.event.pageY - 28) + "px")
                 .style('opacity', 1)
-                .style('height', (e) => {
-                  if (d.Name.length > 13) {
-                    return 50;
-                  } else {
-                    return 60;
-                  }
-                })
                 .html(
                   d.Name + '<br/>' + d.Pos + '<br/>' + money
                 )
@@ -483,7 +472,7 @@
             .attr('height', 80)
             .attr('x', (d) => {return d.x - 80 / 2})
             .attr('y', (d) => {return d.y - 80 / 2})
-            .attr('fill', '#73C2FB') //#73C2FB
+            .attr('fill', '#73C2FB')
             .attr('class', 'rnode')
             .on('mouseover', (d) => {
               that.fade(d)
@@ -585,8 +574,8 @@ div.tooltip {
   padding: 2px;				
   font-size: 12px;		
   font-family: "Helvetica Neue", Helvetica, sans-serif;
-  color: #282828;
-  background:#fff;		
+  color: #ffffff;
+  background:#282828;		
   border-radius: 4px;
   border: 1px solid #282828;
   pointer-events: none;
@@ -599,5 +588,8 @@ div.legend_area {
 }
 #legend {
   z-index: 200;
+}
+#teams {
+  background: black;
 }
 </style>
