@@ -1,6 +1,6 @@
 <template>
   <v-app dark>
-    <v-toolbar>
+    <v-toolbar app>
       <v-toolbar-title class="headline text-uppercase">
         <span>NFL Free Agency</span>
       </v-toolbar-title>
@@ -47,7 +47,7 @@
         codes: [true,true,true],
         isLegend: 'Enable Legend',
         linkedByIndex: [],
-        val: [7,25],
+        val: [7,40],
       }
     },
     mounted() {
@@ -223,7 +223,7 @@
           })
         let slider = sliderBottom()
           .min(0)
-          .max(25)
+          .max(40)
           .width(150)
           .ticks(5)
           .default(that.val)
@@ -256,7 +256,7 @@
         let zoom_handler = d3.zoom()
           .on("zoom", zoom_actions);
         zoom_handler(d3.select('#teams')); 
-        
+
         function zoom_actions(){
           d3.select('.everything').attr("transform", d3.event.transform)
         }
