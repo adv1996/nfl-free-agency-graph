@@ -1287,7 +1287,7 @@
     {
       "source": 6,
       "status": 2,
-      "target": 209,
+      "target": 210,
       "value": 1200000
     },
     {
@@ -1405,31 +1405,31 @@
       "value": 10000000
     },
     {
-      "source": 8,
-      "status": 2,
-      "target": 224,
-      "value": 2875000
-    },
-    {
       "source": 9,
       "status": 0,
-      "target": 225,
+      "target": 224,
       "value": 3000000
     },
     {
-      "source": 225,
+      "source": 224,
       "status": 1,
       "target": 29,
       "value": 3000000
     },
     {
+      "source": 8,
+      "status": 2,
+      "target": 226,
+      "value": 2875000
+    },
+    {
       "source": 1,
       "status": 0,
-      "target": 226,
+      "target": 227,
       "value": 1350000
     },
     {
-      "source": 226,
+      "source": 227,
       "status": 1,
       "target": 20,
       "value": 1350000
@@ -1453,13 +1453,25 @@
       "value": 1030000
     },
     {
+      "source": 24,
+      "status": 0,
+      "target": 233,
+      "value": 805000
+    },
+    {
+      "source": 233,
+      "status": 1,
+      "target": 23,
+      "value": 805000
+    },
+    {
       "source": 18,
       "status": 0,
-      "target": 232,
+      "target": 235,
       "value": 9000000
     },
     {
-      "source": 232,
+      "source": 235,
       "status": 1,
       "target": 6,
       "value": 9000000
@@ -1467,44 +1479,32 @@
     {
       "source": 22,
       "status": 0,
-      "target": 233,
+      "target": 236,
       "value": 5625000
     },
     {
-      "source": 233,
+      "source": 236,
       "status": 1,
       "target": 30,
       "value": 5625000
     },
     {
-      "source": 24,
+      "source": 16,
       "status": 0,
-      "target": 234,
-      "value": 805000
+      "target": 237,
+      "value": 9000000
     },
     {
-      "source": 234,
+      "source": 237,
       "status": 1,
-      "target": 23,
-      "value": 805000
+      "target": 25,
+      "value": 9000000
     },
     {
       "source": 22,
       "status": 2,
-      "target": 237,
-      "value": 810000
-    },
-    {
-      "source": 16,
-      "status": 0,
       "target": 238,
-      "value": 9000000
-    },
-    {
-      "source": 238,
-      "status": 1,
-      "target": 25,
-      "value": 9000000
+      "value": 810000
     },
     {
       "source": 4,
@@ -1522,10 +1522,22 @@
       "source": 1,
       "status": 0,
       "target": 240,
-      "value": 9010000
+      "value": 4000000
     },
     {
       "source": 240,
+      "status": 1,
+      "target": 16,
+      "value": 4000000
+    },
+    {
+      "source": 1,
+      "status": 0,
+      "target": 241,
+      "value": 9010000
+    },
+    {
+      "source": 241,
       "status": 1,
       "target": 21,
       "value": 9010000
@@ -1533,26 +1545,14 @@
     {
       "source": 28,
       "status": 0,
-      "target": 241,
-      "value": 11100000
-    },
-    {
-      "source": 241,
-      "status": 1,
-      "target": 9,
-      "value": 11100000
-    },
-    {
-      "source": 1,
-      "status": 0,
       "target": 242,
-      "value": 4000000
+      "value": 11100000
     },
     {
       "source": 242,
       "status": 1,
-      "target": 16,
-      "value": 4000000
+      "target": 9,
+      "value": 11100000
     },
     {
       "source": 27,
@@ -1603,13 +1603,13 @@
       "value": 3000000
     },
     {
-      "source": 2,
+      "source": 7,
       "status": 2,
-      "target": 255,
-      "value": 1500000
+      "target": 253,
+      "value": 3750000
     },
     {
-      "source": 29,
+      "source": 6,
       "status": 0,
       "target": 257,
       "value": 895000
@@ -1617,11 +1617,11 @@
     {
       "source": 257,
       "status": 1,
-      "target": 30,
+      "target": 9,
       "value": 895000
     },
     {
-      "source": 6,
+      "source": 29,
       "status": 0,
       "target": 258,
       "value": 895000
@@ -1629,19 +1629,19 @@
     {
       "source": 258,
       "status": 1,
-      "target": 9,
+      "target": 30,
       "value": 895000
     },
     {
-      "source": 7,
+      "source": 2,
       "status": 2,
-      "target": 262,
-      "value": 3750000
+      "target": 260,
+      "value": 1500000
     },
     {
       "source": 19,
       "status": 2,
-      "target": 265,
+      "target": 264,
       "value": 5000000
     },
     {
@@ -1719,7 +1719,7 @@
     {
       "source": 26,
       "status": 2,
-      "target": 275,
+      "target": 274,
       "value": 4500000
     },
     {
@@ -1729,46 +1729,46 @@
       "value": 1500000
     },
     {
-      "source": 25,
-      "status": 0,
-      "target": 278,
-      "value": 1600000
-    },
-    {
-      "source": 278,
-      "status": 1,
-      "target": 16,
-      "value": 1600000
-    },
-    {
-      "source": 7,
-      "status": 2,
-      "target": 279,
-      "value": 1800000
-    },
-    {
       "source": 11,
       "status": 0,
-      "target": 280,
+      "target": 278,
       "value": 1625000
     },
     {
-      "source": 280,
+      "source": 278,
       "status": 1,
       "target": 19,
       "value": 1625000
     },
     {
-      "source": 1,
+      "source": 25,
       "status": 0,
-      "target": 282,
-      "value": 7000000
+      "target": 279,
+      "value": 1600000
     },
     {
-      "source": 282,
+      "source": 279,
       "status": 1,
-      "target": 15,
-      "value": 7000000
+      "target": 16,
+      "value": 1600000
+    },
+    {
+      "source": 30,
+      "status": 0,
+      "target": 280,
+      "value": 2350000
+    },
+    {
+      "source": 280,
+      "status": 1,
+      "target": 19,
+      "value": 2350000
+    },
+    {
+      "source": 10,
+      "status": 2,
+      "target": 281,
+      "value": 1020000
     },
     {
       "source": 23,
@@ -1777,46 +1777,64 @@
       "value": 4750000
     },
     {
-      "source": 10,
-      "status": 2,
-      "target": 286,
-      "value": 1020000
-    },
-    {
-      "source": 30,
+      "source": 26,
       "status": 0,
       "target": 287,
-      "value": 2350000
+      "value": 2250000
     },
     {
       "source": 287,
       "status": 1,
-      "target": 19,
-      "value": 2350000
+      "target": 18,
+      "value": 2250000
     },
     {
-      "source": 8,
+      "source": 1,
+      "status": 0,
+      "target": 288,
+      "value": 7000000
+    },
+    {
+      "source": 288,
+      "status": 1,
+      "target": 15,
+      "value": 7000000
+    },
+    {
+      "source": 7,
       "status": 2,
-      "target": 294,
-      "value": 4000000
+      "target": 289,
+      "value": 1800000
     },
     {
       "source": 11,
       "status": 0,
-      "target": 295,
+      "target": 294,
       "value": 805000
     },
     {
-      "source": 295,
+      "source": 294,
       "status": 1,
       "target": 10,
       "value": 805000
     },
     {
-      "source": 8,
+      "source": 11,
       "status": 2,
+      "target": 295,
+      "value": 1400000
+    },
+    {
+      "source": 25,
+      "status": 0,
       "target": 296,
-      "value": 1850000
+      "value": 2050000
+    },
+    {
+      "source": 296,
+      "status": 1,
+      "target": 29,
+      "value": 2050000
     },
     {
       "source": 17,
@@ -1831,31 +1849,25 @@
       "value": 2500000
     },
     {
-      "source": 11,
+      "source": 8,
       "status": 2,
       "target": 298,
-      "value": 1400000
+      "value": 4000000
     },
     {
-      "source": 25,
-      "status": 0,
+      "source": 8,
+      "status": 2,
       "target": 299,
-      "value": 2050000
-    },
-    {
-      "source": 299,
-      "status": 1,
-      "target": 29,
-      "value": 2050000
+      "value": 1850000
     },
     {
       "source": 17,
       "status": 0,
-      "target": 302,
+      "target": 300,
       "value": 7000000
     },
     {
-      "source": 302,
+      "source": 300,
       "status": 1,
       "target": 1,
       "value": 7000000
@@ -1905,17 +1917,17 @@
     {
       "source": 18,
       "status": 2,
-      "target": 314,
+      "target": 312,
       "value": 1000000
     },
     {
       "source": 24,
       "status": 0,
-      "target": 315,
+      "target": 313,
       "value": 2000000
     },
     {
-      "source": 315,
+      "source": 313,
       "status": 1,
       "target": 0,
       "value": 2000000
@@ -2023,58 +2035,58 @@
       "value": 2350000
     },
     {
-      "source": 18,
-      "status": 0,
-      "target": 335,
-      "value": 4500000
-    },
-    {
-      "source": 335,
-      "status": 1,
-      "target": 20,
-      "value": 4500000
+      "source": 1,
+      "status": 2,
+      "target": 336,
+      "value": 2500000
     },
     {
       "source": 17,
       "status": 2,
-      "target": 336,
+      "target": 339,
       "value": 1750000
     },
     {
       "source": 6,
       "status": 2,
-      "target": 337,
+      "target": 340,
       "value": 895000
     },
     {
       "source": 18,
       "status": 2,
-      "target": 340,
-      "value": 3000000
-    },
-    {
-      "source": 1,
-      "status": 2,
       "target": 341,
-      "value": 2500000
+      "value": 3000000
     },
     {
       "source": 28,
       "status": 2,
-      "target": 345,
+      "target": 342,
       "value": 2000000
     },
     {
       "source": 19,
       "status": 0,
-      "target": 346,
+      "target": 343,
       "value": 2000000
     },
     {
-      "source": 346,
+      "source": 343,
       "status": 1,
       "target": 29,
       "value": 2000000
+    },
+    {
+      "source": 18,
+      "status": 0,
+      "target": 347,
+      "value": 4500000
+    },
+    {
+      "source": 347,
+      "status": 1,
+      "target": 20,
+      "value": 4500000
     },
     {
       "source": 2,
@@ -2113,40 +2125,40 @@
       "value": 13000000
     },
     {
-      "source": 10,
-      "status": 0,
-      "target": 355,
-      "value": 1305000
-    },
-    {
-      "source": 355,
-      "status": 1,
-      "target": 26,
-      "value": 1305000
-    },
-    {
       "source": 26,
       "status": 2,
-      "target": 356,
+      "target": 355,
       "value": 5400000
     },
     {
       "source": 25,
       "status": 2,
-      "target": 357,
+      "target": 356,
       "value": 1600000
     },
     {
       "source": 22,
       "status": 0,
-      "target": 358,
+      "target": 357,
       "value": 1020000
+    },
+    {
+      "source": 357,
+      "status": 1,
+      "target": 30,
+      "value": 1020000
+    },
+    {
+      "source": 10,
+      "status": 0,
+      "target": 358,
+      "value": 1305000
     },
     {
       "source": 358,
       "status": 1,
-      "target": 30,
-      "value": 1020000
+      "target": 26,
+      "value": 1305000
     },
     {
       "source": 19,
@@ -2187,11 +2199,11 @@
     {
       "source": 20,
       "status": 0,
-      "target": 363,
+      "target": 364,
       "value": 1100000
     },
     {
-      "source": 363,
+      "source": 364,
       "status": 1,
       "target": 9,
       "value": 1100000
@@ -2199,11 +2211,11 @@
     {
       "source": 18,
       "status": 0,
-      "target": 364,
+      "target": 365,
       "value": 3000000
     },
     {
-      "source": 364,
+      "source": 365,
       "status": 1,
       "target": 17,
       "value": 3000000
@@ -2211,23 +2223,29 @@
     {
       "source": 30,
       "status": 2,
-      "target": 367,
+      "target": 366,
       "value": 2300000
     },
     {
       "source": 16,
       "status": 2,
-      "target": 369,
+      "target": 368,
       "value": 1450000
     },
     {
       "source": 2,
-      "status": 0,
+      "status": 2,
       "target": 371,
+      "value": 1500000
+    },
+    {
+      "source": 2,
+      "status": 0,
+      "target": 373,
       "value": 1400000
     },
     {
-      "source": 371,
+      "source": 373,
       "status": 1,
       "target": 31,
       "value": 1400000
@@ -2243,12 +2261,6 @@
       "status": 1,
       "target": 10,
       "value": 895000
-    },
-    {
-      "source": 2,
-      "status": 2,
-      "target": 375,
-      "value": 1500000
     },
     {
       "source": 13,
@@ -2307,13 +2319,13 @@
     {
       "source": 7,
       "status": 2,
-      "target": 385,
+      "target": 384,
       "value": 1120000
     },
     {
       "source": 6,
       "status": 2,
-      "target": 387,
+      "target": 388,
       "value": 1120000
     },
     {
@@ -2367,11 +2379,11 @@
     {
       "source": 17,
       "status": 0,
-      "target": 398,
+      "target": 397,
       "value": 895000
     },
     {
-      "source": 398,
+      "source": 397,
       "status": 1,
       "target": 5,
       "value": 895000
@@ -2379,11 +2391,11 @@
     {
       "source": 16,
       "status": 0,
-      "target": 400,
+      "target": 399,
       "value": 2500000
     },
     {
-      "source": 400,
+      "source": 399,
       "status": 1,
       "target": 3,
       "value": 2500000
@@ -2401,28 +2413,28 @@
       "value": 1005000
     },
     {
+      "source": 9,
+      "status": 0,
+      "target": 403,
+      "value": 1075000
+    },
+    {
+      "source": 403,
+      "status": 1,
+      "target": 4,
+      "value": 1075000
+    },
+    {
       "source": 4,
       "status": 2,
-      "target": 403,
+      "target": 404,
       "value": 2515000
     },
     {
       "source": 27,
       "status": 2,
-      "target": 407,
+      "target": 409,
       "value": 1120000
-    },
-    {
-      "source": 9,
-      "status": 0,
-      "target": 410,
-      "value": 1075000
-    },
-    {
-      "source": 410,
-      "status": 1,
-      "target": 4,
-      "value": 1075000
     },
     {
       "source": 0,
@@ -2437,34 +2449,34 @@
       "value": 805000
     },
     {
-      "source": 11,
-      "status": 0,
-      "target": 412,
-      "value": 2300000
-    },
-    {
-      "source": 412,
-      "status": 1,
-      "target": 29,
-      "value": 2300000
-    },
-    {
-      "source": 31,
+      "source": 9,
       "status": 2,
-      "target": 413,
-      "value": 5383333
+      "target": 412,
+      "value": 1600000
     },
     {
       "source": 6,
       "status": 0,
-      "target": 414,
+      "target": 415,
       "value": 1115000
     },
     {
-      "source": 414,
+      "source": 415,
       "status": 1,
       "target": 18,
       "value": 1115000
+    },
+    {
+      "source": 11,
+      "status": 0,
+      "target": 416,
+      "value": 2300000
+    },
+    {
+      "source": 416,
+      "status": 1,
+      "target": 29,
+      "value": 2300000
     },
     {
       "source": 24,
@@ -2473,34 +2485,46 @@
       "value": 1020000
     },
     {
-      "source": 9,
+      "source": 31,
       "status": 2,
       "target": 418,
-      "value": 1600000
+      "value": 5383333
+    },
+    {
+      "source": 28,
+      "status": 0,
+      "target": 419,
+      "value": 895000
+    },
+    {
+      "source": 419,
+      "status": 1,
+      "target": 18,
+      "value": 895000
+    },
+    {
+      "source": 2,
+      "status": 2,
+      "target": 420,
+      "value": 895000
     },
     {
       "source": 24,
       "status": 2,
-      "target": 419,
+      "target": 421,
       "value": 895000
     },
     {
       "source": 3,
       "status": 2,
-      "target": 420,
+      "target": 422,
       "value": 1550000
     },
     {
       "source": 19,
       "status": 2,
-      "target": 423,
-      "value": 2075000
-    },
-    {
-      "source": 2,
-      "status": 2,
       "target": 424,
-      "value": 895000
+      "value": 2075000
     },
     {
       "source": 26,
@@ -2599,43 +2623,67 @@
       "value": 895000
     },
     {
+      "source": 13,
+      "status": 2,
+      "target": 437,
+      "value": 1020000
+    },
+    {
       "source": 26,
       "status": 2,
       "target": 439,
       "value": 1020000
     },
     {
-      "source": 13,
-      "status": 2,
-      "target": 440,
-      "value": 1020000
-    },
-    {
       "source": 23,
       "status": 2,
-      "target": 445,
+      "target": 440,
       "value": 2750000
     },
     {
       "source": 22,
       "status": 0,
-      "target": 457,
+      "target": 456,
       "value": 1600000
     },
     {
-      "source": 457,
+      "source": 456,
       "status": 1,
       "target": 11,
       "value": 1600000
     },
     {
+      "source": 11,
+      "status": 2,
+      "target": 458,
+      "value": 2500000
+    },
+    {
+      "source": 2,
+      "status": 0,
+      "target": 459,
+      "value": 1400000
+    },
+    {
+      "source": 459,
+      "status": 1,
+      "target": 9,
+      "value": 1400000
+    },
+    {
+      "source": 8,
+      "status": 2,
+      "target": 460,
+      "value": 1375000
+    },
+    {
       "source": 27,
       "status": 0,
-      "target": 458,
+      "target": 461,
       "value": 805000
     },
     {
-      "source": 458,
+      "source": 461,
       "status": 1,
       "target": 6,
       "value": 805000
@@ -2643,38 +2691,14 @@
     {
       "source": 13,
       "status": 0,
-      "target": 459,
-      "value": 895000
-    },
-    {
-      "source": 459,
-      "status": 1,
-      "target": 5,
-      "value": 895000
-    },
-    {
-      "source": 11,
-      "status": 2,
-      "target": 460,
-      "value": 2500000
-    },
-    {
-      "source": 8,
-      "status": 2,
-      "target": 461,
-      "value": 1375000
-    },
-    {
-      "source": 2,
-      "status": 0,
       "target": 462,
-      "value": 1400000
+      "value": 895000
     },
     {
       "source": 462,
       "status": 1,
-      "target": 9,
-      "value": 1400000
+      "target": 5,
+      "value": 895000
     },
     {
       "source": 15,
@@ -2953,6 +2977,18 @@
       "value": 845000
     },
     {
+      "source": 30,
+      "status": 0,
+      "target": 508,
+      "value": 805000
+    },
+    {
+      "source": 508,
+      "status": 1,
+      "target": 16,
+      "value": 805000
+    },
+    {
       "source": 29,
       "status": 0,
       "target": 511,
@@ -2974,6 +3010,18 @@
       "source": 513,
       "status": 1,
       "target": 21,
+      "value": 805000
+    },
+    {
+      "source": 4,
+      "status": 0,
+      "target": 523,
+      "value": 805000
+    },
+    {
+      "source": 523,
+      "status": 1,
+      "target": 9,
       "value": 805000
     },
     {
@@ -4051,88 +4099,88 @@
       "value": 720000
     },
     {
-      "source": 14,
-      "status": 2,
-      "target": 694,
-      "value": 1650000
-    },
-    {
-      "source": 29,
-      "status": 0,
-      "target": 695,
-      "value": 720000
-    },
-    {
-      "source": 695,
-      "status": 1,
-      "target": 11,
-      "value": 720000
-    },
-    {
       "source": 18,
       "status": 2,
-      "target": 696,
+      "target": 693,
       "value": 720000
-    },
-    {
-      "source": 8,
-      "status": 2,
-      "target": 697,
-      "value": 2025000
-    },
-    {
-      "source": 1,
-      "status": 2,
-      "target": 698,
-      "value": 1000000
-    },
-    {
-      "source": 0,
-      "status": 2,
-      "target": 700,
-      "value": 645000
     },
     {
       "source": 1,
       "status": 0,
-      "target": 701,
+      "target": 695,
       "value": 745000
     },
     {
-      "source": 701,
+      "source": 695,
       "status": 1,
       "target": 22,
       "value": 745000
     },
     {
-      "source": 17,
+      "source": 1,
       "status": 2,
-      "target": 702,
-      "value": 810000
-    },
-    {
-      "source": 11,
-      "status": 2,
-      "target": 703,
+      "target": 696,
       "value": 1000000
     },
     {
-      "source": 20,
+      "source": 2,
       "status": 2,
-      "target": 704,
+      "target": 697,
+      "value": 810000
+    },
+    {
+      "source": 29,
+      "status": 0,
+      "target": 699,
+      "value": 720000
+    },
+    {
+      "source": 699,
+      "status": 1,
+      "target": 11,
       "value": 720000
     },
     {
       "source": 20,
       "status": 0,
-      "target": 705,
+      "target": 700,
       "value": 720000
     },
     {
-      "source": 705,
+      "source": 700,
       "status": 1,
       "target": 24,
       "value": 720000
+    },
+    {
+      "source": 14,
+      "status": 2,
+      "target": 701,
+      "value": 1650000
+    },
+    {
+      "source": 0,
+      "status": 2,
+      "target": 702,
+      "value": 645000
+    },
+    {
+      "source": 11,
+      "status": 2,
+      "target": 704,
+      "value": 1000000
+    },
+    {
+      "source": 20,
+      "status": 2,
+      "target": 706,
+      "value": 720000
+    },
+    {
+      "source": 8,
+      "status": 2,
+      "target": 707,
+      "value": 2025000
     },
     {
       "source": 17,
@@ -4147,7 +4195,7 @@
       "value": 920000
     },
     {
-      "source": 2,
+      "source": 17,
       "status": 2,
       "target": 709,
       "value": 810000
@@ -4249,22 +4297,22 @@
       "value": 805000
     },
     {
+      "source": 0,
+      "status": 2,
+      "target": 725,
+      "value": 6000000
+    },
+    {
       "source": 21,
       "status": 0,
-      "target": 725,
+      "target": 726,
       "value": 1250000
     },
     {
-      "source": 725,
+      "source": 726,
       "status": 1,
       "target": 23,
       "value": 1250000
-    },
-    {
-      "source": 0,
-      "status": 2,
-      "target": 726,
-      "value": 6000000
     },
     {
       "source": 21,
@@ -4285,7 +4333,7 @@
       "value": 5000000
     },
     {
-      "source": 1,
+      "source": 13,
       "status": 0,
       "target": 729,
       "value": 600000
@@ -4293,20 +4341,32 @@
     {
       "source": 729,
       "status": 1,
-      "target": 21,
+      "target": 15,
       "value": 600000
     },
     {
-      "source": 4,
+      "source": 16,
+      "status": 0,
+      "target": 730,
+      "value": 600000
+    },
+    {
+      "source": 730,
+      "status": 1,
+      "target": 25,
+      "value": 600000
+    },
+    {
+      "source": 23,
       "status": 0,
       "target": 731,
-      "value": 690000
+      "value": 600000
     },
     {
       "source": 731,
       "status": 1,
-      "target": 27,
-      "value": 690000
+      "target": 5,
+      "value": 600000
     },
     {
       "source": 23,
@@ -4321,7 +4381,19 @@
       "value": 645000
     },
     {
-      "source": 23,
+      "source": 20,
+      "status": 0,
+      "target": 733,
+      "value": 600000
+    },
+    {
+      "source": 733,
+      "status": 1,
+      "target": 27,
+      "value": 600000
+    },
+    {
+      "source": 1,
       "status": 0,
       "target": 734,
       "value": 600000
@@ -4329,38 +4401,32 @@
     {
       "source": 734,
       "status": 1,
-      "target": 5,
+      "target": 21,
       "value": 600000
     },
     {
-      "source": 13,
+      "source": 4,
       "status": 0,
       "target": 735,
-      "value": 600000
+      "value": 690000
     },
     {
       "source": 735,
       "status": 1,
-      "target": 15,
-      "value": 600000
+      "target": 27,
+      "value": 690000
     },
     {
-      "source": 16,
+      "source": 23,
       "status": 0,
-      "target": 736,
+      "target": 737,
       "value": 600000
     },
     {
-      "source": 736,
+      "source": 737,
       "status": 1,
-      "target": 25,
+      "target": 20,
       "value": 600000
-    },
-    {
-      "source": 28,
-      "status": 2,
-      "target": 738,
-      "value": 645000
     },
     {
       "source": 10,
@@ -4375,37 +4441,31 @@
       "value": 600000
     },
     {
-      "source": 3,
-      "status": 0,
+      "source": 28,
+      "status": 2,
       "target": 740,
       "value": 645000
     },
     {
-      "source": 740,
+      "source": 3,
+      "status": 0,
+      "target": 742,
+      "value": 645000
+    },
+    {
+      "source": 742,
       "status": 1,
       "target": 13,
       "value": 645000
     },
     {
-      "source": 23,
-      "status": 0,
-      "target": 741,
-      "value": 600000
-    },
-    {
-      "source": 741,
-      "status": 1,
-      "target": 20,
-      "value": 600000
-    },
-    {
       "source": 8,
       "status": 0,
-      "target": 742,
+      "target": 743,
       "value": 805000
     },
     {
-      "source": 742,
+      "source": 743,
       "status": 1,
       "target": 29,
       "value": 805000
@@ -4413,11 +4473,11 @@
     {
       "source": 13,
       "status": 0,
-      "target": 744,
+      "target": 745,
       "value": 1750000
     },
     {
-      "source": 744,
+      "source": 745,
       "status": 1,
       "target": 7,
       "value": 1750000
@@ -4425,53 +4485,41 @@
     {
       "source": 14,
       "status": 2,
-      "target": 745,
-      "value": 805000
-    },
-    {
-      "source": 4,
-      "status": 2,
       "target": 746,
-      "value": 720000
+      "value": 805000
     },
     {
       "source": 20,
       "status": 2,
-      "target": 748,
+      "target": 749,
       "value": 645000
     },
     {
-      "source": 25,
-      "status": 2,
-      "target": 749,
-      "value": 720000
-    },
-    {
       "source": 4,
-      "status": 0,
-      "target": 751,
-      "value": 1000000
-    },
-    {
-      "source": 751,
-      "status": 1,
-      "target": 19,
-      "value": 1000000
+      "status": 2,
+      "target": 750,
+      "value": 720000
     },
     {
       "source": 17,
       "status": 2,
-      "target": 752,
-      "value": 1350000
+      "target": 751,
+      "value": 770000
+    },
+    {
+      "source": 7,
+      "status": 2,
+      "target": 754,
+      "value": 720000
     },
     {
       "source": 27,
       "status": 0,
-      "target": 753,
+      "target": 755,
       "value": 810000
     },
     {
-      "source": 753,
+      "source": 755,
       "status": 1,
       "target": 29,
       "value": 810000
@@ -4479,41 +4527,53 @@
     {
       "source": 12,
       "status": 2,
-      "target": 754,
+      "target": 756,
       "value": 3095000
     },
     {
-      "source": 7,
+      "source": 17,
       "status": 2,
       "target": 757,
+      "value": 1350000
+    },
+    {
+      "source": 25,
+      "status": 2,
+      "target": 758,
       "value": 720000
     },
     {
       "source": 4,
+      "status": 0,
+      "target": 759,
+      "value": 1000000
+    },
+    {
+      "source": 759,
+      "status": 1,
+      "target": 19,
+      "value": 1000000
+    },
+    {
+      "source": 4,
       "status": 2,
-      "target": 758,
+      "target": 761,
       "value": 7250000
     },
     {
       "source": 3,
       "status": 2,
-      "target": 760,
+      "target": 762,
       "value": 2025000
-    },
-    {
-      "source": 17,
-      "status": 2,
-      "target": 761,
-      "value": 770000
     },
     {
       "source": 19,
       "status": 0,
-      "target": 763,
+      "target": 764,
       "value": 16500000
     },
     {
-      "source": 763,
+      "source": 764,
       "status": 1,
       "target": 9,
       "value": 16500000
@@ -4521,11 +4581,11 @@
     {
       "source": 7,
       "status": 0,
-      "target": 764,
+      "target": 765,
       "value": 3300000
     },
     {
-      "source": 764,
+      "source": 765,
       "status": 1,
       "target": 5,
       "value": 3300000
@@ -4533,17 +4593,17 @@
     {
       "source": 11,
       "status": 2,
-      "target": 765,
+      "target": 766,
       "value": 6000000
     },
     {
       "source": 22,
       "status": 0,
-      "target": 766,
+      "target": 767,
       "value": 2000000
     },
     {
-      "source": 766,
+      "source": 767,
       "status": 1,
       "target": 11,
       "value": 2000000
@@ -4551,11 +4611,11 @@
     {
       "source": 9,
       "status": 0,
-      "target": 767,
+      "target": 768,
       "value": 578333
     },
     {
-      "source": 767,
+      "source": 768,
       "status": 1,
       "target": 17,
       "value": 578333
@@ -4563,11 +4623,11 @@
     {
       "source": 8,
       "status": 0,
-      "target": 772,
+      "target": 773,
       "value": 495000
     },
     {
-      "source": 772,
+      "source": 773,
       "status": 1,
       "target": 1,
       "value": 495000
@@ -4575,17 +4635,17 @@
     {
       "source": 26,
       "status": 2,
-      "target": 787,
+      "target": 788,
       "value": 2900000
     },
     {
       "source": 19,
       "status": 0,
-      "target": 788,
+      "target": 789,
       "value": 558333
     },
     {
-      "source": 788,
+      "source": 789,
       "status": 1,
       "target": 18,
       "value": 558333
@@ -4593,49 +4653,49 @@
     {
       "source": 26,
       "status": 2,
-      "target": 789,
+      "target": 790,
       "value": 8325000
     },
     {
       "source": 15,
       "status": 2,
-      "target": 792,
-      "value": 645000
-    },
-    {
-      "source": 30,
-      "status": 2,
-      "target": 795,
-      "value": 645000
-    },
-    {
-      "source": 1,
-      "status": 2,
-      "target": 797,
-      "value": 645000
-    },
-    {
-      "source": 15,
-      "status": 2,
-      "target": 798,
-      "value": 645000
-    },
-    {
-      "source": 20,
-      "status": 2,
-      "target": 799,
+      "target": 793,
       "value": 645000
     },
     {
       "source": 11,
       "status": 2,
-      "target": 800,
+      "target": 795,
+      "value": 645000
+    },
+    {
+      "source": 15,
+      "status": 2,
+      "target": 796,
       "value": 645000
     },
     {
       "source": 30,
       "status": 2,
-      "target": 801,
+      "target": 797,
+      "value": 645000
+    },
+    {
+      "source": 2,
+      "status": 2,
+      "target": 798,
+      "value": 1050000
+    },
+    {
+      "source": 30,
+      "status": 2,
+      "target": 799,
+      "value": 645000
+    },
+    {
+      "source": 23,
+      "status": 2,
+      "target": 800,
       "value": 645000
     },
     {
@@ -4645,43 +4705,43 @@
       "value": 645000
     },
     {
-      "source": 8,
+      "source": 1,
       "status": 2,
       "target": 803,
       "value": 645000
     },
     {
-      "source": 6,
-      "status": 0,
+      "source": 2,
+      "status": 2,
       "target": 804,
-      "value": 1000000
+      "value": 645000
     },
     {
-      "source": 804,
-      "status": 1,
-      "target": 7,
-      "value": 1000000
-    },
-    {
-      "source": 8,
+      "source": 20,
       "status": 2,
       "target": 805,
       "value": 645000
     },
     {
-      "source": 2,
+      "source": 8,
       "status": 2,
       "target": 806,
       "value": 645000
     },
     {
-      "source": 0,
+      "source": 18,
       "status": 2,
       "target": 807,
       "value": 645000
     },
     {
       "source": 8,
+      "status": 2,
+      "target": 808,
+      "value": 645000
+    },
+    {
+      "source": 11,
       "status": 2,
       "target": 809,
       "value": 645000
@@ -4693,103 +4753,97 @@
       "value": 645000
     },
     {
-      "source": 11,
-      "status": 2,
-      "target": 811,
-      "value": 645000
-    },
-    {
-      "source": 18,
+      "source": 0,
       "status": 2,
       "target": 812,
       "value": 645000
     },
     {
-      "source": 23,
+      "source": 8,
       "status": 2,
       "target": 813,
       "value": 645000
     },
     {
-      "source": 2,
-      "status": 2,
+      "source": 6,
+      "status": 0,
       "target": 814,
-      "value": 1050000
+      "value": 1000000
     },
     {
-      "source": 18,
-      "status": 2,
-      "target": 816,
-      "value": 1400000
+      "source": 814,
+      "status": 1,
+      "target": 7,
+      "value": 1000000
     },
     {
-      "source": 28,
+      "source": 0,
       "status": 2,
       "target": 817,
       "value": 645000
     },
     {
-      "source": 11,
+      "source": 29,
       "status": 2,
       "target": 818,
       "value": 645000
     },
     {
-      "source": 3,
+      "source": 22,
       "status": 2,
       "target": 819,
       "value": 645000
     },
     {
-      "source": 11,
+      "source": 2,
       "status": 2,
-      "target": 821,
+      "target": 820,
       "value": 570000
     },
     {
-      "source": 14,
+      "source": 3,
       "status": 2,
       "target": 822,
       "value": 645000
     },
     {
-      "source": 29,
+      "source": 11,
       "status": 2,
       "target": 823,
       "value": 645000
     },
     {
-      "source": 0,
+      "source": 18,
       "status": 2,
       "target": 824,
-      "value": 645000
+      "value": 1400000
     },
     {
-      "source": 16,
+      "source": 11,
       "status": 2,
       "target": 826,
-      "value": 645000
+      "value": 570000
     },
     {
-      "source": 27,
+      "source": 8,
       "status": 2,
       "target": 827,
       "value": 645000
     },
     {
-      "source": 2,
+      "source": 28,
       "status": 2,
       "target": 828,
-      "value": 570000
+      "value": 645000
     },
     {
-      "source": 22,
+      "source": 16,
       "status": 2,
       "target": 829,
       "value": 645000
     },
     {
-      "source": 8,
+      "source": 27,
       "status": 2,
       "target": 830,
       "value": 645000
@@ -4801,91 +4855,121 @@
       "value": 645000
     },
     {
-      "source": 2,
+      "source": 14,
       "status": 2,
       "target": 832,
       "value": 645000
     },
     {
-      "source": 18,
+      "source": 2,
       "status": 2,
       "target": 833,
-      "value": 3095000
+      "value": 645000
+    },
+    {
+      "source": 21,
+      "status": 2,
+      "target": 834,
+      "value": 845000
     },
     {
       "source": 16,
       "status": 0,
-      "target": 834,
+      "target": 835,
       "value": 720000
     },
     {
-      "source": 834,
+      "source": 835,
       "status": 1,
       "target": 5,
       "value": 720000
     },
     {
-      "source": 21,
+      "source": 18,
       "status": 2,
-      "target": 835,
-      "value": 845000
+      "target": 836,
+      "value": 3095000
     },
     {
       "source": 6,
       "status": 2,
-      "target": 836,
+      "target": 837,
       "value": 3400000
     },
     {
       "source": 13,
       "status": 2,
-      "target": 837,
+      "target": 838,
       "value": 720000
     },
     {
-      "source": 11,
-      "status": 2,
-      "target": 838,
-      "value": 3095000
-    },
-    {
-      "source": 0,
+      "source": 19,
       "status": 2,
       "target": 839,
       "value": 3095000
     },
     {
-      "source": 19,
+      "source": 0,
       "status": 2,
       "target": 840,
       "value": 3095000
     },
     {
-      "source": 26,
+      "source": 11,
       "status": 2,
       "target": 841,
+      "value": 3095000
+    },
+    {
+      "source": 26,
+      "status": 2,
+      "target": 842,
       "value": 2025000
     },
     {
       "source": 13,
       "status": 2,
-      "target": 842,
+      "target": 843,
       "value": 3095000
     },
     {
       "source": 17,
       "status": 2,
-      "target": 843,
+      "target": 844,
       "value": 645000
+    },
+    {
+      "source": 5,
+      "status": 2,
+      "target": 846,
+      "value": 2416667
+    },
+    {
+      "source": 3,
+      "status": 0,
+      "target": 847,
+      "value": 900000
+    },
+    {
+      "source": 847,
+      "status": 1,
+      "target": 13,
+      "value": 900000
+    },
+    {
+      "source": 30,
+      "status": 2,
+      "target": 848,
+      "value": 2025000
     },
     {
       "source": 30,
       "status": 0,
-      "target": 845,
+      "target": 849,
       "value": 920000
     },
     {
-      "source": 845,
+      "source": 849,
       "status": 1,
       "target": 6,
       "value": 920000
@@ -4893,62 +4977,26 @@
     {
       "source": 13,
       "status": 2,
-      "target": 846,
+      "target": 850,
       "value": 2025000
-    },
-    {
-      "source": 30,
-      "status": 2,
-      "target": 847,
-      "value": 2025000
-    },
-    {
-      "source": 5,
-      "status": 2,
-      "target": 848,
-      "value": 2416667
-    },
-    {
-      "source": 3,
-      "status": 0,
-      "target": 849,
-      "value": 900000
-    },
-    {
-      "source": 849,
-      "status": 1,
-      "target": 13,
-      "value": 900000
     },
     {
       "source": 6,
       "status": 2,
-      "target": 850,
+      "target": 851,
       "value": 570000
     },
     {
       "source": 24,
       "status": 0,
-      "target": 851,
+      "target": 852,
       "value": 3000000
     },
     {
-      "source": 851,
+      "source": 852,
       "status": 1,
       "target": 11,
       "value": 3000000
-    },
-    {
-      "source": 15,
-      "status": 0,
-      "target": 853,
-      "value": 1000000
-    },
-    {
-      "source": 853,
-      "status": 1,
-      "target": 16,
-      "value": 1000000
     },
     {
       "source": 2,
@@ -4957,34 +5005,34 @@
       "value": 2750000
     },
     {
-      "source": 14,
+      "source": 15,
       "status": 0,
       "target": 855,
-      "value": 1175000
+      "value": 1000000
     },
     {
       "source": 855,
       "status": 1,
-      "target": 12,
-      "value": 1175000
+      "target": 16,
+      "value": 1000000
+    },
+    {
+      "source": 12,
+      "status": 2,
+      "target": 856,
+      "value": 720000
     },
     {
       "source": 26,
       "status": 2,
-      "target": 856,
+      "target": 857,
       "value": 645000
     },
     {
       "source": 28,
       "status": 2,
-      "target": 857,
-      "value": 2025000
-    },
-    {
-      "source": 26,
-      "status": 2,
       "target": 858,
-      "value": 3095000
+      "value": 2025000
     },
     {
       "source": 14,
@@ -4993,70 +5041,82 @@
       "value": 645000
     },
     {
-      "source": 14,
-      "status": 2,
-      "target": 861,
-      "value": 3095000
-    },
-    {
-      "source": 12,
-      "status": 2,
-      "target": 862,
-      "value": 720000
-    },
-    {
-      "source": 22,
-      "status": 2,
-      "target": 863,
-      "value": 2025000
-    },
-    {
       "source": 30,
       "status": 2,
-      "target": 864,
+      "target": 861,
       "value": 4050000
     },
     {
       "source": 9,
       "status": 2,
+      "target": 862,
+      "value": 3095000
+    },
+    {
+      "source": 14,
+      "status": 0,
+      "target": 863,
+      "value": 1175000
+    },
+    {
+      "source": 863,
+      "status": 1,
+      "target": 12,
+      "value": 1175000
+    },
+    {
+      "source": 26,
+      "status": 2,
+      "target": 864,
+      "value": 3095000
+    },
+    {
+      "source": 14,
+      "status": 2,
       "target": 865,
       "value": 3095000
     },
     {
-      "source": 20,
-      "status": 0,
-      "target": 868,
-      "value": 615000
-    },
-    {
-      "source": 868,
-      "status": 1,
-      "target": 25,
-      "value": 615000
-    },
-    {
-      "source": 2,
-      "status": 0,
-      "target": 874,
-      "value": 525000
-    },
-    {
-      "source": 874,
-      "status": 1,
-      "target": 11,
-      "value": 525000
+      "source": 22,
+      "status": 2,
+      "target": 866,
+      "value": 2025000
     },
     {
       "source": 9,
       "status": 0,
-      "target": 876,
+      "target": 870,
       "value": 525000
     },
     {
-      "source": 876,
+      "source": 870,
       "status": 1,
       "target": 11,
       "value": 525000
+    },
+    {
+      "source": 2,
+      "status": 0,
+      "target": 872,
+      "value": 525000
+    },
+    {
+      "source": 872,
+      "status": 1,
+      "target": 11,
+      "value": 525000
+    },
+    {
+      "source": 3,
+      "status": 0,
+      "target": 875,
+      "value": 570000
+    },
+    {
+      "source": 875,
+      "status": 1,
+      "target": 10,
+      "value": 570000
     },
     {
       "source": 2,
@@ -5071,18 +5131,6 @@
       "value": 525000
     },
     {
-      "source": 3,
-      "status": 0,
-      "target": 878,
-      "value": 570000
-    },
-    {
-      "source": 878,
-      "status": 1,
-      "target": 10,
-      "value": 570000
-    },
-    {
       "source": 23,
       "status": 0,
       "target": 881,
@@ -5095,37 +5143,37 @@
       "value": 525000
     },
     {
-      "source": 31,
-      "status": 2,
-      "target": 885,
-      "value": 645000
+      "source": 20,
+      "status": 0,
+      "target": 884,
+      "value": 615000
     },
     {
-      "source": 24,
-      "status": 0,
+      "source": 884,
+      "status": 1,
+      "target": 25,
+      "value": 615000
+    },
+    {
+      "source": 31,
+      "status": 2,
       "target": 886,
       "value": 645000
     },
     {
-      "source": 886,
-      "status": 1,
-      "target": 17,
-      "value": 645000
-    },
-    {
-      "source": 31,
+      "source": 2,
       "status": 2,
       "target": 887,
       "value": 645000
     },
     {
-      "source": 14,
+      "source": 17,
       "status": 2,
       "target": 888,
-      "value": 570000
+      "value": 645000
     },
     {
-      "source": 2,
+      "source": 30,
       "status": 2,
       "target": 889,
       "value": 645000
@@ -5137,37 +5185,19 @@
       "value": 645000
     },
     {
-      "source": 17,
+      "source": 10,
       "status": 2,
       "target": 891,
       "value": 645000
     },
     {
-      "source": 16,
-      "status": 2,
-      "target": 892,
-      "value": 645000
-    },
-    {
-      "source": 6,
-      "status": 2,
-      "target": 893,
-      "value": 645000
-    },
-    {
-      "source": 30,
-      "status": 2,
-      "target": 894,
-      "value": 645000
-    },
-    {
       "source": 1,
       "status": 0,
-      "target": 895,
+      "target": 892,
       "value": 1400000
     },
     {
-      "source": 895,
+      "source": 892,
       "status": 1,
       "target": 19,
       "value": 1400000
@@ -5175,143 +5205,173 @@
     {
       "source": 7,
       "status": 2,
-      "target": 896,
+      "target": 893,
       "value": 645000
     },
     {
       "source": 27,
       "status": 2,
-      "target": 897,
+      "target": 894,
       "value": 645000
     },
     {
       "source": 6,
       "status": 2,
-      "target": 898,
-      "value": 570000
-    },
-    {
-      "source": 31,
-      "status": 2,
-      "target": 899,
-      "value": 645000
-    },
-    {
-      "source": 30,
-      "status": 2,
-      "target": 900,
-      "value": 645000
-    },
-    {
-      "source": 28,
-      "status": 2,
-      "target": 902,
-      "value": 645000
-    },
-    {
-      "source": 20,
-      "status": 2,
-      "target": 903,
-      "value": 645000
-    },
-    {
-      "source": 21,
-      "status": 2,
-      "target": 904,
+      "target": 895,
       "value": 645000
     },
     {
       "source": 16,
       "status": 2,
-      "target": 905,
-      "value": 645000
-    },
-    {
-      "source": 29,
-      "status": 2,
-      "target": 906,
-      "value": 915000
-    },
-    {
-      "source": 23,
-      "status": 2,
-      "target": 907,
-      "value": 645000
-    },
-    {
-      "source": 18,
-      "status": 2,
-      "target": 908,
-      "value": 645000
-    },
-    {
-      "source": 27,
-      "status": 2,
-      "target": 910,
-      "value": 645000
-    },
-    {
-      "source": 31,
-      "status": 2,
-      "target": 911,
-      "value": 645000
-    },
-    {
-      "source": 26,
-      "status": 2,
-      "target": 912,
+      "target": 896,
       "value": 645000
     },
     {
       "source": 12,
       "status": 2,
-      "target": 913,
+      "target": 897,
+      "value": 645000
+    },
+    {
+      "source": 14,
+      "status": 2,
+      "target": 898,
+      "value": 570000
+    },
+    {
+      "source": 29,
+      "status": 2,
+      "target": 899,
+      "value": 915000
+    },
+    {
+      "source": 26,
+      "status": 2,
+      "target": 900,
       "value": 645000
     },
     {
       "source": 3,
       "status": 2,
-      "target": 914,
+      "target": 901,
+      "value": 645000
+    },
+    {
+      "source": 31,
+      "status": 2,
+      "target": 902,
+      "value": 645000
+    },
+    {
+      "source": 28,
+      "status": 2,
+      "target": 904,
+      "value": 645000
+    },
+    {
+      "source": 18,
+      "status": 2,
+      "target": 905,
+      "value": 645000
+    },
+    {
+      "source": 23,
+      "status": 2,
+      "target": 906,
+      "value": 645000
+    },
+    {
+      "source": 6,
+      "status": 2,
+      "target": 907,
+      "value": 570000
+    },
+    {
+      "source": 31,
+      "status": 2,
+      "target": 908,
+      "value": 645000
+    },
+    {
+      "source": 31,
+      "status": 2,
+      "target": 909,
+      "value": 645000
+    },
+    {
+      "source": 16,
+      "status": 2,
+      "target": 910,
       "value": 645000
     },
     {
       "source": 29,
       "status": 2,
+      "target": 911,
+      "value": 645000
+    },
+    {
+      "source": 27,
+      "status": 2,
+      "target": 912,
+      "value": 645000
+    },
+    {
+      "source": 21,
+      "status": 2,
+      "target": 913,
+      "value": 645000
+    },
+    {
+      "source": 30,
+      "status": 2,
+      "target": 914,
+      "value": 645000
+    },
+    {
+      "source": 20,
+      "status": 2,
       "target": 915,
       "value": 645000
     },
     {
-      "source": 10,
-      "status": 2,
-      "target": 916,
+      "source": 24,
+      "status": 0,
+      "target": 917,
+      "value": 645000
+    },
+    {
+      "source": 917,
+      "status": 1,
+      "target": 17,
       "value": 645000
     },
     {
       "source": 10,
       "status": 2,
-      "target": 917,
+      "target": 918,
       "value": 4055000
     },
     {
       "source": 31,
       "status": 2,
-      "target": 919,
+      "target": 920,
       "value": 3095000
     },
     {
       "source": 22,
       "status": 2,
-      "target": 920,
+      "target": 921,
       "value": 645000
     },
     {
       "source": 22,
       "status": 0,
-      "target": 921,
+      "target": 922,
       "value": 500000
     },
     {
-      "source": 921,
+      "source": 922,
       "status": 1,
       "target": 19,
       "value": 500000
@@ -5319,11 +5379,11 @@
     {
       "source": 5,
       "status": 0,
-      "target": 928,
+      "target": 929,
       "value": 1487500
     },
     {
-      "source": 928,
+      "source": 929,
       "status": 1,
       "target": 27,
       "value": 1487500
@@ -5331,71 +5391,65 @@
     {
       "source": 21,
       "status": 2,
-      "target": 930,
+      "target": 931,
       "value": 495000
     },
     {
       "source": 28,
       "status": 2,
-      "target": 932,
+      "target": 933,
       "value": 495000
     },
     {
       "source": 15,
-      "status": 2,
-      "target": 934,
-      "value": 570000
-    },
-    {
-      "source": 9,
       "status": 2,
       "target": 935,
       "value": 570000
     },
     {
-      "source": 13,
+      "source": 9,
       "status": 2,
       "target": 936,
       "value": 570000
     },
     {
-      "source": 21,
+      "source": 13,
       "status": 2,
-      "target": 938,
-      "value": 495000
+      "target": 937,
+      "value": 570000
     },
     {
       "source": 21,
       "status": 2,
       "target": 939,
+      "value": 495000
+    },
+    {
+      "source": 21,
+      "status": 2,
+      "target": 940,
       "value": 570000
     },
     {
       "source": 18,
       "status": 2,
-      "target": 941,
+      "target": 942,
       "value": 570000
     },
     {
       "source": 11,
       "status": 2,
-      "target": 943,
+      "target": 944,
       "value": 570000
     },
     {
       "source": 0,
       "status": 2,
-      "target": 944,
-      "value": 570000
-    },
-    {
-      "source": 14,
-      "status": 2,
       "target": 945,
       "value": 570000
     },
     {
-      "source": 15,
+      "source": 14,
       "status": 2,
       "target": 946,
       "value": 570000
@@ -5403,23 +5457,29 @@
     {
       "source": 15,
       "status": 2,
-      "target": 949,
+      "target": 947,
+      "value": 570000
+    },
+    {
+      "source": 15,
+      "status": 2,
+      "target": 950,
       "value": 570000
     },
     {
       "source": 0,
       "status": 2,
-      "target": 950,
+      "target": 951,
       "value": 495000
     },
     {
       "source": 19,
       "status": 0,
-      "target": 951,
+      "target": 952,
       "value": 540000
     },
     {
-      "source": 951,
+      "source": 952,
       "status": 1,
       "target": 25,
       "value": 540000
@@ -5427,17 +5487,11 @@
     {
       "source": 9,
       "status": 2,
-      "target": 952,
-      "value": 570000
-    },
-    {
-      "source": 18,
-      "status": 2,
       "target": 953,
       "value": 570000
     },
     {
-      "source": 9,
+      "source": 18,
       "status": 2,
       "target": 954,
       "value": 570000
@@ -5449,85 +5503,91 @@
       "value": 570000
     },
     {
-      "source": 18,
+      "source": 9,
       "status": 2,
-      "target": 957,
+      "target": 956,
       "value": 570000
     },
     {
-      "source": 11,
+      "source": 18,
       "status": 2,
       "target": 958,
       "value": 570000
     },
     {
-      "source": 1,
+      "source": 11,
       "status": 2,
       "target": 959,
       "value": 570000
     },
     {
-      "source": 0,
+      "source": 1,
       "status": 2,
       "target": 960,
       "value": 570000
     },
     {
-      "source": 11,
+      "source": 0,
       "status": 2,
-      "target": 962,
+      "target": 961,
       "value": 570000
     },
     {
       "source": 11,
       "status": 2,
       "target": 963,
+      "value": 570000
+    },
+    {
+      "source": 11,
+      "status": 2,
+      "target": 964,
       "value": 495000
     },
     {
       "source": 0,
       "status": 2,
-      "target": 964,
+      "target": 965,
       "value": 570000
     },
     {
       "source": 15,
       "status": 2,
-      "target": 965,
+      "target": 966,
       "value": 570000
     },
     {
       "source": 9,
       "status": 2,
-      "target": 966,
+      "target": 967,
       "value": 570000
     },
     {
       "source": 10,
       "status": 2,
-      "target": 967,
+      "target": 968,
       "value": 570000
     },
     {
       "source": 1,
       "status": 2,
-      "target": 968,
+      "target": 969,
       "value": 645000
     },
     {
       "source": 13,
       "status": 2,
-      "target": 969,
+      "target": 970,
       "value": 540000
     },
     {
       "source": 28,
       "status": 0,
-      "target": 970,
+      "target": 971,
       "value": 710000
     },
     {
-      "source": 970,
+      "source": 971,
       "status": 1,
       "target": 27,
       "value": 710000
@@ -7157,21 +7217,21 @@
       "Value": 2500000
     },
     {
-      "Index": 209,
-      "Name": "Tavon Wilson",
-      "Pos": "S",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1200000
-    },
-    {
       "CTeam": 24,
-      "Index": 210,
+      "Index": 209,
       "Name": "Matt Bryant",
       "Pos": "K",
       "Status": "UFA",
       "Type": "Player",
       "Value": 3500000
+    },
+    {
+      "Index": 210,
+      "Name": "Tavon Wilson",
+      "Pos": "S",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1200000
     },
     {
       "Index": 211,
@@ -7281,14 +7341,6 @@
     },
     {
       "Index": 224,
-      "Name": "Tyson Alualu",
-      "Pos": "34DE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 2875000
-    },
-    {
-      "Index": 225,
       "Name": "Lee Smith",
       "Pos": "TE",
       "Status": "Signed",
@@ -7296,21 +7348,29 @@
       "Value": 3000000
     },
     {
-      "Index": 226,
-      "Name": "Tramaine Brock",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1350000
-    },
-    {
       "CTeam": 20,
-      "Index": 227,
+      "Index": 225,
       "Name": "Phil Dawson",
       "Pos": "K",
       "Status": "UFA",
       "Type": "Player",
       "Value": 3000000
+    },
+    {
+      "Index": 226,
+      "Name": "Tyson Alualu",
+      "Pos": "34DE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 2875000
+    },
+    {
+      "Index": 227,
+      "Name": "Tramaine Brock",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1350000
     },
     {
       "Index": 228,
@@ -7346,32 +7406,8 @@
       "Value": 1030000
     },
     {
-      "Index": 232,
-      "Name": "Justin Coleman",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 9000000
-    },
-    {
-      "Index": 233,
-      "Name": "Nick Easton",
-      "Pos": "C",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 5625000
-    },
-    {
-      "Index": 234,
-      "Name": "Ben Garland",
-      "Pos": "LG",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 805000
-    },
-    {
       "CTeam": 5,
-      "Index": 235,
+      "Index": 232,
       "Name": "Corey Grant",
       "Pos": "RB",
       "Status": "UFA",
@@ -7379,8 +7415,16 @@
       "Value": 2914000
     },
     {
+      "Index": 233,
+      "Name": "Ben Garland",
+      "Pos": "LG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 805000
+    },
+    {
       "CTeam": 7,
-      "Index": 236,
+      "Index": 234,
       "Name": "David Irving",
       "Pos": "43DT",
       "Status": "UFA",
@@ -7388,20 +7432,36 @@
       "Value": 2914000
     },
     {
-      "Index": 237,
-      "Name": "Brett Jones",
+      "Index": 235,
+      "Name": "Justin Coleman",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 9000000
+    },
+    {
+      "Index": 236,
+      "Name": "Nick Easton",
       "Pos": "C",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 810000
+      "Value": 5625000
     },
     {
-      "Index": 238,
+      "Index": 237,
       "Name": "Adam Humphries",
       "Pos": "WR",
       "Status": "Signed",
       "Type": "Player",
       "Value": 9000000
+    },
+    {
+      "Index": 238,
+      "Name": "Brett Jones",
+      "Pos": "C",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 810000
     },
     {
       "Index": 239,
@@ -7413,6 +7473,14 @@
     },
     {
       "Index": 240,
+      "Name": "Shaquil Barrett",
+      "Pos": "34OLB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 4000000
+    },
+    {
+      "Index": 241,
       "Name": "Matt Paradis",
       "Pos": "C",
       "Status": "Signed",
@@ -7420,20 +7488,12 @@
       "Value": 9010000
     },
     {
-      "Index": 241,
+      "Index": 242,
       "Name": "Tyrell Williams",
       "Pos": "WR",
       "Status": "Signed",
       "Type": "Player",
       "Value": 11100000
-    },
-    {
-      "Index": 242,
-      "Name": "Shaquil Barrett",
-      "Pos": "34OLB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 4000000
     },
     {
       "CTeam": 23,
@@ -7445,19 +7505,19 @@
       "Value": 2800000
     },
     {
-      "CTeam": 17,
+      "CTeam": 29,
       "Index": 244,
-      "Name": "Sam Acho",
-      "Pos": "34OLB",
+      "Name": "Chris Ivory",
+      "Pos": "RB",
       "Status": "SFA",
       "Type": "Player",
       "Value": 2750000
     },
     {
-      "CTeam": 29,
+      "CTeam": 17,
       "Index": 245,
-      "Name": "Chris Ivory",
-      "Pos": "RB",
+      "Name": "Sam Acho",
+      "Pos": "34OLB",
       "Status": "SFA",
       "Type": "Player",
       "Value": 2750000
@@ -7521,30 +7581,30 @@
       "Value": 3000000
     },
     {
-      "CTeam": 30,
       "Index": 253,
-      "Name": "Manti Te'o",
-      "Pos": "ILB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 2500000
-    },
-    {
-      "CTeam": 11,
-      "Index": 254,
-      "Name": "Ben Ijalana",
+      "Name": "Cameron Fleming",
       "Pos": "LT",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 2500000
-    },
-    {
-      "Index": 255,
-      "Name": "Cody Latimer",
-      "Pos": "WR",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 1500000
+      "Value": 3750000
+    },
+    {
+      "CTeam": 16,
+      "Index": 254,
+      "Name": "Chris Conte",
+      "Pos": "S",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "CTeam": 26,
+      "Index": 255,
+      "Name": "Matt Slauson",
+      "Pos": "LG",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 2500000
     },
     {
       "CTeam": 12,
@@ -7557,14 +7617,6 @@
     },
     {
       "Index": 257,
-      "Name": "Ryan Groy",
-      "Pos": "C",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 895000
-    },
-    {
-      "Index": 258,
       "Name": "Luke Willson",
       "Pos": "TE",
       "Status": "Signed",
@@ -7572,43 +7624,33 @@
       "Value": 895000
     },
     {
-      "CTeam": 26,
-      "Index": 259,
-      "Name": "Matt Slauson",
-      "Pos": "LG",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 2500000
-    },
-    {
-      "CTeam": 28,
-      "Index": 260,
-      "Name": "Antonio Gates",
-      "Pos": "TE",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 2500000
-    },
-    {
-      "CTeam": 16,
-      "Index": 261,
-      "Name": "Chris Conte",
-      "Pos": "S",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 2500000
-    },
-    {
-      "Index": 262,
-      "Name": "Cameron Fleming",
-      "Pos": "LT",
+      "Index": 258,
+      "Name": "Ryan Groy",
+      "Pos": "C",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 3750000
+      "Value": 895000
+    },
+    {
+      "CTeam": 30,
+      "Index": 259,
+      "Name": "Manti Te'o",
+      "Pos": "ILB",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 260,
+      "Name": "Cody Latimer",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1500000
     },
     {
       "CTeam": 21,
-      "Index": 263,
+      "Index": 261,
       "Name": "Da'Norris Searcy",
       "Pos": "S",
       "Status": "SFA",
@@ -7616,21 +7658,39 @@
       "Value": 2500000
     },
     {
-      "CTeam": 25,
-      "Index": 264,
-      "Name": "Brynden Trawick",
-      "Pos": "S",
+      "CTeam": 28,
+      "Index": 262,
+      "Name": "Antonio Gates",
+      "Pos": "TE",
       "Status": "UFA",
       "Type": "Player",
-      "Value": 2375000
+      "Value": 2500000
     },
     {
-      "Index": 265,
+      "CTeam": 11,
+      "Index": 263,
+      "Name": "Ben Ijalana",
+      "Pos": "LT",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 2500000
+    },
+    {
+      "Index": 264,
       "Name": "Jason McCourty",
       "Pos": "CB",
       "Status": "Signed",
       "Type": "Player",
       "Value": 5000000
+    },
+    {
+      "CTeam": 25,
+      "Index": 265,
+      "Name": "Brynden Trawick",
+      "Pos": "S",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 2375000
     },
     {
       "Index": 266,
@@ -7698,21 +7758,21 @@
       "Value": 4250000
     },
     {
-      "CTeam": 12,
       "Index": 274,
-      "Name": "Chris Maragos",
-      "Pos": "S",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 2050000
-    },
-    {
-      "Index": 275,
       "Name": "Margus Hunt",
       "Pos": "43DE",
       "Status": "Signed",
       "Type": "Player",
       "Value": 4500000
+    },
+    {
+      "CTeam": 12,
+      "Index": 275,
+      "Name": "Chris Maragos",
+      "Pos": "S",
+      "Status": "SFA",
+      "Type": "Player",
+      "Value": 2050000
     },
     {
       "Index": 276,
@@ -7733,22 +7793,6 @@
     },
     {
       "Index": 278,
-      "Name": "Blaine Gabbert",
-      "Pos": "QB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1600000
-    },
-    {
-      "Index": 279,
-      "Name": "Jamize Olawale",
-      "Pos": "FB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1800000
-    },
-    {
-      "Index": 280,
       "Name": "Terrence Brooks",
       "Pos": "S",
       "Status": "Signed",
@@ -7756,21 +7800,37 @@
       "Value": 1625000
     },
     {
-      "CTeam": 15,
-      "Index": 281,
-      "Name": "Lance Kendricks",
+      "Index": 279,
+      "Name": "Blaine Gabbert",
+      "Pos": "QB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1600000
+    },
+    {
+      "Index": 280,
+      "Name": "Ben Watson",
       "Pos": "TE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 2350000
+    },
+    {
+      "Index": 281,
+      "Name": "Anthony Sherman",
+      "Pos": "FB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1020000
+    },
+    {
+      "CTeam": 28,
+      "Index": 282,
+      "Name": "Damion Square",
+      "Pos": "43DT",
       "Status": "UFA",
       "Type": "Player",
       "Value": 2000000
-    },
-    {
-      "Index": 282,
-      "Name": "Billy Turner",
-      "Pos": "LG",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 7000000
     },
     {
       "Index": 283,
@@ -7781,11 +7841,11 @@
       "Value": 4750000
     },
     {
-      "CTeam": 8,
+      "CTeam": 15,
       "Index": 284,
-      "Name": "Jon Bostic",
-      "Pos": "ILB",
-      "Status": "SFA",
+      "Name": "Lance Kendricks",
+      "Pos": "TE",
+      "Status": "UFA",
       "Type": "Player",
       "Value": 2000000
     },
@@ -7799,44 +7859,43 @@
       "Value": 2000000
     },
     {
+      "CTeam": 8,
       "Index": 286,
-      "Name": "Anthony Sherman",
-      "Pos": "FB",
-      "Status": "Signed",
+      "Name": "Jon Bostic",
+      "Pos": "ILB",
+      "Status": "SFA",
       "Type": "Player",
-      "Value": 1020000
+      "Value": 2000000
     },
     {
       "Index": 287,
-      "Name": "Ben Watson",
-      "Pos": "TE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 2350000
-    },
-    {
-      "CTeam": 26,
-      "Index": 288,
       "Name": "Al Woods",
       "Pos": "43DT",
-      "Status": "UFA",
+      "Status": "Signed",
       "Type": "Player",
-      "Value": 2000000
+      "Value": 2250000
+    },
+    {
+      "Index": 288,
+      "Name": "Billy Turner",
+      "Pos": "LG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 7000000
+    },
+    {
+      "Index": 289,
+      "Name": "Jamize Olawale",
+      "Pos": "FB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1800000
     },
     {
       "CTeam": 6,
-      "Index": 289,
+      "Index": 290,
       "Name": "LeGarrette Blount",
       "Pos": "RB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 2000000
-    },
-    {
-      "CTeam": 28,
-      "Index": 290,
-      "Name": "Damion Square",
-      "Pos": "43DT",
       "Status": "UFA",
       "Type": "Player",
       "Value": 2000000
@@ -7870,14 +7929,6 @@
     },
     {
       "Index": 294,
-      "Name": "Anthony Chickillo",
-      "Pos": "34OLB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 4000000
-    },
-    {
-      "Index": 295,
       "Name": "Neal Sterling",
       "Pos": "TE",
       "Status": "Signed",
@@ -7885,12 +7936,20 @@
       "Value": 805000
     },
     {
-      "Index": 296,
-      "Name": "Jordan Berry",
-      "Pos": "P",
+      "Index": 295,
+      "Name": "Brent Qvale",
+      "Pos": "RT",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 1850000
+      "Value": 1400000
+    },
+    {
+      "Index": 296,
+      "Name": "Quinton Spain",
+      "Pos": "LG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 2050000
     },
     {
       "Index": 297,
@@ -7902,23 +7961,31 @@
     },
     {
       "Index": 298,
-      "Name": "Brent Qvale",
-      "Pos": "RT",
+      "Name": "Anthony Chickillo",
+      "Pos": "34OLB",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 1400000
+      "Value": 4000000
     },
     {
       "Index": 299,
-      "Name": "Quinton Spain",
-      "Pos": "LG",
+      "Name": "Jordan Berry",
+      "Pos": "P",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 2050000
+      "Value": 1850000
+    },
+    {
+      "Index": 300,
+      "Name": "Bryce Callahan",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 7000000
     },
     {
       "CTeam": 9,
-      "Index": 300,
+      "Index": 301,
       "Name": "Martavis Bryant",
       "Pos": "WR",
       "Status": "UFA",
@@ -7927,20 +7994,12 @@
     },
     {
       "CTeam": 6,
-      "Index": 301,
+      "Index": 302,
       "Name": "TJ Jones",
       "Pos": "WR",
       "Status": "UFA",
       "Type": "Player",
       "Value": 1907000
-    },
-    {
-      "Index": 302,
-      "Name": "Bryce Callahan",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 7000000
     },
     {
       "Index": 303,
@@ -7951,19 +8010,19 @@
       "Value": 5000000
     },
     {
-      "CTeam": 11,
+      "CTeam": 29,
       "Index": 304,
-      "Name": "Josh Martin",
-      "Pos": "34OLB",
+      "Name": "Jordan Mills",
+      "Pos": "RT",
       "Status": "UFA",
       "Type": "Player",
       "Value": 1900000
     },
     {
-      "CTeam": 29,
+      "CTeam": 11,
       "Index": 305,
-      "Name": "Jordan Mills",
-      "Pos": "RT",
+      "Name": "Josh Martin",
+      "Pos": "34OLB",
       "Status": "UFA",
       "Type": "Player",
       "Value": 1900000
@@ -8020,8 +8079,24 @@
       "Value": 1000000
     },
     {
-      "CTeam": 9,
       "Index": 312,
+      "Name": "Neiko Thorpe",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
+      "Index": 313,
+      "Name": "Justin Bethel",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 2000000
+    },
+    {
+      "CTeam": 9,
+      "Index": 314,
       "Name": "Brandon LaFell",
       "Pos": "WR",
       "Status": "UFA",
@@ -8030,28 +8105,12 @@
     },
     {
       "CTeam": 2,
-      "Index": 313,
+      "Index": 315,
       "Name": "Connor Barwin",
       "Pos": "34OLB",
       "Status": "SFA",
       "Type": "Player",
       "Value": 1750000
-    },
-    {
-      "Index": 314,
-      "Name": "Neiko Thorpe",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1000000
-    },
-    {
-      "Index": 315,
-      "Name": "Justin Bethel",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 2000000
     },
     {
       "Index": 316,
@@ -8214,57 +8273,16 @@
       "Value": 2350000
     },
     {
+      "CTeam": 20,
       "Index": 335,
-      "Name": "J.R. Sweezy",
-      "Pos": "RG",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 4500000
-    },
-    {
-      "Index": 336,
-      "Name": "Pat O'Donnell",
-      "Pos": "P",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1750000
-    },
-    {
-      "Index": 337,
-      "Name": "Marcus Cooper",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 895000
-    },
-    {
-      "CTeam": 9,
-      "Index": 338,
-      "Name": "Reggie Nelson",
+      "Name": "Tre Boston",
       "Pos": "S",
       "Status": "UFA",
       "Type": "Player",
       "Value": 1500000
     },
     {
-      "CTeam": 21,
-      "Index": 339,
-      "Name": "Marshall Newhouse",
-      "Pos": "LT",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 1500000
-    },
-    {
-      "Index": 340,
-      "Name": "DJ Fluker",
-      "Pos": "RG",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 3000000
-    },
-    {
-      "Index": 341,
+      "Index": 336,
       "Name": "Zach Kerr",
       "Pos": "34DE",
       "Status": "Signed",
@@ -8273,7 +8291,7 @@
     },
     {
       "CTeam": 6,
-      "Index": 342,
+      "Index": 337,
       "Name": "Levine Toilolo",
       "Pos": "TE",
       "Status": "UFA",
@@ -8282,7 +8300,7 @@
     },
     {
       "CTeam": 4,
-      "Index": 343,
+      "Index": 338,
       "Name": "Shawn Lauvao",
       "Pos": "LG",
       "Status": "UFA",
@@ -8290,16 +8308,31 @@
       "Value": 1500000
     },
     {
-      "CTeam": 20,
-      "Index": 344,
-      "Name": "Tre Boston",
-      "Pos": "S",
-      "Status": "UFA",
+      "Index": 339,
+      "Name": "Pat O'Donnell",
+      "Pos": "P",
+      "Status": "Signed",
       "Type": "Player",
-      "Value": 1500000
+      "Value": 1750000
     },
     {
-      "Index": 345,
+      "Index": 340,
+      "Name": "Marcus Cooper",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 895000
+    },
+    {
+      "Index": 341,
+      "Name": "DJ Fluker",
+      "Pos": "RG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 3000000
+    },
+    {
+      "Index": 342,
       "Name": "Adrian Phillips",
       "Pos": "S",
       "Status": "Signed",
@@ -8307,7 +8340,7 @@
       "Value": 2000000
     },
     {
-      "Index": 346,
+      "Index": 343,
       "Name": "LaAdrian Waddle",
       "Pos": "LT",
       "Status": "Signed",
@@ -8315,19 +8348,45 @@
       "Value": 2000000
     },
     {
-      "CTeam": 19,
-      "Index": 347,
-      "Name": "Jeremy Hill",
-      "Pos": "RB",
+      "CTeam": 9,
+      "Index": 344,
+      "Name": "Reggie Nelson",
+      "Pos": "S",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "CTeam": 21,
+      "Index": 345,
+      "Name": "Marshall Newhouse",
+      "Pos": "LT",
       "Status": "UFA",
       "Type": "Player",
       "Value": 1500000
     },
     {
       "CTeam": 14,
-      "Index": 348,
+      "Index": 346,
       "Name": "Ethan Westbrooks",
       "Pos": "34DE",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 1500000
+    },
+    {
+      "Index": 347,
+      "Name": "J.R. Sweezy",
+      "Pos": "RG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 4500000
+    },
+    {
+      "CTeam": 19,
+      "Index": 348,
+      "Name": "Jeremy Hill",
+      "Pos": "RB",
       "Status": "UFA",
       "Type": "Player",
       "Value": 1500000
@@ -8365,17 +8424,8 @@
       "Value": 13000000
     },
     {
-      "CTeam": 12,
-      "Index": 353,
-      "Name": "Darren Sproles",
-      "Pos": "RB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 1415000
-    },
-    {
       "CTeam": 10,
-      "Index": 354,
+      "Index": 353,
       "Name": "Orlando Scandrick",
       "Pos": "CB",
       "Status": "UFA",
@@ -8383,15 +8433,16 @@
       "Value": 1415000
     },
     {
-      "Index": 355,
-      "Name": "Spencer Ware",
+      "CTeam": 12,
+      "Index": 354,
+      "Name": "Darren Sproles",
       "Pos": "RB",
-      "Status": "Signed",
+      "Status": "UFA",
       "Type": "Player",
-      "Value": 1305000
+      "Value": 1415000
     },
     {
-      "Index": 356,
+      "Index": 355,
       "Name": "Mark Glowinski",
       "Pos": "RG",
       "Status": "Signed",
@@ -8399,7 +8450,7 @@
       "Value": 5400000
     },
     {
-      "Index": 357,
+      "Index": 356,
       "Name": "Kevin Pamphile",
       "Pos": "LG",
       "Status": "Signed",
@@ -8407,12 +8458,20 @@
       "Value": 1600000
     },
     {
-      "Index": 358,
+      "Index": 357,
       "Name": "Marcus Sherels",
       "Pos": "CB",
       "Status": "Signed",
       "Type": "Player",
       "Value": 1020000
+    },
+    {
+      "Index": 358,
+      "Name": "Spencer Ware",
+      "Pos": "RB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1305000
     },
     {
       "Index": 359,
@@ -8447,24 +8506,8 @@
       "Value": 1875000
     },
     {
-      "Index": 363,
-      "Name": "Benson Mayowa",
-      "Pos": "43DE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1100000
-    },
-    {
-      "Index": 364,
-      "Name": "Mike Davis",
-      "Pos": "RB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 3000000
-    },
-    {
       "CTeam": 21,
-      "Index": 365,
+      "Index": 363,
       "Name": "Wes Horton",
       "Pos": "43DE",
       "Status": "UFA",
@@ -8472,16 +8515,23 @@
       "Value": 1350000
     },
     {
-      "CTeam": 8,
-      "Index": 366,
-      "Name": "Coty Sensabaugh",
-      "Pos": "CB",
-      "Status": "UFA",
+      "Index": 364,
+      "Name": "Benson Mayowa",
+      "Pos": "43DE",
+      "Status": "Signed",
       "Type": "Player",
-      "Value": 1300000
+      "Value": 1100000
     },
     {
-      "Index": 367,
+      "Index": 365,
+      "Name": "Mike Davis",
+      "Pos": "RB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 3000000
+    },
+    {
+      "Index": 366,
       "Name": "Chris Banjo",
       "Pos": "S",
       "Status": "Signed",
@@ -8489,21 +8539,30 @@
       "Value": 2300000
     },
     {
-      "CTeam": 30,
-      "Index": 368,
-      "Name": "Dez Bryant",
-      "Pos": "WR",
+      "CTeam": 8,
+      "Index": 367,
+      "Name": "Coty Sensabaugh",
+      "Pos": "CB",
       "Status": "UFA",
       "Type": "Player",
-      "Value": 1275000
+      "Value": 1300000
     },
     {
-      "Index": 369,
+      "Index": 368,
       "Name": "Ryan Griffin",
       "Pos": "QB",
       "Status": "Signed",
       "Type": "Player",
       "Value": 1450000
+    },
+    {
+      "CTeam": 30,
+      "Index": 369,
+      "Name": "Dez Bryant",
+      "Pos": "WR",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 1275000
     },
     {
       "CTeam": 8,
@@ -8516,29 +8575,28 @@
     },
     {
       "Index": 371,
-      "Name": "Kerry Wynn",
-      "Pos": "34DE",
+      "Name": "Russell Shepard",
+      "Pos": "WR",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 1400000
-    },
-    {
-      "CTeam": 25,
-      "Index": 372,
-      "Name": "Will Compton",
-      "Pos": "ILB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 1250000
+      "Value": 1500000
     },
     {
       "CTeam": 21,
-      "Index": 373,
+      "Index": 372,
       "Name": "Fozzy Whittaker",
       "Pos": "RB",
       "Status": "UFA",
       "Type": "Player",
       "Value": 1250000
+    },
+    {
+      "Index": 373,
+      "Name": "Kerry Wynn",
+      "Pos": "34DE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1400000
     },
     {
       "Index": 374,
@@ -8549,12 +8607,13 @@
       "Value": 895000
     },
     {
+      "CTeam": 25,
       "Index": 375,
-      "Name": "Russell Shepard",
-      "Pos": "WR",
-      "Status": "Signed",
+      "Name": "Will Compton",
+      "Pos": "ILB",
+      "Status": "UFA",
       "Type": "Player",
-      "Value": 1500000
+      "Value": 1250000
     },
     {
       "Index": 376,
@@ -8622,16 +8681,7 @@
       "Value": 6500000
     },
     {
-      "CTeam": 9,
       "Index": 384,
-      "Name": "Leon Hall",
-      "Pos": "CB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 1105000
-    },
-    {
-      "Index": 385,
       "Name": "LP Ladouceur",
       "Pos": "LS",
       "Status": "Signed",
@@ -8640,7 +8690,7 @@
     },
     {
       "CTeam": 2,
-      "Index": 386,
+      "Index": 385,
       "Name": "John Greco",
       "Pos": "LG",
       "Status": "UFA",
@@ -8648,21 +8698,30 @@
       "Value": 1105000
     },
     {
-      "Index": 387,
-      "Name": "Don Muhlbach",
-      "Pos": "LS",
-      "Status": "Signed",
+      "CTeam": 9,
+      "Index": 386,
+      "Name": "Leon Hall",
+      "Pos": "CB",
+      "Status": "UFA",
       "Type": "Player",
-      "Value": 1120000
+      "Value": 1105000
     },
     {
       "CTeam": 6,
-      "Index": 388,
+      "Index": 387,
       "Name": "Matt Cassel",
       "Pos": "QB",
       "Status": "UFA",
       "Type": "Player",
       "Value": 1105000
+    },
+    {
+      "Index": 388,
+      "Name": "Don Muhlbach",
+      "Pos": "LS",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1120000
     },
     {
       "Index": 389,
@@ -8731,16 +8790,7 @@
       "Value": 1064880
     },
     {
-      "CTeam": 27,
       "Index": 397,
-      "Name": "MarQueis Gray",
-      "Pos": "TE",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 1050000
-    },
-    {
-      "Index": 398,
       "Name": "Benny Cunningham",
       "Pos": "RB",
       "Status": "Signed",
@@ -8748,21 +8798,30 @@
       "Value": 895000
     },
     {
-      "CTeam": 9,
-      "Index": 399,
-      "Name": "Frostee Rucker",
-      "Pos": "43DE",
+      "CTeam": 27,
+      "Index": 398,
+      "Name": "MarQueis Gray",
+      "Pos": "TE",
       "Status": "UFA",
       "Type": "Player",
-      "Value": 1040000
+      "Value": 1050000
     },
     {
-      "Index": 400,
+      "Index": 399,
       "Name": "Adarius Taylor",
       "Pos": "ILB",
       "Status": "Signed",
       "Type": "Player",
       "Value": 2500000
+    },
+    {
+      "CTeam": 9,
+      "Index": 400,
+      "Name": "Frostee Rucker",
+      "Pos": "43DE",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 1040000
     },
     {
       "Index": 401,
@@ -8782,6 +8841,14 @@
     },
     {
       "Index": 403,
+      "Name": "Dominique Rodgers-Cromartie",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1075000
+    },
+    {
+      "Index": 404,
       "Name": "Adrian Peterson",
       "Pos": "RB",
       "Status": "Signed",
@@ -8789,17 +8856,26 @@
       "Value": 2515000
     },
     {
-      "CTeam": 9,
-      "Index": 404,
-      "Name": "Ahtyba Rubin",
-      "Pos": "43DT",
+      "CTeam": 30,
+      "Index": 405,
+      "Name": "Jermon Bushrod",
+      "Pos": "RG",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 1015000
+    },
+    {
+      "CTeam": 24,
+      "Index": 406,
+      "Name": "Jon Condo",
+      "Pos": "LS",
       "Status": "UFA",
       "Type": "Player",
       "Value": 1015000
     },
     {
       "CTeam": 9,
-      "Index": 405,
+      "Index": 407,
       "Name": "Mike Nugent",
       "Pos": "K",
       "Status": "UFA",
@@ -8808,7 +8884,7 @@
     },
     {
       "CTeam": 28,
-      "Index": 406,
+      "Index": 408,
       "Name": "Donnie Jones",
       "Pos": "P",
       "Status": "UFA",
@@ -8816,7 +8892,7 @@
       "Value": 1015000
     },
     {
-      "Index": 407,
+      "Index": 409,
       "Name": "John Denney",
       "Pos": "LS",
       "Status": "Signed",
@@ -8824,30 +8900,13 @@
       "Value": 1120000
     },
     {
-      "CTeam": 24,
-      "Index": 408,
-      "Name": "Jon Condo",
-      "Pos": "LS",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 1015000
-    },
-    {
-      "CTeam": 30,
-      "Index": 409,
-      "Name": "Jermon Bushrod",
-      "Pos": "RG",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 1015000
-    },
-    {
+      "CTeam": 9,
       "Index": 410,
-      "Name": "Dominique Rodgers-Cromartie",
-      "Pos": "CB",
-      "Status": "Signed",
+      "Name": "Ahtyba Rubin",
+      "Pos": "43DT",
+      "Status": "UFA",
       "Type": "Player",
-      "Value": 1075000
+      "Value": 1015000
     },
     {
       "Index": 411,
@@ -8859,31 +8918,24 @@
     },
     {
       "Index": 412,
-      "Name": "Andre Roberts",
+      "Name": "Dwayne Harris",
       "Pos": "WR",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 2300000
+      "Value": 1600000
     },
     {
+      "CTeam": 15,
       "Index": 413,
-      "Name": "Bobby Hart",
-      "Pos": "RT",
-      "Status": "Signed",
+      "Name": "Davon House",
+      "Pos": "CB",
+      "Status": "UFA",
       "Type": "Player",
-      "Value": 5383333
-    },
-    {
-      "Index": 414,
-      "Name": "Nick Bellore",
-      "Pos": "FB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1115000
+      "Value": 1005000
     },
     {
       "CTeam": 6,
-      "Index": 415,
+      "Index": 414,
       "Name": "Ricky Jean-Francois",
       "Pos": "43DE",
       "Status": "UFA",
@@ -8891,13 +8943,20 @@
       "Value": 1005000
     },
     {
-      "CTeam": 15,
-      "Index": 416,
-      "Name": "Davon House",
-      "Pos": "CB",
-      "Status": "UFA",
+      "Index": 415,
+      "Name": "Nick Bellore",
+      "Pos": "FB",
+      "Status": "Signed",
       "Type": "Player",
-      "Value": 1005000
+      "Value": 1115000
+    },
+    {
+      "Index": 416,
+      "Name": "Andre Roberts",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 2300000
     },
     {
       "Index": 417,
@@ -8909,14 +8968,30 @@
     },
     {
       "Index": 418,
-      "Name": "Dwayne Harris",
-      "Pos": "WR",
+      "Name": "Bobby Hart",
+      "Pos": "RT",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 1600000
+      "Value": 5383333
     },
     {
       "Index": 419,
+      "Name": "Geno Smith",
+      "Pos": "QB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 895000
+    },
+    {
+      "Index": 420,
+      "Name": "Nathan Stupar",
+      "Pos": "43OLB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 895000
+    },
+    {
+      "Index": 421,
       "Name": "Kemal Ishmael",
       "Pos": "S",
       "Status": "Signed",
@@ -8924,7 +8999,7 @@
       "Value": 895000
     },
     {
-      "Index": 420,
+      "Index": 422,
       "Name": "Ray-Ray Armstrong",
       "Pos": "ILB",
       "Status": "Signed",
@@ -8933,7 +9008,7 @@
     },
     {
       "CTeam": 22,
-      "Index": 421,
+      "Index": 423,
       "Name": "Tom Johnson",
       "Pos": "43DT",
       "Status": "UFA",
@@ -8941,29 +9016,12 @@
       "Value": 1000000
     },
     {
-      "CTeam": 28,
-      "Index": 422,
-      "Name": "Geno Smith",
-      "Pos": "QB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 1000000
-    },
-    {
-      "Index": 423,
+      "Index": 424,
       "Name": "John Simon",
       "Pos": "43DE",
       "Status": "Signed",
       "Type": "Player",
       "Value": 2075000
-    },
-    {
-      "Index": 424,
-      "Name": "Nathan Stupar",
-      "Pos": "43OLB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 895000
     },
     {
       "Index": 425,
@@ -9047,8 +9105,17 @@
       "Value": 922500
     },
     {
-      "CTeam": 24,
+      "CTeam": 31,
       "Index": 435,
+      "Name": "Andre Smith",
+      "Pos": "RT",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 24,
+      "Index": 436,
       "Name": "Zane Beadles",
       "Pos": "LG",
       "Status": "UFA",
@@ -9056,29 +9123,19 @@
       "Value": 915000
     },
     {
-      "CTeam": 20,
-      "Index": 436,
-      "Name": "John Phillips",
-      "Pos": "TE",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "CTeam": 26,
       "Index": 437,
-      "Name": "Mike Mitchell",
-      "Pos": "S",
-      "Status": "UFA",
+      "Name": "Joe Webb",
+      "Pos": "QB",
+      "Status": "Signed",
       "Type": "Player",
-      "Value": 915000
+      "Value": 1020000
     },
     {
-      "CTeam": 4,
+      "CTeam": 10,
       "Index": 438,
-      "Name": "Mark Sanchez",
-      "Pos": "QB",
-      "Status": "UFA",
+      "Name": "Ron Parker",
+      "Pos": "S",
+      "Status": "SFA",
       "Type": "Player",
       "Value": 915000
     },
@@ -9092,50 +9149,6 @@
     },
     {
       "Index": 440,
-      "Name": "Joe Webb",
-      "Pos": "QB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1020000
-    },
-    {
-      "CTeam": 10,
-      "Index": 441,
-      "Name": "Ron Parker",
-      "Pos": "S",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "CTeam": 21,
-      "Index": 442,
-      "Name": "Chris Clark",
-      "Pos": "RT",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "CTeam": 31,
-      "Index": 443,
-      "Name": "Andre Smith",
-      "Pos": "RT",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "CTeam": 27,
-      "Index": 444,
-      "Name": "Ziggy Hood",
-      "Pos": "43DT",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "Index": 445,
       "Name": "Mike Person",
       "Pos": "RG",
       "Status": "Signed",
@@ -9143,62 +9156,8 @@
       "Value": 2750000
     },
     {
-      "CTeam": 25,
-      "Index": 446,
-      "Name": "Kendrick Lewis",
-      "Pos": "S",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "CTeam": 27,
-      "Index": 447,
-      "Name": "Sam Young",
-      "Pos": "RT",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "CTeam": 16,
-      "Index": 448,
-      "Name": "Garrison Sanborn",
-      "Pos": "LS",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "CTeam": 10,
-      "Index": 449,
-      "Name": "Frank Zombo",
-      "Pos": "34OLB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "CTeam": 20,
-      "Index": 450,
-      "Name": "Joseph Barksdale",
-      "Pos": "RT",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "CTeam": 13,
-      "Index": 451,
-      "Name": "Shareece Wright",
-      "Pos": "CB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
       "CTeam": 19,
-      "Index": 452,
+      "Index": 441,
       "Name": "Ramon Humber",
       "Pos": "43OLB",
       "Status": "UFA",
@@ -9207,8 +9166,62 @@
     },
     {
       "CTeam": 4,
-      "Index": 453,
-      "Name": "Austin Howard",
+      "Index": 442,
+      "Name": "Josh Johnson",
+      "Pos": "QB",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 13,
+      "Index": 443,
+      "Name": "Shareece Wright",
+      "Pos": "CB",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 25,
+      "Index": 444,
+      "Name": "Kendrick Lewis",
+      "Pos": "S",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 27,
+      "Index": 445,
+      "Name": "Ziggy Hood",
+      "Pos": "43DT",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 4,
+      "Index": 446,
+      "Name": "Mark Sanchez",
+      "Pos": "QB",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 20,
+      "Index": 447,
+      "Name": "Joseph Barksdale",
+      "Pos": "RT",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 21,
+      "Index": 448,
+      "Name": "Chris Clark",
       "Pos": "RT",
       "Status": "UFA",
       "Type": "Player",
@@ -9216,9 +9229,54 @@
     },
     {
       "CTeam": 4,
+      "Index": 449,
+      "Name": "Austin Howard",
+      "Pos": "RT",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 26,
+      "Index": 450,
+      "Name": "Mike Mitchell",
+      "Pos": "S",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 27,
+      "Index": 451,
+      "Name": "Sam Young",
+      "Pos": "RT",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 20,
+      "Index": 452,
+      "Name": "John Phillips",
+      "Pos": "TE",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 16,
+      "Index": 453,
+      "Name": "Garrison Sanborn",
+      "Pos": "LS",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "CTeam": 10,
       "Index": 454,
-      "Name": "Josh Johnson",
-      "Pos": "QB",
+      "Name": "Frank Zombo",
+      "Pos": "34OLB",
       "Status": "UFA",
       "Type": "Player",
       "Value": 915000
@@ -9233,16 +9291,7 @@
       "Value": 912500
     },
     {
-      "CTeam": 13,
       "Index": 456,
-      "Name": "Brian Peters",
-      "Pos": "ILB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 900000
-    },
-    {
-      "Index": 457,
       "Name": "Tom Compton",
       "Pos": "LG",
       "Status": "Signed",
@@ -9250,23 +9299,16 @@
       "Value": 1600000
     },
     {
+      "CTeam": 13,
+      "Index": 457,
+      "Name": "Brian Peters",
+      "Pos": "ILB",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 900000
+    },
+    {
       "Index": 458,
-      "Name": "David Fales",
-      "Pos": "QB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 805000
-    },
-    {
-      "Index": 459,
-      "Name": "Alfred Blue",
-      "Pos": "RB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 895000
-    },
-    {
-      "Index": 460,
       "Name": "Jonotthan Harrison",
       "Pos": "C",
       "Status": "Signed",
@@ -9274,7 +9316,15 @@
       "Value": 2500000
     },
     {
-      "Index": 461,
+      "Index": 459,
+      "Name": "Josh Mauro",
+      "Pos": "34DE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1400000
+    },
+    {
+      "Index": 460,
       "Name": "Daniel McCullers",
       "Pos": "34DT",
       "Status": "Signed",
@@ -9282,12 +9332,20 @@
       "Value": 1375000
     },
     {
-      "Index": 462,
-      "Name": "Josh Mauro",
-      "Pos": "34DE",
+      "Index": 461,
+      "Name": "David Fales",
+      "Pos": "QB",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 1400000
+      "Value": 805000
+    },
+    {
+      "Index": 462,
+      "Name": "Alfred Blue",
+      "Pos": "RB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 895000
     },
     {
       "CTeam": 27,
@@ -9664,13 +9722,12 @@
       "Value": 845000
     },
     {
-      "CTeam": 30,
       "Index": 508,
       "Name": "Josh LeRibeus",
       "Pos": "C",
-      "Status": "UFA",
+      "Status": "Signed",
       "Type": "Player",
-      "Value": 790000
+      "Value": 805000
     },
     {
       "CTeam": 3,
@@ -9797,13 +9854,12 @@
       "Value": 790000
     },
     {
-      "CTeam": 4,
       "Index": 523,
       "Name": "Jonathan Cooper",
       "Pos": "LG",
-      "Status": "UFA",
+      "Status": "Signed",
       "Type": "Player",
-      "Value": 790000
+      "Value": 805000
     },
     {
       "Index": 524,
@@ -11208,32 +11264,7 @@
       "Value": 720000
     },
     {
-      "CTeam": 26,
       "Index": 693,
-      "Name": "Corey Moore",
-      "Pos": "S",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 630000
-    },
-    {
-      "Index": 694,
-      "Name": "Malcolm Brown",
-      "Pos": "RB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1650000
-    },
-    {
-      "Index": 695,
-      "Name": "Matt Darr",
-      "Pos": "P",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 720000
-    },
-    {
-      "Index": 696,
       "Name": "Tyler Ott",
       "Pos": "LS",
       "Status": "Signed",
@@ -11241,40 +11272,16 @@
       "Value": 720000
     },
     {
-      "Index": 697,
-      "Name": "Xavier Grimble",
+      "CTeam": 21,
+      "Index": 694,
+      "Name": "Chris Manhertz",
       "Pos": "TE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 2025000
-    },
-    {
-      "Index": 698,
-      "Name": "Casey Kreiter",
-      "Pos": "LS",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1000000
-    },
-    {
-      "CTeam": 20,
-      "Index": 699,
-      "Name": "Olsen Pierre",
-      "Pos": "43DT",
       "Status": "UFA",
       "Type": "Player",
       "Value": 630000
     },
     {
-      "Index": 700,
-      "Name": "Stanley Jean-Baptiste",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 701,
+      "Index": 695,
       "Name": "Jordan Taylor",
       "Pos": "WR",
       "Status": "Signed",
@@ -11282,31 +11289,40 @@
       "Value": 745000
     },
     {
-      "Index": 702,
-      "Name": "Patrick Scales",
+      "Index": 696,
+      "Name": "Casey Kreiter",
       "Pos": "LS",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 810000
-    },
-    {
-      "Index": 703,
-      "Name": "Eric Tomlinson",
-      "Pos": "TE",
       "Status": "Signed",
       "Type": "Player",
       "Value": 1000000
     },
     {
-      "Index": 704,
-      "Name": "Jeremy Vujnovich",
-      "Pos": "LG",
+      "Index": 697,
+      "Name": "Tony Lippett",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 810000
+    },
+    {
+      "CTeam": 26,
+      "Index": 698,
+      "Name": "Corey Moore",
+      "Pos": "S",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 699,
+      "Name": "Matt Darr",
+      "Pos": "P",
       "Status": "Signed",
       "Type": "Player",
       "Value": 720000
     },
     {
-      "Index": 705,
+      "Index": 700,
       "Name": "John Wetzel",
       "Pos": "LT",
       "Status": "Signed",
@@ -11314,8 +11330,41 @@
       "Value": 720000
     },
     {
+      "Index": 701,
+      "Name": "Malcolm Brown",
+      "Pos": "RB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1650000
+    },
+    {
+      "Index": 702,
+      "Name": "Stanley Jean-Baptiste",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "CTeam": 20,
+      "Index": 703,
+      "Name": "Olsen Pierre",
+      "Pos": "43DT",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 630000
+    },
+    {
+      "Index": 704,
+      "Name": "Eric Tomlinson",
+      "Pos": "TE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
       "CTeam": 31,
-      "Index": 706,
+      "Index": 705,
       "Name": "Matt Lengel",
       "Pos": "TE",
       "Status": "UFA",
@@ -11323,13 +11372,20 @@
       "Value": 630000
     },
     {
-      "CTeam": 21,
-      "Index": 707,
-      "Name": "Chris Manhertz",
-      "Pos": "TE",
-      "Status": "UFA",
+      "Index": 706,
+      "Name": "Jeremy Vujnovich",
+      "Pos": "LG",
+      "Status": "Signed",
       "Type": "Player",
-      "Value": 630000
+      "Value": 720000
+    },
+    {
+      "Index": 707,
+      "Name": "Xavier Grimble",
+      "Pos": "TE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 2025000
     },
     {
       "Index": 708,
@@ -11341,8 +11397,8 @@
     },
     {
       "Index": 709,
-      "Name": "Tony Lippett",
-      "Pos": "CB",
+      "Name": "Patrick Scales",
+      "Pos": "LS",
       "Status": "Signed",
       "Type": "Player",
       "Value": 810000
@@ -11475,19 +11531,19 @@
     },
     {
       "Index": 725,
-      "Name": "David Mayo",
-      "Pos": "ILB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1250000
-    },
-    {
-      "Index": 726,
       "Name": "Nick Boyle",
       "Pos": "TE",
       "Status": "Signed",
       "Type": "Player",
       "Value": 6000000
+    },
+    {
+      "Index": 726,
+      "Name": "David Mayo",
+      "Pos": "ILB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1250000
     },
     {
       "Index": 727,
@@ -11507,28 +11563,27 @@
     },
     {
       "Index": 729,
-      "Name": "Temarrick Hemingway",
-      "Pos": "TE",
+      "Name": "Michael Tyson",
+      "Pos": "S",
       "Status": "Signed",
       "Type": "Player",
       "Value": 600000
     },
     {
-      "CTeam": 4,
       "Index": 730,
-      "Name": "Joshua Holsey",
-      "Pos": "CB",
-      "Status": "SFA",
+      "Name": "Riley Bullough",
+      "Pos": "ILB",
+      "Status": "Signed",
       "Type": "Player",
       "Value": 600000
     },
     {
       "Index": 731,
-      "Name": "Kyle Fuller",
-      "Pos": "RG",
+      "Name": "James Onwualu",
+      "Pos": "43OLB",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 690000
+      "Value": 600000
     },
     {
       "Index": 732,
@@ -11539,8 +11594,32 @@
       "Value": 645000
     },
     {
-      "CTeam": 31,
       "Index": 733,
+      "Name": "Will Holden",
+      "Pos": "LG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 600000
+    },
+    {
+      "Index": 734,
+      "Name": "Temarrick Hemingway",
+      "Pos": "TE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 600000
+    },
+    {
+      "Index": 735,
+      "Name": "Kyle Fuller",
+      "Pos": "RG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 690000
+    },
+    {
+      "CTeam": 31,
+      "Index": 736,
       "Name": "Brandon Bell",
       "Pos": "43OLB",
       "Status": "SFA",
@@ -11548,45 +11627,21 @@
       "Value": 600000
     },
     {
-      "Index": 734,
-      "Name": "James Onwualu",
-      "Pos": "43OLB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 600000
-    },
-    {
-      "Index": 735,
-      "Name": "Michael Tyson",
-      "Pos": "S",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 600000
-    },
-    {
-      "Index": 736,
-      "Name": "Riley Bullough",
-      "Pos": "ILB",
+      "Index": 737,
+      "Name": "Pita Taumoepenu",
+      "Pos": "43DE",
       "Status": "Signed",
       "Type": "Player",
       "Value": 600000
     },
     {
       "CTeam": 2,
-      "Index": 737,
+      "Index": 738,
       "Name": "Ukeme Eligwe",
       "Pos": "ILB",
       "Status": "SFA",
       "Type": "Player",
       "Value": 600000
-    },
-    {
-      "Index": 738,
-      "Name": "Troymaine Pope",
-      "Pos": "RB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
     },
     {
       "Index": 739,
@@ -11598,6 +11653,23 @@
     },
     {
       "Index": 740,
+      "Name": "Troymaine Pope",
+      "Pos": "RB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "CTeam": 4,
+      "Index": 741,
+      "Name": "Joshua Holsey",
+      "Pos": "CB",
+      "Status": "SFA",
+      "Type": "Player",
+      "Value": 600000
+    },
+    {
+      "Index": 742,
       "Name": "Xavier Woodson-Luster",
       "Pos": "43OLB",
       "Status": "Signed",
@@ -11605,15 +11677,7 @@
       "Value": 645000
     },
     {
-      "Index": 741,
-      "Name": "Pita Taumoepenu",
-      "Pos": "43DE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 600000
-    },
-    {
-      "Index": 742,
+      "Index": 743,
       "Name": "Leterrius Walton",
       "Pos": "34DE",
       "Status": "Signed",
@@ -11622,7 +11686,7 @@
     },
     {
       "CTeam": 27,
-      "Index": 743,
+      "Index": 744,
       "Name": "A.J. Derby",
       "Pos": "TE",
       "Status": "UFA",
@@ -11630,7 +11694,7 @@
       "Value": 598013
     },
     {
-      "Index": 744,
+      "Index": 745,
       "Name": "Christian Covington",
       "Pos": "34DE",
       "Status": "Signed",
@@ -11638,20 +11702,12 @@
       "Value": 1750000
     },
     {
-      "Index": 745,
+      "Index": 746,
       "Name": "Bryce Hager",
       "Pos": "ILB",
       "Status": "Signed",
       "Type": "Player",
       "Value": 805000
-    },
-    {
-      "Index": 746,
-      "Name": "Byron Marshall",
-      "Pos": "RB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 720000
     },
     {
       "CTeam": 16,
@@ -11663,24 +11719,8 @@
       "Value": 585000
     },
     {
-      "Index": 748,
-      "Name": "D.J. Foster",
-      "Pos": "RB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 749,
-      "Name": "David Fluellen",
-      "Pos": "RB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 720000
-    },
-    {
       "CTeam": 20,
-      "Index": 750,
+      "Index": 748,
       "Name": "Jeremy Cash",
       "Pos": "ILB",
       "Status": "UFA",
@@ -11688,90 +11728,23 @@
       "Value": 585000
     },
     {
-      "Index": 751,
-      "Name": "Maurice Harris",
-      "Pos": "WR",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1000000
-    },
-    {
-      "Index": 752,
-      "Name": "Ben Braunecker",
-      "Pos": "TE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1350000
-    },
-    {
-      "Index": 753,
-      "Name": "Senorise Perry",
+      "Index": 749,
+      "Name": "D.J. Foster",
       "Pos": "RB",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 810000
+      "Value": 645000
     },
     {
-      "Index": 754,
-      "Name": "Nate Sudfeld",
-      "Pos": "QB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 3095000
-    },
-    {
-      "CTeam": 20,
-      "Index": 755,
-      "Name": "Gabe Martin",
-      "Pos": "43OLB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 585000
-    },
-    {
-      "CTeam": 30,
-      "Index": 756,
-      "Name": "Daniel Lasco",
+      "Index": 750,
+      "Name": "Byron Marshall",
       "Pos": "RB",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 585000
-    },
-    {
-      "Index": 757,
-      "Name": "Justin March-Lillard",
-      "Pos": "43OLB",
       "Status": "Signed",
       "Type": "Player",
       "Value": 720000
     },
     {
-      "Index": 758,
-      "Name": "Matt Ioannidis",
-      "Pos": "34DE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 7250000
-    },
-    {
-      "CTeam": 25,
-      "Index": 759,
-      "Name": "Tye Smith",
-      "Pos": "CB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 585000
-    },
-    {
-      "Index": 760,
-      "Name": "Rashard Higgins",
-      "Pos": "WR",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 2025000
-    },
-    {
-      "Index": 761,
+      "Index": 751,
       "Name": "DeAndre Houston-Carson",
       "Pos": "S",
       "Status": "Signed",
@@ -11779,8 +11752,99 @@
       "Value": 770000
     },
     {
-      "CTeam": 9,
+      "CTeam": 30,
+      "Index": 752,
+      "Name": "Daniel Lasco",
+      "Pos": "RB",
+      "Status": "SFA",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "CTeam": 25,
+      "Index": 753,
+      "Name": "Tye Smith",
+      "Pos": "CB",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "Index": 754,
+      "Name": "Justin March-Lillard",
+      "Pos": "43OLB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 755,
+      "Name": "Senorise Perry",
+      "Pos": "RB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 810000
+    },
+    {
+      "Index": 756,
+      "Name": "Nate Sudfeld",
+      "Pos": "QB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 757,
+      "Name": "Ben Braunecker",
+      "Pos": "TE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1350000
+    },
+    {
+      "Index": 758,
+      "Name": "David Fluellen",
+      "Pos": "RB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 759,
+      "Name": "Maurice Harris",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1000000
+    },
+    {
+      "CTeam": 20,
+      "Index": 760,
+      "Name": "Gabe Martin",
+      "Pos": "43OLB",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 585000
+    },
+    {
+      "Index": 761,
+      "Name": "Matt Ioannidis",
+      "Pos": "34DE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 7250000
+    },
+    {
       "Index": 762,
+      "Name": "Rashard Higgins",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "CTeam": 9,
+      "Index": 763,
       "Name": "Dexter McDonald",
       "Pos": "CB",
       "Status": "UFA",
@@ -11788,7 +11852,7 @@
       "Value": 584213
     },
     {
-      "Index": 763,
+      "Index": 764,
       "Name": "Trent Brown",
       "Pos": "LT",
       "Status": "Signed",
@@ -11796,7 +11860,7 @@
       "Value": 16500000
     },
     {
-      "Index": 764,
+      "Index": 765,
       "Name": "Geoff Swaim",
       "Pos": "TE",
       "Status": "Signed",
@@ -11804,7 +11868,7 @@
       "Value": 3300000
     },
     {
-      "Index": 765,
+      "Index": 766,
       "Name": "Darryl Roberts",
       "Pos": "CB",
       "Status": "Signed",
@@ -11812,7 +11876,7 @@
       "Value": 6000000
     },
     {
-      "Index": 766,
+      "Index": 767,
       "Name": "Trevor Siemian",
       "Pos": "QB",
       "Status": "Signed",
@@ -11820,7 +11884,7 @@
       "Value": 2000000
     },
     {
-      "Index": 767,
+      "Index": 768,
       "Name": "Eddy Pineiro",
       "Pos": "K",
       "Status": "Signed",
@@ -11829,7 +11893,7 @@
     },
     {
       "CTeam": 3,
-      "Index": 768,
+      "Index": 769,
       "Name": "Desmond Harrison",
       "Pos": "LT",
       "Status": "SFA",
@@ -11838,21 +11902,12 @@
     },
     {
       "CTeam": 21,
-      "Index": 769,
+      "Index": 770,
       "Name": "Brendan Mahon",
       "Pos": "LG",
       "Status": "SFA",
       "Type": "Player",
       "Value": 574167
-    },
-    {
-      "CTeam": 16,
-      "Index": 770,
-      "Name": "Shaun Wilson",
-      "Pos": "RB",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 573333
     },
     {
       "CTeam": 1,
@@ -11864,21 +11919,21 @@
       "Value": 573333
     },
     {
+      "CTeam": 16,
       "Index": 772,
+      "Name": "Shaun Wilson",
+      "Pos": "RB",
+      "Status": "SFA",
+      "Type": "Player",
+      "Value": 573333
+    },
+    {
+      "Index": 773,
       "Name": "Trey Johnson",
       "Pos": "CB",
       "Status": "Signed",
       "Type": "Player",
       "Value": 495000
-    },
-    {
-      "CTeam": 19,
-      "Index": 773,
-      "Name": "Darren Andrews",
-      "Pos": "WR",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 571667
     },
     {
       "CTeam": 10,
@@ -11890,8 +11945,17 @@
       "Value": 571667
     },
     {
-      "CTeam": 18,
+      "CTeam": 19,
       "Index": 775,
+      "Name": "Darren Andrews",
+      "Pos": "WR",
+      "Status": "SFA",
+      "Type": "Player",
+      "Value": 571667
+    },
+    {
+      "CTeam": 18,
+      "Index": 776,
       "Name": "Emmanuel Beal",
       "Pos": "ILB",
       "Status": "SFA",
@@ -11900,7 +11964,7 @@
     },
     {
       "CTeam": 16,
-      "Index": 776,
+      "Index": 777,
       "Name": "Sergio Bailey",
       "Pos": "WR",
       "Status": "SFA",
@@ -11909,21 +11973,12 @@
     },
     {
       "CTeam": 17,
-      "Index": 777,
+      "Index": 778,
       "Name": "Andrew Trumbetti",
       "Pos": "34OLB",
       "Status": "SFA",
       "Type": "Player",
       "Value": 570166
-    },
-    {
-      "CTeam": 10,
-      "Index": 778,
-      "Name": "Step Durham",
-      "Pos": "CB",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 570000
     },
     {
       "CTeam": 22,
@@ -11944,17 +11999,8 @@
       "Value": 570000
     },
     {
-      "CTeam": 5,
-      "Index": 781,
-      "Name": "Manase Hungalu",
-      "Pos": "43OLB",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 570000
-    },
-    {
       "CTeam": 28,
-      "Index": 782,
+      "Index": 781,
       "Name": "Austin Roberts",
       "Pos": "TE",
       "Status": "SFA",
@@ -11963,7 +12009,25 @@
     },
     {
       "CTeam": 5,
+      "Index": 782,
+      "Name": "Manase Hungalu",
+      "Pos": "43OLB",
+      "Status": "SFA",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "CTeam": 10,
       "Index": 783,
+      "Name": "Step Durham",
+      "Pos": "CB",
+      "Status": "SFA",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "CTeam": 5,
+      "Index": 784,
       "Name": "Lyndon Johnson",
       "Pos": "43DE",
       "Status": "SFA",
@@ -11972,7 +12036,7 @@
     },
     {
       "CTeam": 10,
-      "Index": 784,
+      "Index": 785,
       "Name": "Tejan Koroma",
       "Pos": "C",
       "Status": "SFA",
@@ -11981,7 +12045,7 @@
     },
     {
       "CTeam": 29,
-      "Index": 785,
+      "Index": 786,
       "Name": "Keith Ford",
       "Pos": "RB",
       "Status": "SFA",
@@ -11990,7 +12054,7 @@
     },
     {
       "CTeam": 4,
-      "Index": 786,
+      "Index": 787,
       "Name": "Harlan Miller",
       "Pos": "CB",
       "Status": "SFA",
@@ -11998,7 +12062,7 @@
       "Value": 562500
     },
     {
-      "Index": 787,
+      "Index": 788,
       "Name": "Rigoberto Sanchez",
       "Pos": "P",
       "Status": "Signed",
@@ -12006,7 +12070,7 @@
       "Value": 2900000
     },
     {
-      "Index": 788,
+      "Index": 789,
       "Name": "Jacob Hollister",
       "Pos": "TE",
       "Status": "Signed",
@@ -12014,7 +12078,7 @@
       "Value": 558333
     },
     {
-      "Index": 789,
+      "Index": 790,
       "Name": "Kenny Moore",
       "Pos": "CB",
       "Status": "Signed",
@@ -12023,7 +12087,7 @@
     },
     {
       "CTeam": 0,
-      "Index": 790,
+      "Index": 791,
       "Name": "Bam Bradley",
       "Pos": "ILB",
       "Status": "SFA",
@@ -12032,7 +12096,7 @@
     },
     {
       "CTeam": 5,
-      "Index": 791,
+      "Index": 792,
       "Name": "Donald Payne",
       "Pos": "ILB",
       "Status": "SFA",
@@ -12040,21 +12104,12 @@
       "Value": 555500
     },
     {
-      "Index": 792,
-      "Name": "Lucas Patrick",
-      "Pos": "LG",
+      "Index": 793,
+      "Name": "Justin McCray",
+      "Pos": "RG",
       "Status": "Signed",
       "Type": "Player",
       "Value": 645000
-    },
-    {
-      "CTeam": 10,
-      "Index": 793,
-      "Name": "Alex Ellis",
-      "Pos": "TE",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 555000
     },
     {
       "CTeam": 20,
@@ -12067,47 +12122,6 @@
     },
     {
       "Index": 795,
-      "Name": "Zach Wood",
-      "Pos": "LS",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "CTeam": 1,
-      "Index": 796,
-      "Name": "Jerrol Garcia-Williams",
-      "Pos": "34OLB",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 555000
-    },
-    {
-      "Index": 797,
-      "Name": "Joseph Jones",
-      "Pos": "ILB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 798,
-      "Name": "Justin McCray",
-      "Pos": "RG",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 799,
-      "Name": "Darrell Daniels",
-      "Pos": "TE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 800,
       "Name": "Davis Webb",
       "Pos": "QB",
       "Status": "Signed",
@@ -12115,7 +12129,31 @@
       "Value": 645000
     },
     {
-      "Index": 801,
+      "Index": 796,
+      "Name": "Lucas Patrick",
+      "Pos": "LG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 797,
+      "Name": "Zach Wood",
+      "Pos": "LS",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 798,
+      "Name": "Alex Tanney",
+      "Pos": "QB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1050000
+    },
+    {
+      "Index": 799,
       "Name": "Vince Biegel",
       "Pos": "ILB",
       "Status": "Signed",
@@ -12123,7 +12161,32 @@
       "Value": 645000
     },
     {
+      "Index": 800,
+      "Name": "Greg Mabin",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "CTeam": 1,
+      "Index": 801,
+      "Name": "Jerrol Garcia-Williams",
+      "Pos": "34OLB",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 555000
+    },
+    {
       "Index": 802,
+      "Name": "Joseph Jones",
+      "Pos": "ILB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 803,
       "Name": "Elijah Wilkinson",
       "Pos": "LT",
       "Status": "Signed",
@@ -12131,31 +12194,7 @@
       "Value": 645000
     },
     {
-      "Index": 803,
-      "Name": "Zach Banner",
-      "Pos": "LG",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
       "Index": 804,
-      "Name": "Kerry Hyder",
-      "Pos": "43DE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1000000
-    },
-    {
-      "Index": 805,
-      "Name": "Jordan Dangerfield",
-      "Pos": "S",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 806,
       "Name": "Jon Halapio",
       "Pos": "C",
       "Status": "Signed",
@@ -12163,26 +12202,41 @@
       "Value": 645000
     },
     {
-      "Index": 807,
-      "Name": "Jermaine Eluemunor",
+      "Index": 805,
+      "Name": "Darrell Daniels",
+      "Pos": "TE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 806,
+      "Name": "Matt Feiler",
       "Pos": "RG",
       "Status": "Signed",
       "Type": "Player",
       "Value": 645000
     },
     {
-      "CTeam": 27,
-      "Index": 808,
-      "Name": "Isaac Asiata",
-      "Pos": "RG",
-      "Status": "UFA",
+      "Index": 807,
+      "Name": "Shalom Luani",
+      "Pos": "S",
+      "Status": "Signed",
       "Type": "Player",
-      "Value": 555000
+      "Value": 645000
+    },
+    {
+      "Index": 808,
+      "Name": "Zach Banner",
+      "Pos": "LG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
     },
     {
       "Index": 809,
-      "Name": "Matt Feiler",
-      "Pos": "RG",
+      "Name": "De'Angelo Henderson",
+      "Pos": "RB",
       "Status": "Signed",
       "Type": "Player",
       "Value": 645000
@@ -12196,40 +12250,50 @@
       "Value": 645000
     },
     {
+      "CTeam": 27,
       "Index": 811,
-      "Name": "De'Angelo Henderson",
-      "Pos": "RB",
-      "Status": "Signed",
+      "Name": "Isaac Asiata",
+      "Pos": "RG",
+      "Status": "UFA",
       "Type": "Player",
-      "Value": 645000
+      "Value": 555000
     },
     {
       "Index": 812,
-      "Name": "Shalom Luani",
-      "Pos": "S",
+      "Name": "Jermaine Eluemunor",
+      "Pos": "RG",
       "Status": "Signed",
       "Type": "Player",
       "Value": 645000
     },
     {
       "Index": 813,
-      "Name": "Greg Mabin",
-      "Pos": "CB",
+      "Name": "Jordan Dangerfield",
+      "Pos": "S",
       "Status": "Signed",
       "Type": "Player",
       "Value": 645000
     },
     {
       "Index": 814,
-      "Name": "Alex Tanney",
-      "Pos": "QB",
+      "Name": "Kerry Hyder",
+      "Pos": "43DE",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 1050000
+      "Value": 1000000
+    },
+    {
+      "CTeam": 10,
+      "Index": 815,
+      "Name": "Alex Ellis",
+      "Pos": "TE",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 555000
     },
     {
       "CTeam": 0,
-      "Index": 815,
+      "Index": 816,
       "Name": "Jaylen Hill",
       "Pos": "CB",
       "Status": "SFA",
@@ -12237,72 +12301,7 @@
       "Value": 555000
     },
     {
-      "Index": 816,
-      "Name": "Akeem King",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1400000
-    },
-    {
       "Index": 817,
-      "Name": "Cole Toner",
-      "Pos": "C",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 818,
-      "Name": "Bronson Kaufusi",
-      "Pos": "34DE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 819,
-      "Name": "Jermaine Whitehead",
-      "Pos": "S",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "CTeam": 2,
-      "Index": 820,
-      "Name": "Kristjan Sokoli",
-      "Pos": "34DE",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 555000
-    },
-    {
-      "Index": 821,
-      "Name": "Doug Middleton",
-      "Pos": "S",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 570000
-    },
-    {
-      "Index": 822,
-      "Name": "Dominique Hatfield",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 823,
-      "Name": "Eddie Yarbrough",
-      "Pos": "43DE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 824,
       "Name": "Matt Skura",
       "Pos": "C",
       "Status": "Signed",
@@ -12310,40 +12309,15 @@
       "Value": 645000
     },
     {
-      "CTeam": 1,
-      "Index": 825,
-      "Name": "Brian Parker",
-      "Pos": "TE",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 555000
-    },
-    {
-      "Index": 826,
-      "Name": "Devante Bond",
-      "Pos": "43OLB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 827,
-      "Name": "Jonathan Woodard",
+      "Index": 818,
+      "Name": "Eddie Yarbrough",
       "Pos": "43DE",
       "Status": "Signed",
       "Type": "Player",
       "Value": 645000
     },
     {
-      "Index": 828,
-      "Name": "Jordan Williams",
-      "Pos": "34OLB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 570000
-    },
-    {
-      "Index": 829,
+      "Index": 819,
       "Name": "Matt Wile",
       "Pos": "P",
       "Status": "Signed",
@@ -12351,7 +12325,65 @@
       "Value": 645000
     },
     {
-      "Index": 830,
+      "Index": 820,
+      "Name": "Jordan Williams",
+      "Pos": "34OLB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "CTeam": 1,
+      "Index": 821,
+      "Name": "Brian Parker",
+      "Pos": "TE",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 555000
+    },
+    {
+      "Index": 822,
+      "Name": "Jermaine Whitehead",
+      "Pos": "S",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 823,
+      "Name": "Bronson Kaufusi",
+      "Pos": "34DE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 824,
+      "Name": "Akeem King",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1400000
+    },
+    {
+      "CTeam": 2,
+      "Index": 825,
+      "Name": "Kristjan Sokoli",
+      "Pos": "34DE",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 555000
+    },
+    {
+      "Index": 826,
+      "Name": "Doug Middleton",
+      "Pos": "S",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 827,
       "Name": "Mike Hilton",
       "Pos": "CB",
       "Status": "Signed",
@@ -12359,7 +12391,39 @@
       "Value": 645000
     },
     {
+      "Index": 828,
+      "Name": "Cole Toner",
+      "Pos": "C",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 829,
+      "Name": "Devante Bond",
+      "Pos": "43OLB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 830,
+      "Name": "Jonathan Woodard",
+      "Pos": "43DE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
       "Index": 831,
+      "Name": "Dominique Hatfield",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 832,
       "Name": "JoJo Natson",
       "Pos": "WR",
       "Status": "Signed",
@@ -12367,7 +12431,7 @@
       "Value": 645000
     },
     {
-      "Index": 832,
+      "Index": 833,
       "Name": "Elijhaa Penny",
       "Pos": "RB",
       "Status": "Signed",
@@ -12375,23 +12439,7 @@
       "Value": 645000
     },
     {
-      "Index": 833,
-      "Name": "George Fant",
-      "Pos": "RT",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 3095000
-    },
-    {
       "Index": 834,
-      "Name": "Leonard Wester",
-      "Pos": "RT",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 720000
-    },
-    {
-      "Index": 835,
       "Name": "Jared Norris",
       "Pos": "43OLB",
       "Status": "Signed",
@@ -12399,7 +12447,23 @@
       "Value": 845000
     },
     {
+      "Index": 835,
+      "Name": "Leonard Wester",
+      "Pos": "RT",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
       "Index": 836,
+      "Name": "George Fant",
+      "Pos": "RT",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 837,
       "Name": "Romeo Okwara",
       "Pos": "43DE",
       "Status": "Signed",
@@ -12407,7 +12471,7 @@
       "Value": 3400000
     },
     {
-      "Index": 837,
+      "Index": 838,
       "Name": "Joel Heath",
       "Pos": "34DE",
       "Status": "Signed",
@@ -12415,23 +12479,7 @@
       "Value": 720000
     },
     {
-      "Index": 838,
-      "Name": "Robby Anderson",
-      "Pos": "WR",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 3095000
-    },
-    {
       "Index": 839,
-      "Name": "Michael Pierce",
-      "Pos": "34DT",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 3095000
-    },
-    {
-      "Index": 840,
       "Name": "Jonathan Jones",
       "Pos": "CB",
       "Status": "Signed",
@@ -12439,7 +12487,23 @@
       "Value": 3095000
     },
     {
+      "Index": 840,
+      "Name": "Michael Pierce",
+      "Pos": "34DT",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
       "Index": 841,
+      "Name": "Robby Anderson",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 842,
       "Name": "Matthias Farley",
       "Pos": "S",
       "Status": "Signed",
@@ -12447,7 +12511,7 @@
       "Value": 2025000
     },
     {
-      "Index": 842,
+      "Index": 843,
       "Name": "Ka'imi Fairbairn",
       "Pos": "K",
       "Status": "Signed",
@@ -12455,7 +12519,7 @@
       "Value": 3095000
     },
     {
-      "Index": 843,
+      "Index": 844,
       "Name": "Roy Robertson-Harris",
       "Pos": "34DE",
       "Status": "Signed",
@@ -12464,7 +12528,7 @@
     },
     {
       "CTeam": 2,
-      "Index": 844,
+      "Index": 845,
       "Name": "Antonio Hamilton",
       "Pos": "CB",
       "Status": "UFA",
@@ -12472,31 +12536,7 @@
       "Value": 541833
     },
     {
-      "Index": 845,
-      "Name": "Tommylee Lewis",
-      "Pos": "WR",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 920000
-    },
-    {
       "Index": 846,
-      "Name": "Brennan Scarlett",
-      "Pos": "34OLB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 2025000
-    },
-    {
-      "Index": 847,
-      "Name": "Ken Crawley",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 2025000
-    },
-    {
-      "Index": 848,
       "Name": "Jarrod Wilson",
       "Pos": "S",
       "Status": "Signed",
@@ -12504,7 +12544,7 @@
       "Value": 2416667
     },
     {
-      "Index": 849,
+      "Index": 847,
       "Name": "Briean Boddy-Calhoun",
       "Pos": "S",
       "Status": "Signed",
@@ -12512,7 +12552,31 @@
       "Value": 900000
     },
     {
+      "Index": 848,
+      "Name": "Ken Crawley",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 849,
+      "Name": "Tommylee Lewis",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 920000
+    },
+    {
       "Index": 850,
+      "Name": "Brennan Scarlett",
+      "Pos": "34OLB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 2025000
+    },
+    {
+      "Index": 851,
       "Name": "Mitchell Loewen",
       "Pos": "43DE",
       "Status": "Signed",
@@ -12520,7 +12584,7 @@
       "Value": 570000
     },
     {
-      "Index": 851,
+      "Index": 852,
       "Name": "Brian Poole",
       "Pos": "CB",
       "Status": "Signed",
@@ -12529,20 +12593,12 @@
     },
     {
       "CTeam": 4,
-      "Index": 852,
+      "Index": 853,
       "Name": "Robert Kelley",
       "Pos": "RB",
       "Status": "UFA",
       "Type": "Player",
       "Value": 541000
-    },
-    {
-      "Index": 853,
-      "Name": "Kentrell Brice",
-      "Pos": "S",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1000000
     },
     {
       "Index": 854,
@@ -12554,14 +12610,22 @@
     },
     {
       "Index": 855,
-      "Name": "Blake Countess",
+      "Name": "Kentrell Brice",
       "Pos": "S",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 1175000
+      "Value": 1000000
     },
     {
       "Index": 856,
+      "Name": "Rick Lovato",
+      "Pos": "LS",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 720000
+    },
+    {
+      "Index": 857,
       "Name": "Ross Travis",
       "Pos": "TE",
       "Status": "Signed",
@@ -12569,20 +12633,12 @@
       "Value": 645000
     },
     {
-      "Index": 857,
+      "Index": 858,
       "Name": "Trevor Williams",
       "Pos": "CB",
       "Status": "Signed",
       "Type": "Player",
       "Value": 2025000
-    },
-    {
-      "Index": 858,
-      "Name": "Chester Rogers",
-      "Pos": "WR",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 3095000
     },
     {
       "CTeam": 18,
@@ -12603,30 +12659,6 @@
     },
     {
       "Index": 861,
-      "Name": "Cory Littleton",
-      "Pos": "ILB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 3095000
-    },
-    {
-      "Index": 862,
-      "Name": "Rick Lovato",
-      "Pos": "LS",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 720000
-    },
-    {
-      "Index": 863,
-      "Name": "Rashod Hill",
-      "Pos": "RT",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 2025000
-    },
-    {
-      "Index": 864,
       "Name": "Wil Lutz",
       "Pos": "K",
       "Status": "Signed",
@@ -12634,7 +12666,7 @@
       "Value": 4050000
     },
     {
-      "Index": 865,
+      "Index": 862,
       "Name": "Jalen Richard",
       "Pos": "RB",
       "Status": "Signed",
@@ -12642,34 +12674,40 @@
       "Value": 3095000
     },
     {
-      "CTeam": 9,
-      "Index": 866,
-      "Name": "Cameron Hunt",
-      "Pos": "LG",
-      "Status": "SFA",
+      "Index": 863,
+      "Name": "Blake Countess",
+      "Pos": "S",
+      "Status": "Signed",
       "Type": "Player",
-      "Value": 525000
+      "Value": 1175000
     },
     {
-      "CTeam": 16,
-      "Index": 867,
-      "Name": "David Rivers",
-      "Pos": "CB",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 525000
-    },
-    {
-      "Index": 868,
-      "Name": "Jalen Tolliver",
+      "Index": 864,
+      "Name": "Chester Rogers",
       "Pos": "WR",
       "Status": "Signed",
       "Type": "Player",
-      "Value": 615000
+      "Value": 3095000
+    },
+    {
+      "Index": 865,
+      "Name": "Cory Littleton",
+      "Pos": "ILB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 3095000
+    },
+    {
+      "Index": 866,
+      "Name": "Rashod Hill",
+      "Pos": "RT",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 2025000
     },
     {
       "CTeam": 6,
-      "Index": 869,
+      "Index": 867,
       "Name": "Trevor Bates",
       "Pos": "ILB",
       "Status": "SFA",
@@ -12678,10 +12716,27 @@
     },
     {
       "CTeam": 23,
-      "Index": 870,
+      "Index": 868,
       "Name": "John Flynn",
       "Pos": "LG",
       "Status": "SFA",
+      "Type": "Player",
+      "Value": 525000
+    },
+    {
+      "CTeam": 7,
+      "Index": 869,
+      "Name": "Dustin Stanton",
+      "Pos": "LG",
+      "Status": "SFA",
+      "Type": "Player",
+      "Value": 525000
+    },
+    {
+      "Index": 870,
+      "Name": "Montrel Meander",
+      "Pos": "S",
+      "Status": "Signed",
       "Type": "Player",
       "Value": 525000
     },
@@ -12695,25 +12750,7 @@
       "Value": 525000
     },
     {
-      "CTeam": 7,
       "Index": 872,
-      "Name": "Dustin Stanton",
-      "Pos": "LG",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 525000
-    },
-    {
-      "CTeam": 8,
-      "Index": 873,
-      "Name": "Matt McCrane",
-      "Pos": "K",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 525000
-    },
-    {
-      "Index": 874,
       "Name": "Quadree Henderson",
       "Pos": "WR",
       "Status": "Signed",
@@ -12721,19 +12758,37 @@
       "Value": 525000
     },
     {
-      "CTeam": 5,
-      "Index": 875,
-      "Name": "Nick DeLuca",
-      "Pos": "ILB",
+      "CTeam": 30,
+      "Index": 873,
+      "Name": "Travin Dural",
+      "Pos": "WR",
       "Status": "SFA",
       "Type": "Player",
       "Value": 525000
     },
     {
-      "Index": 876,
-      "Name": "Montrel Meander",
-      "Pos": "S",
+      "CTeam": 8,
+      "Index": 874,
+      "Name": "Matt McCrane",
+      "Pos": "K",
+      "Status": "SFA",
+      "Type": "Player",
+      "Value": 525000
+    },
+    {
+      "Index": 875,
+      "Name": "D'Juan Hines",
+      "Pos": "43OLB",
       "Status": "Signed",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "CTeam": 5,
+      "Index": 876,
+      "Name": "Nick DeLuca",
+      "Pos": "ILB",
+      "Status": "SFA",
       "Type": "Player",
       "Value": 525000
     },
@@ -12746,12 +12801,13 @@
       "Value": 525000
     },
     {
+      "CTeam": 9,
       "Index": 878,
-      "Name": "D'Juan Hines",
-      "Pos": "43OLB",
-      "Status": "Signed",
+      "Name": "Cameron Hunt",
+      "Pos": "LG",
+      "Status": "SFA",
       "Type": "Player",
-      "Value": 570000
+      "Value": 525000
     },
     {
       "CTeam": 21,
@@ -12763,10 +12819,10 @@
       "Value": 525000
     },
     {
-      "CTeam": 30,
+      "CTeam": 15,
       "Index": 880,
-      "Name": "Travin Dural",
-      "Pos": "WR",
+      "Name": "Nico Siragusa",
+      "Pos": "RG",
       "Status": "SFA",
       "Type": "Player",
       "Value": 525000
@@ -12780,10 +12836,10 @@
       "Value": 525000
     },
     {
-      "CTeam": 15,
+      "CTeam": 12,
       "Index": 882,
-      "Name": "Nico Siragusa",
-      "Pos": "RG",
+      "Name": "Elie Bouka",
+      "Pos": "CB",
       "Status": "SFA",
       "Type": "Player",
       "Value": 525000
@@ -12798,16 +12854,24 @@
       "Value": 525000
     },
     {
-      "CTeam": 12,
       "Index": 884,
-      "Name": "Elie Bouka",
+      "Name": "Jalen Tolliver",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 615000
+    },
+    {
+      "CTeam": 16,
+      "Index": 885,
+      "Name": "David Rivers",
       "Pos": "CB",
       "Status": "SFA",
       "Type": "Player",
       "Value": 525000
     },
     {
-      "Index": 885,
+      "Index": 886,
       "Name": "Josh Tupou",
       "Pos": "43DT",
       "Status": "Signed",
@@ -12815,31 +12879,7 @@
       "Value": 645000
     },
     {
-      "Index": 886,
-      "Name": "Marvin Hall",
-      "Pos": "WR",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
       "Index": 887,
-      "Name": "Tony McRae",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 888,
-      "Name": "Kevin Peterson",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 570000
-    },
-    {
-      "Index": 889,
       "Name": "Aldrick Rosas",
       "Pos": "K",
       "Status": "Signed",
@@ -12847,7 +12887,7 @@
       "Value": 645000
     },
     {
-      "Index": 890,
+      "Index": 888,
       "Name": "Isaiah Irving",
       "Pos": "34OLB",
       "Status": "Signed",
@@ -12855,31 +12895,7 @@
       "Value": 645000
     },
     {
-      "Index": 891,
-      "Name": "Rashaad Coward",
-      "Pos": "RT",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 892,
-      "Name": "Michael Liedtke",
-      "Pos": "LT",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 893,
-      "Name": "Charles Washington",
-      "Pos": "S",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 894,
+      "Index": 889,
       "Name": "Justin Hardee",
       "Pos": "WR",
       "Status": "Signed",
@@ -12887,177 +12903,15 @@
       "Value": 645000
     },
     {
-      "Index": 895,
-      "Name": "Matt LaCosse",
-      "Pos": "TE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 1400000
-    },
-    {
-      "Index": 896,
-      "Name": "Daniel Ross",
-      "Pos": "43DT",
+      "Index": 890,
+      "Name": "Rashaad Coward",
+      "Pos": "RT",
       "Status": "Signed",
       "Type": "Player",
       "Value": 645000
     },
     {
-      "Index": 897,
-      "Name": "Jesse Davis",
-      "Pos": "RG",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 898,
-      "Name": "Steve Longa",
-      "Pos": "43OLB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 570000
-    },
-    {
-      "Index": 899,
-      "Name": "Alex Redmond",
-      "Pos": "RG",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 900,
-      "Name": "Cameron Tom",
-      "Pos": "C",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "CTeam": 5,
-      "Index": 901,
-      "Name": "Jaydon Mickens",
-      "Pos": "WR",
-      "Status": "UFA",
-      "Type": "Player",
-      "Value": 510000
-    },
-    {
-      "Index": 902,
-      "Name": "Isaac Rochell",
-      "Pos": "43DE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 903,
-      "Name": "Ricky Seals-Jones",
-      "Pos": "TE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 904,
-      "Name": "Bryan Cox Jr.",
-      "Pos": "43DE",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 905,
-      "Name": "Isaiah Johnson",
-      "Pos": "S",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 906,
-      "Name": "Reid Ferguson",
-      "Pos": "LS",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 915000
-    },
-    {
-      "Index": 907,
-      "Name": "Elijah Lee",
-      "Pos": "ILB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 908,
-      "Name": "David Moore",
-      "Pos": "WR",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "CTeam": 26,
-      "Index": 909,
-      "Name": "Brad Kaaya",
-      "Pos": "QB",
-      "Status": "SFA",
-      "Type": "Player",
-      "Value": 510000
-    },
-    {
-      "Index": 910,
-      "Name": "Zach Sterup",
-      "Pos": "LT",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 911,
-      "Name": "Brandon Wilson",
-      "Pos": "S",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 912,
-      "Name": "Marcus Johnson",
-      "Pos": "CB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 913,
-      "Name": "Jake Elliott",
-      "Pos": "K",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 914,
-      "Name": "Trevon Coley",
-      "Pos": "43DT",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 915,
-      "Name": "Deon Lacey",
-      "Pos": "43OLB",
-      "Status": "Signed",
-      "Type": "Player",
-      "Value": 645000
-    },
-    {
-      "Index": 916,
+      "Index": 891,
       "Name": "Justin Hamilton",
       "Pos": "34DE",
       "Status": "Signed",
@@ -13065,7 +12919,217 @@
       "Value": 645000
     },
     {
+      "Index": 892,
+      "Name": "Matt LaCosse",
+      "Pos": "TE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 1400000
+    },
+    {
+      "Index": 893,
+      "Name": "Daniel Ross",
+      "Pos": "43DT",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 894,
+      "Name": "Jesse Davis",
+      "Pos": "RG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 895,
+      "Name": "Charles Washington",
+      "Pos": "S",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 896,
+      "Name": "Michael Liedtke",
+      "Pos": "LT",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 897,
+      "Name": "Jake Elliott",
+      "Pos": "K",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 898,
+      "Name": "Kevin Peterson",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 899,
+      "Name": "Reid Ferguson",
+      "Pos": "LS",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 915000
+    },
+    {
+      "Index": 900,
+      "Name": "Marcus Johnson",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 901,
+      "Name": "Trevon Coley",
+      "Pos": "43DT",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 902,
+      "Name": "Brandon Wilson",
+      "Pos": "S",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "CTeam": 26,
+      "Index": 903,
+      "Name": "Brad Kaaya",
+      "Pos": "QB",
+      "Status": "SFA",
+      "Type": "Player",
+      "Value": 510000
+    },
+    {
+      "Index": 904,
+      "Name": "Isaac Rochell",
+      "Pos": "43DE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 905,
+      "Name": "David Moore",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 906,
+      "Name": "Elijah Lee",
+      "Pos": "ILB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 907,
+      "Name": "Steve Longa",
+      "Pos": "43OLB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 570000
+    },
+    {
+      "Index": 908,
+      "Name": "Alex Redmond",
+      "Pos": "RG",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 909,
+      "Name": "Tony McRae",
+      "Pos": "CB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 910,
+      "Name": "Isaiah Johnson",
+      "Pos": "S",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 911,
+      "Name": "Deon Lacey",
+      "Pos": "43OLB",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 912,
+      "Name": "Zach Sterup",
+      "Pos": "LT",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 913,
+      "Name": "Bryan Cox Jr.",
+      "Pos": "43DE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 914,
+      "Name": "Cameron Tom",
+      "Pos": "C",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 915,
+      "Name": "Ricky Seals-Jones",
+      "Pos": "TE",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "CTeam": 5,
+      "Index": 916,
+      "Name": "Jaydon Mickens",
+      "Pos": "WR",
+      "Status": "UFA",
+      "Type": "Player",
+      "Value": 510000
+    },
+    {
       "Index": 917,
+      "Name": "Marvin Hall",
+      "Pos": "WR",
+      "Status": "Signed",
+      "Type": "Player",
+      "Value": 645000
+    },
+    {
+      "Index": 918,
       "Name": "Harrison Butker",
       "Pos": "K",
       "Status": "Signed",
@@ -13074,7 +13138,7 @@
     },
     {
       "CTeam": 4,
-      "Index": 918,
+      "Index": 919,
       "Name": "Manasseh Garner",
       "Pos": "TE",
       "Status": "SFA",
@@ -13082,7 +13146,7 @@
       "Value": 505000
     },
     {
-      "Index": 919,
+      "Index": 920,
       "Name": "Trey Hopkins",
       "Pos": "RG",
       "Status": "Signed",
@@ -13090,7 +13154,7 @@
       "Value": 3095000
     },
     {
-      "Index": 920,
+      "Index": 921,
       "Name": "C.J. Ham",
       "Pos": "RB",
       "Status": "Signed",
@@ -13098,7 +13162,7 @@
       "Value": 645000
     },
     {
-      "Index": 921,
+      "Index": 922,
       "Name": "Cedrick Lang",
       "Pos": "LG",
       "Status": "Signed",
@@ -13107,7 +13171,7 @@
     },
     {
       "CTeam": 20,
-      "Index": 922,
+      "Index": 923,
       "Name": "Pasoni Tasini",
       "Pos": "43DT",
       "Status": "SFA",
@@ -13116,7 +13180,7 @@
     },
     {
       "CTeam": 5,
-      "Index": 923,
+      "Index": 924,
       "Name": "Dimitri Flowers",
       "Pos": "FB",
       "Status": "SFA",
@@ -13125,7 +13189,7 @@
     },
     {
       "CTeam": 20,
-      "Index": 924,
+      "Index": 925,
       "Name": "Malachi Dupre",
       "Pos": "WR",
       "Status": "SFA",
@@ -13134,7 +13198,7 @@
     },
     {
       "CTeam": 15,
-      "Index": 925,
+      "Index": 926,
       "Name": "Lavon Coleman",
       "Pos": "RB",
       "Status": "SFA",
@@ -13143,7 +13207,7 @@
     },
     {
       "CTeam": 4,
-      "Index": 926,
+      "Index": 927,
       "Name": "Alex Carter",
       "Pos": "CB",
       "Status": "SFA",
@@ -13152,7 +13216,7 @@
     },
     {
       "CTeam": 23,
-      "Index": 927,
+      "Index": 928,
       "Name": "Steven Dunbar",
       "Pos": "WR",
       "Status": "SFA",
@@ -13160,7 +13224,7 @@
       "Value": 487500
     },
     {
-      "Index": 928,
+      "Index": 929,
       "Name": "Chris Reed",
       "Pos": "LG",
       "Status": "Signed",
@@ -13169,7 +13233,7 @@
     },
     {
       "CTeam": 8,
-      "Index": 929,
+      "Index": 930,
       "Name": "Jake McGee",
       "Pos": "TE",
       "Status": "UFA",
@@ -13177,7 +13241,7 @@
       "Value": 480000
     },
     {
-      "Index": 930,
+      "Index": 931,
       "Name": "Elijah Hood",
       "Pos": "RB",
       "Status": "Signed",
@@ -13186,7 +13250,7 @@
     },
     {
       "CTeam": 22,
-      "Index": 931,
+      "Index": 932,
       "Name": "Josiah Price",
       "Pos": "TE",
       "Status": "UFA",
@@ -13194,7 +13258,7 @@
       "Value": 480000
     },
     {
-      "Index": 932,
+      "Index": 933,
       "Name": "Artavis Scott",
       "Pos": "WR",
       "Status": "Signed",
@@ -13203,7 +13267,7 @@
     },
     {
       "CTeam": 8,
-      "Index": 933,
+      "Index": 934,
       "Name": "Keith Kelsey",
       "Pos": "ILB",
       "Status": "UFA",
@@ -13211,7 +13275,7 @@
       "Value": 480000
     },
     {
-      "Index": 934,
+      "Index": 935,
       "Name": "Jake Kumerow",
       "Pos": "WR",
       "Status": "Signed",
@@ -13219,7 +13283,7 @@
       "Value": 570000
     },
     {
-      "Index": 935,
+      "Index": 936,
       "Name": "Jason Cabinda",
       "Pos": "ILB",
       "Status": "Signed",
@@ -13227,7 +13291,7 @@
       "Value": 570000
     },
     {
-      "Index": 936,
+      "Index": 937,
       "Name": "DeAndre Carter",
       "Pos": "WR",
       "Status": "Signed",
@@ -13236,7 +13300,7 @@
     },
     {
       "CTeam": 9,
-      "Index": 937,
+      "Index": 938,
       "Name": "Tevin Mitchel",
       "Pos": "CB",
       "Status": "UFA",
@@ -13244,7 +13308,7 @@
       "Value": 480000
     },
     {
-      "Index": 938,
+      "Index": 939,
       "Name": "Damian Parms",
       "Pos": "S",
       "Status": "Signed",
@@ -13252,7 +13316,7 @@
       "Value": 495000
     },
     {
-      "Index": 939,
+      "Index": 940,
       "Name": "Efe Obada",
       "Pos": "43DE",
       "Status": "Signed",
@@ -13261,7 +13325,7 @@
     },
     {
       "CTeam": 14,
-      "Index": 940,
+      "Index": 941,
       "Name": "Garrett Sickels",
       "Pos": "34OLB",
       "Status": "UFA",
@@ -13269,7 +13333,7 @@
       "Value": 480000
     },
     {
-      "Index": 941,
+      "Index": 942,
       "Name": "Emmanuel Ellerbee",
       "Pos": "43OLB",
       "Status": "Signed",
@@ -13278,7 +13342,7 @@
     },
     {
       "CTeam": 8,
-      "Index": 942,
+      "Index": 943,
       "Name": "Joseph Cheek",
       "Pos": "RT",
       "Status": "UFA",
@@ -13286,7 +13350,7 @@
       "Value": 480000
     },
     {
-      "Index": 943,
+      "Index": 944,
       "Name": "Ben Braden",
       "Pos": "LT",
       "Status": "Signed",
@@ -13294,7 +13358,7 @@
       "Value": 570000
     },
     {
-      "Index": 944,
+      "Index": 945,
       "Name": "De'Lance Turner",
       "Pos": "RB",
       "Status": "Signed",
@@ -13302,7 +13366,7 @@
       "Value": 570000
     },
     {
-      "Index": 945,
+      "Index": 946,
       "Name": "KhaDarel Hodge",
       "Pos": "WR",
       "Status": "Signed",
@@ -13310,7 +13374,7 @@
       "Value": 570000
     },
     {
-      "Index": 946,
+      "Index": 947,
       "Name": "Fadol Brown",
       "Pos": "34DE",
       "Status": "Signed",
@@ -13319,7 +13383,7 @@
     },
     {
       "CTeam": 18,
-      "Index": 947,
+      "Index": 948,
       "Name": "Ricky Ali'ifua",
       "Pos": "43DE",
       "Status": "UFA",
@@ -13328,7 +13392,7 @@
     },
     {
       "CTeam": 18,
-      "Index": 948,
+      "Index": 949,
       "Name": "T.J. Mutcherson",
       "Pos": "S",
       "Status": "UFA",
@@ -13336,7 +13400,7 @@
       "Value": 480000
     },
     {
-      "Index": 949,
+      "Index": 950,
       "Name": "Robert Tonyan",
       "Pos": "TE",
       "Status": "Signed",
@@ -13344,7 +13408,7 @@
       "Value": 570000
     },
     {
-      "Index": 950,
+      "Index": 951,
       "Name": "Steven Moore",
       "Pos": "T",
       "Status": "Signed",
@@ -13352,7 +13416,7 @@
       "Value": 495000
     },
     {
-      "Index": 951,
+      "Index": 952,
       "Name": "Cody Hollister",
       "Pos": "WR",
       "Status": "Signed",
@@ -13360,7 +13424,7 @@
       "Value": 540000
     },
     {
-      "Index": 952,
+      "Index": 953,
       "Name": "Daniel Carlson",
       "Pos": "K",
       "Status": "Signed",
@@ -13368,7 +13432,7 @@
       "Value": 570000
     },
     {
-      "Index": 953,
+      "Index": 954,
       "Name": "Jordan Simmons",
       "Pos": "G",
       "Status": "Signed",
@@ -13376,7 +13440,7 @@
       "Value": 570000
     },
     {
-      "Index": 954,
+      "Index": 955,
       "Name": "Marcell Ateman",
       "Pos": "WR",
       "Status": "Signed",
@@ -13384,7 +13448,7 @@
       "Value": 570000
     },
     {
-      "Index": 955,
+      "Index": 956,
       "Name": "Trent Sieg",
       "Pos": "LS",
       "Status": "Signed",
@@ -13393,7 +13457,7 @@
     },
     {
       "CTeam": 30,
-      "Index": 956,
+      "Index": 957,
       "Name": "Rickey Jefferson",
       "Pos": "S",
       "Status": "UFA",
@@ -13401,7 +13465,7 @@
       "Value": 480000
     },
     {
-      "Index": 957,
+      "Index": 958,
       "Name": "Austin Calitro",
       "Pos": "ILB",
       "Status": "Signed",
@@ -13409,7 +13473,7 @@
       "Value": 570000
     },
     {
-      "Index": 958,
+      "Index": 959,
       "Name": "Deontay Burnett",
       "Pos": "WR",
       "Status": "Signed",
@@ -13417,7 +13481,7 @@
       "Value": 570000
     },
     {
-      "Index": 959,
+      "Index": 960,
       "Name": "Tim Patrick",
       "Pos": "WR",
       "Status": "Signed",
@@ -13425,7 +13489,7 @@
       "Value": 570000
     },
     {
-      "Index": 960,
+      "Index": 961,
       "Name": "Quincy Adeboyejo",
       "Pos": "WR",
       "Status": "Signed",
@@ -13434,7 +13498,7 @@
     },
     {
       "CTeam": 8,
-      "Index": 961,
+      "Index": 962,
       "Name": "Malik Golden",
       "Pos": "S",
       "Status": "UFA",
@@ -13442,7 +13506,7 @@
       "Value": 480000
     },
     {
-      "Index": 962,
+      "Index": 963,
       "Name": "Frankie Luvu",
       "Pos": "34OLB",
       "Status": "Signed",
@@ -13450,7 +13514,7 @@
       "Value": 570000
     },
     {
-      "Index": 963,
+      "Index": 964,
       "Name": "Anthony Wint",
       "Pos": "ILB",
       "Status": "Signed",
@@ -13458,7 +13522,7 @@
       "Value": 495000
     },
     {
-      "Index": 964,
+      "Index": 965,
       "Name": "Gus Edwards",
       "Pos": "RB",
       "Status": "Signed",
@@ -13466,7 +13530,7 @@
       "Value": 570000
     },
     {
-      "Index": 965,
+      "Index": 966,
       "Name": "Reggie Gilbert",
       "Pos": "34OLB",
       "Status": "Signed",
@@ -13474,7 +13538,7 @@
       "Value": 570000
     },
     {
-      "Index": 966,
+      "Index": 967,
       "Name": "Justin Murray",
       "Pos": "LT",
       "Status": "Signed",
@@ -13482,7 +13546,7 @@
       "Value": 570000
     },
     {
-      "Index": 967,
+      "Index": 968,
       "Name": "Marcus Kemp",
       "Pos": "WR",
       "Status": "Signed",
@@ -13490,7 +13554,7 @@
       "Value": 570000
     },
     {
-      "Index": 968,
+      "Index": 969,
       "Name": "Dymonte Thomas",
       "Pos": "S",
       "Status": "Signed",
@@ -13498,7 +13562,7 @@
       "Value": 645000
     },
     {
-      "Index": 969,
+      "Index": 970,
       "Name": "Jester Weah",
       "Pos": "WR",
       "Status": "Signed",
@@ -13506,7 +13570,7 @@
       "Value": 540000
     },
     {
-      "Index": 970,
+      "Index": 971,
       "Name": "Tyrone Holmes",
       "Pos": "34OLB",
       "Status": "Signed",

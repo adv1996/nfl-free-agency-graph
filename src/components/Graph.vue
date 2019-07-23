@@ -589,7 +589,4 @@ div.legend_area {
 #legend {
   z-index: 200;
 }
-#teams {
-  background: black;
-}
 </style>
