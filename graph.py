@@ -1,5 +1,6 @@
 import json
 import pandas
+import math
 # import latest_transactions
 df = pandas.read_csv('nflfa2019.csv')
 
@@ -98,6 +99,8 @@ def setTeamNodes():
       # for players that are unsiged we should look them up in latest_transactions.py
       playerIndex = i + 32
       source = teams[row['2018 Team']][1]
+      if row['Type'] is not str:
+        row['Type'] = 'Not Available'
       n = {
         'Name': row['Player'],
         'Type': 'Player',
